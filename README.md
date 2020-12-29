@@ -97,6 +97,15 @@ Group:      travel-places
 Sub-Group:  place-building
 Tags:       bricks, clay, mortar, wall
 SVG:        https://raw.githubusercontent.com/hfg-gmuend/openmoji/4a80b536eb62a78822548a2aa371426f912d7e9d/color/svg/1F9F1.svg
+
+Results for 'pilot':
+Emoji:      🧑‍✈️
+Hexcode:    1F9D1-200D-2708-FE0F
+Annotation: pilot
+Group:      people-body
+Sub-Group:  person-role
+Tags:       plane
+SVG:        https://raw.githubusercontent.com/hfg-gmuend/openmoji/4a80b536eb62a78822548a2aa371426f912d7e9d/color/svg/1F9D1-200D-2708-FE0F.svg
 ```
 
 About the Emojis
