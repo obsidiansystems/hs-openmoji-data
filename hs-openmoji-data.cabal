@@ -5,7 +5,7 @@ synopsis:           The OpenMoji emoji dataset
 description:
   This library simply exposes the OpenMoji emoji dataset as some data in Haskell
 
-bug-reports:        https://github.com/obsidiansystems/hs-openmoji-data
+bug-reports:        https://github.com/obsidiansystems/hs-openmoji-data/issues
 license:            BSD3
 license-file:       LICENSE
 author:             Obsidian Systems LLC
