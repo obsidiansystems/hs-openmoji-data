@@ -8,6 +8,10 @@ The OpenMoji emoji dataset for use in Haskell programs.
 For emoji fonts, images, and spritesheets, please consult the documentation at [openmoji.org](https://openmoji.org/).
 
 
+* [Updating the emojis](#updating-the-emojis)
+* [Versioning](#versioning)
+* [Example Usage](#example-usage)
+* [About the Emojis](#about-the-emojis)
 
 Updating the emojis
 -------------------
