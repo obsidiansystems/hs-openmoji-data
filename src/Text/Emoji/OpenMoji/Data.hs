@@ -2641,7 +2641,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "eye in speech bubble"
-    , _openMoji_emoji = "\x1F441-FE0F-200D-1F5E8-FE0F"
+    , _openMoji_emoji = "\x1F441\xFE0F\x200D\x1F5E8\xFE0F"
     , _openMoji_group = "smileys-emotion"
     , _openMoji_hexcode = "1F441-FE0F-200D-1F5E8-FE0F"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2749,7 +2749,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "waving hand: light skin tone"
-    , _openMoji_emoji = "\x1F44B-1F3FB"
+    , _openMoji_emoji = "\x1F44B\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44B-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2767,7 +2767,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "waving hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F44B-1F3FC"
+    , _openMoji_emoji = "\x1F44B\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44B-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2785,7 +2785,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "waving hand: medium skin tone"
-    , _openMoji_emoji = "\x1F44B-1F3FD"
+    , _openMoji_emoji = "\x1F44B\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44B-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2803,7 +2803,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "waving hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F44B-1F3FE"
+    , _openMoji_emoji = "\x1F44B\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44B-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2821,7 +2821,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "waving hand: dark skin tone"
-    , _openMoji_emoji = "\x1F44B-1F3FF"
+    , _openMoji_emoji = "\x1F44B\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44B-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2857,7 +2857,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised back of hand: light skin tone"
-    , _openMoji_emoji = "\x1F91A-1F3FB"
+    , _openMoji_emoji = "\x1F91A\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91A-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2875,7 +2875,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised back of hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F91A-1F3FC"
+    , _openMoji_emoji = "\x1F91A\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91A-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2893,7 +2893,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised back of hand: medium skin tone"
-    , _openMoji_emoji = "\x1F91A-1F3FD"
+    , _openMoji_emoji = "\x1F91A\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91A-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2911,7 +2911,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised back of hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F91A-1F3FE"
+    , _openMoji_emoji = "\x1F91A\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91A-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2929,7 +2929,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised back of hand: dark skin tone"
-    , _openMoji_emoji = "\x1F91A-1F3FF"
+    , _openMoji_emoji = "\x1F91A\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91A-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2965,7 +2965,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "hand with fingers splayed: light skin tone"
-    , _openMoji_emoji = "\x1F590-1F3FB"
+    , _openMoji_emoji = "\x1F590\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F590-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -2983,7 +2983,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "hand with fingers splayed: medium-light skin tone"
-    , _openMoji_emoji = "\x1F590-1F3FC"
+    , _openMoji_emoji = "\x1F590\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F590-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3001,7 +3001,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "hand with fingers splayed: medium skin tone"
-    , _openMoji_emoji = "\x1F590-1F3FD"
+    , _openMoji_emoji = "\x1F590\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F590-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3019,7 +3019,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "hand with fingers splayed: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F590-1F3FE"
+    , _openMoji_emoji = "\x1F590\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F590-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3037,7 +3037,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "hand with fingers splayed: dark skin tone"
-    , _openMoji_emoji = "\x1F590-1F3FF"
+    , _openMoji_emoji = "\x1F590\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F590-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3073,7 +3073,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised hand: light skin tone"
-    , _openMoji_emoji = "\x270B-1F3FB"
+    , _openMoji_emoji = "\x270B\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270B-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3091,7 +3091,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised hand: medium-light skin tone"
-    , _openMoji_emoji = "\x270B-1F3FC"
+    , _openMoji_emoji = "\x270B\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270B-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3109,7 +3109,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised hand: medium skin tone"
-    , _openMoji_emoji = "\x270B-1F3FD"
+    , _openMoji_emoji = "\x270B\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270B-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3127,7 +3127,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x270B-1F3FE"
+    , _openMoji_emoji = "\x270B\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270B-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3145,7 +3145,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised hand: dark skin tone"
-    , _openMoji_emoji = "\x270B-1F3FF"
+    , _openMoji_emoji = "\x270B\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270B-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3181,7 +3181,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vulcan salute: light skin tone"
-    , _openMoji_emoji = "\x1F596-1F3FB"
+    , _openMoji_emoji = "\x1F596\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F596-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3199,7 +3199,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vulcan salute: medium-light skin tone"
-    , _openMoji_emoji = "\x1F596-1F3FC"
+    , _openMoji_emoji = "\x1F596\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F596-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3217,7 +3217,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vulcan salute: medium skin tone"
-    , _openMoji_emoji = "\x1F596-1F3FD"
+    , _openMoji_emoji = "\x1F596\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F596-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3235,7 +3235,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vulcan salute: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F596-1F3FE"
+    , _openMoji_emoji = "\x1F596\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F596-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3253,7 +3253,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vulcan salute: dark skin tone"
-    , _openMoji_emoji = "\x1F596-1F3FF"
+    , _openMoji_emoji = "\x1F596\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F596-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3289,7 +3289,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "OK hand: light skin tone"
-    , _openMoji_emoji = "\x1F44C-1F3FB"
+    , _openMoji_emoji = "\x1F44C\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44C-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3307,7 +3307,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "OK hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F44C-1F3FC"
+    , _openMoji_emoji = "\x1F44C\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44C-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3325,7 +3325,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "OK hand: medium skin tone"
-    , _openMoji_emoji = "\x1F44C-1F3FD"
+    , _openMoji_emoji = "\x1F44C\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44C-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3343,7 +3343,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "OK hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F44C-1F3FE"
+    , _openMoji_emoji = "\x1F44C\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44C-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3361,7 +3361,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "OK hand: dark skin tone"
-    , _openMoji_emoji = "\x1F44C-1F3FF"
+    , _openMoji_emoji = "\x1F44C\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44C-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3397,7 +3397,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinched fingers: light skin tone"
-    , _openMoji_emoji = "\x1F90C-1F3FB"
+    , _openMoji_emoji = "\x1F90C\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90C-1F3FB"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -3415,7 +3415,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinched fingers: medium-light skin tone"
-    , _openMoji_emoji = "\x1F90C-1F3FC"
+    , _openMoji_emoji = "\x1F90C\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90C-1F3FC"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -3433,7 +3433,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinched fingers: medium skin tone"
-    , _openMoji_emoji = "\x1F90C-1F3FD"
+    , _openMoji_emoji = "\x1F90C\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90C-1F3FD"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -3451,7 +3451,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinched fingers: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F90C-1F3FE"
+    , _openMoji_emoji = "\x1F90C\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90C-1F3FE"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -3469,7 +3469,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinched fingers: dark skin tone"
-    , _openMoji_emoji = "\x1F90C-1F3FF"
+    , _openMoji_emoji = "\x1F90C\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90C-1F3FF"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -3505,7 +3505,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinching hand: light skin tone"
-    , _openMoji_emoji = "\x1F90F-1F3FB"
+    , _openMoji_emoji = "\x1F90F\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90F-1F3FB"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -3523,7 +3523,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinching hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F90F-1F3FC"
+    , _openMoji_emoji = "\x1F90F\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90F-1F3FC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -3541,7 +3541,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinching hand: medium skin tone"
-    , _openMoji_emoji = "\x1F90F-1F3FD"
+    , _openMoji_emoji = "\x1F90F\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90F-1F3FD"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -3559,7 +3559,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinching hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F90F-1F3FE"
+    , _openMoji_emoji = "\x1F90F\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90F-1F3FE"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -3577,7 +3577,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pinching hand: dark skin tone"
-    , _openMoji_emoji = "\x1F90F-1F3FF"
+    , _openMoji_emoji = "\x1F90F\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F90F-1F3FF"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -3613,7 +3613,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "victory hand: light skin tone"
-    , _openMoji_emoji = "\x270C-1F3FB"
+    , _openMoji_emoji = "\x270C\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270C-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3631,7 +3631,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "victory hand: medium-light skin tone"
-    , _openMoji_emoji = "\x270C-1F3FC"
+    , _openMoji_emoji = "\x270C\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270C-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3649,7 +3649,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "victory hand: medium skin tone"
-    , _openMoji_emoji = "\x270C-1F3FD"
+    , _openMoji_emoji = "\x270C\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270C-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3667,7 +3667,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "victory hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x270C-1F3FE"
+    , _openMoji_emoji = "\x270C\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270C-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3685,7 +3685,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "victory hand: dark skin tone"
-    , _openMoji_emoji = "\x270C-1F3FF"
+    , _openMoji_emoji = "\x270C\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270C-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3721,7 +3721,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "crossed fingers: light skin tone"
-    , _openMoji_emoji = "\x1F91E-1F3FB"
+    , _openMoji_emoji = "\x1F91E\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91E-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3739,7 +3739,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "crossed fingers: medium-light skin tone"
-    , _openMoji_emoji = "\x1F91E-1F3FC"
+    , _openMoji_emoji = "\x1F91E\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91E-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3757,7 +3757,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "crossed fingers: medium skin tone"
-    , _openMoji_emoji = "\x1F91E-1F3FD"
+    , _openMoji_emoji = "\x1F91E\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91E-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3775,7 +3775,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "crossed fingers: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F91E-1F3FE"
+    , _openMoji_emoji = "\x1F91E\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91E-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3793,7 +3793,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "crossed fingers: dark skin tone"
-    , _openMoji_emoji = "\x1F91E-1F3FF"
+    , _openMoji_emoji = "\x1F91E\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91E-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3829,7 +3829,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "love-you gesture: light skin tone"
-    , _openMoji_emoji = "\x1F91F-1F3FB"
+    , _openMoji_emoji = "\x1F91F\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91F-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3847,7 +3847,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "love-you gesture: medium-light skin tone"
-    , _openMoji_emoji = "\x1F91F-1F3FC"
+    , _openMoji_emoji = "\x1F91F\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91F-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3865,7 +3865,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "love-you gesture: medium skin tone"
-    , _openMoji_emoji = "\x1F91F-1F3FD"
+    , _openMoji_emoji = "\x1F91F\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91F-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3883,7 +3883,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "love-you gesture: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F91F-1F3FE"
+    , _openMoji_emoji = "\x1F91F\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91F-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3901,7 +3901,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "love-you gesture: dark skin tone"
-    , _openMoji_emoji = "\x1F91F-1F3FF"
+    , _openMoji_emoji = "\x1F91F\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91F-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3937,7 +3937,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "sign of the horns: light skin tone"
-    , _openMoji_emoji = "\x1F918-1F3FB"
+    , _openMoji_emoji = "\x1F918\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F918-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3955,7 +3955,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "sign of the horns: medium-light skin tone"
-    , _openMoji_emoji = "\x1F918-1F3FC"
+    , _openMoji_emoji = "\x1F918\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F918-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3973,7 +3973,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "sign of the horns: medium skin tone"
-    , _openMoji_emoji = "\x1F918-1F3FD"
+    , _openMoji_emoji = "\x1F918\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F918-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -3991,7 +3991,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "sign of the horns: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F918-1F3FE"
+    , _openMoji_emoji = "\x1F918\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F918-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4009,7 +4009,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "sign of the horns: dark skin tone"
-    , _openMoji_emoji = "\x1F918-1F3FF"
+    , _openMoji_emoji = "\x1F918\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F918-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4045,7 +4045,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "call me hand: light skin tone"
-    , _openMoji_emoji = "\x1F919-1F3FB"
+    , _openMoji_emoji = "\x1F919\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F919-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4063,7 +4063,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "call me hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F919-1F3FC"
+    , _openMoji_emoji = "\x1F919\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F919-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4081,7 +4081,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "call me hand: medium skin tone"
-    , _openMoji_emoji = "\x1F919-1F3FD"
+    , _openMoji_emoji = "\x1F919\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F919-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4099,7 +4099,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "call me hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F919-1F3FE"
+    , _openMoji_emoji = "\x1F919\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F919-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4117,7 +4117,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "call me hand: dark skin tone"
-    , _openMoji_emoji = "\x1F919-1F3FF"
+    , _openMoji_emoji = "\x1F919\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F919-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4153,7 +4153,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing left: light skin tone"
-    , _openMoji_emoji = "\x1F448-1F3FB"
+    , _openMoji_emoji = "\x1F448\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F448-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4171,7 +4171,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing left: medium-light skin tone"
-    , _openMoji_emoji = "\x1F448-1F3FC"
+    , _openMoji_emoji = "\x1F448\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F448-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4189,7 +4189,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing left: medium skin tone"
-    , _openMoji_emoji = "\x1F448-1F3FD"
+    , _openMoji_emoji = "\x1F448\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F448-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4207,7 +4207,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing left: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F448-1F3FE"
+    , _openMoji_emoji = "\x1F448\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F448-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4225,7 +4225,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing left: dark skin tone"
-    , _openMoji_emoji = "\x1F448-1F3FF"
+    , _openMoji_emoji = "\x1F448\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F448-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4261,7 +4261,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing right: light skin tone"
-    , _openMoji_emoji = "\x1F449-1F3FB"
+    , _openMoji_emoji = "\x1F449\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F449-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4279,7 +4279,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing right: medium-light skin tone"
-    , _openMoji_emoji = "\x1F449-1F3FC"
+    , _openMoji_emoji = "\x1F449\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F449-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4297,7 +4297,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing right: medium skin tone"
-    , _openMoji_emoji = "\x1F449-1F3FD"
+    , _openMoji_emoji = "\x1F449\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F449-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4315,7 +4315,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing right: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F449-1F3FE"
+    , _openMoji_emoji = "\x1F449\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F449-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4333,7 +4333,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing right: dark skin tone"
-    , _openMoji_emoji = "\x1F449-1F3FF"
+    , _openMoji_emoji = "\x1F449\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F449-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4369,7 +4369,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing up: light skin tone"
-    , _openMoji_emoji = "\x1F446-1F3FB"
+    , _openMoji_emoji = "\x1F446\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F446-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4387,7 +4387,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing up: medium-light skin tone"
-    , _openMoji_emoji = "\x1F446-1F3FC"
+    , _openMoji_emoji = "\x1F446\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F446-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4405,7 +4405,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing up: medium skin tone"
-    , _openMoji_emoji = "\x1F446-1F3FD"
+    , _openMoji_emoji = "\x1F446\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F446-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4423,7 +4423,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing up: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F446-1F3FE"
+    , _openMoji_emoji = "\x1F446\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F446-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4441,7 +4441,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing up: dark skin tone"
-    , _openMoji_emoji = "\x1F446-1F3FF"
+    , _openMoji_emoji = "\x1F446\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F446-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4477,7 +4477,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "middle finger: light skin tone"
-    , _openMoji_emoji = "\x1F595-1F3FB"
+    , _openMoji_emoji = "\x1F595\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F595-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4495,7 +4495,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "middle finger: medium-light skin tone"
-    , _openMoji_emoji = "\x1F595-1F3FC"
+    , _openMoji_emoji = "\x1F595\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F595-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4513,7 +4513,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "middle finger: medium skin tone"
-    , _openMoji_emoji = "\x1F595-1F3FD"
+    , _openMoji_emoji = "\x1F595\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F595-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4531,7 +4531,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "middle finger: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F595-1F3FE"
+    , _openMoji_emoji = "\x1F595\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F595-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4549,7 +4549,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "middle finger: dark skin tone"
-    , _openMoji_emoji = "\x1F595-1F3FF"
+    , _openMoji_emoji = "\x1F595\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F595-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4585,7 +4585,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing down: light skin tone"
-    , _openMoji_emoji = "\x1F447-1F3FB"
+    , _openMoji_emoji = "\x1F447\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F447-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4603,7 +4603,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing down: medium-light skin tone"
-    , _openMoji_emoji = "\x1F447-1F3FC"
+    , _openMoji_emoji = "\x1F447\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F447-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4621,7 +4621,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing down: medium skin tone"
-    , _openMoji_emoji = "\x1F447-1F3FD"
+    , _openMoji_emoji = "\x1F447\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F447-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4639,7 +4639,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing down: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F447-1F3FE"
+    , _openMoji_emoji = "\x1F447\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F447-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4657,7 +4657,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "backhand index pointing down: dark skin tone"
-    , _openMoji_emoji = "\x1F447-1F3FF"
+    , _openMoji_emoji = "\x1F447\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F447-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4693,7 +4693,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "index pointing up: light skin tone"
-    , _openMoji_emoji = "\x261D-1F3FB"
+    , _openMoji_emoji = "\x261D\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "261D-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4711,7 +4711,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "index pointing up: medium-light skin tone"
-    , _openMoji_emoji = "\x261D-1F3FC"
+    , _openMoji_emoji = "\x261D\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "261D-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4729,7 +4729,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "index pointing up: medium skin tone"
-    , _openMoji_emoji = "\x261D-1F3FD"
+    , _openMoji_emoji = "\x261D\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "261D-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4747,7 +4747,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "index pointing up: medium-dark skin tone"
-    , _openMoji_emoji = "\x261D-1F3FE"
+    , _openMoji_emoji = "\x261D\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "261D-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4765,7 +4765,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "index pointing up: dark skin tone"
-    , _openMoji_emoji = "\x261D-1F3FF"
+    , _openMoji_emoji = "\x261D\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "261D-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4801,7 +4801,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs up: light skin tone"
-    , _openMoji_emoji = "\x1F44D-1F3FB"
+    , _openMoji_emoji = "\x1F44D\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44D-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4819,7 +4819,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs up: medium-light skin tone"
-    , _openMoji_emoji = "\x1F44D-1F3FC"
+    , _openMoji_emoji = "\x1F44D\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44D-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4837,7 +4837,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs up: medium skin tone"
-    , _openMoji_emoji = "\x1F44D-1F3FD"
+    , _openMoji_emoji = "\x1F44D\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44D-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4855,7 +4855,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs up: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F44D-1F3FE"
+    , _openMoji_emoji = "\x1F44D\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44D-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4873,7 +4873,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs up: dark skin tone"
-    , _openMoji_emoji = "\x1F44D-1F3FF"
+    , _openMoji_emoji = "\x1F44D\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44D-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4909,7 +4909,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs down: light skin tone"
-    , _openMoji_emoji = "\x1F44E-1F3FB"
+    , _openMoji_emoji = "\x1F44E\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44E-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4927,7 +4927,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs down: medium-light skin tone"
-    , _openMoji_emoji = "\x1F44E-1F3FC"
+    , _openMoji_emoji = "\x1F44E\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44E-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4945,7 +4945,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs down: medium skin tone"
-    , _openMoji_emoji = "\x1F44E-1F3FD"
+    , _openMoji_emoji = "\x1F44E\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44E-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4963,7 +4963,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs down: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F44E-1F3FE"
+    , _openMoji_emoji = "\x1F44E\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44E-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -4981,7 +4981,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "thumbs down: dark skin tone"
-    , _openMoji_emoji = "\x1F44E-1F3FF"
+    , _openMoji_emoji = "\x1F44E\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44E-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5017,7 +5017,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised fist: light skin tone"
-    , _openMoji_emoji = "\x270A-1F3FB"
+    , _openMoji_emoji = "\x270A\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270A-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5035,7 +5035,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised fist: medium-light skin tone"
-    , _openMoji_emoji = "\x270A-1F3FC"
+    , _openMoji_emoji = "\x270A\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270A-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5053,7 +5053,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised fist: medium skin tone"
-    , _openMoji_emoji = "\x270A-1F3FD"
+    , _openMoji_emoji = "\x270A\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270A-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5071,7 +5071,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised fist: medium-dark skin tone"
-    , _openMoji_emoji = "\x270A-1F3FE"
+    , _openMoji_emoji = "\x270A\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270A-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5089,7 +5089,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raised fist: dark skin tone"
-    , _openMoji_emoji = "\x270A-1F3FF"
+    , _openMoji_emoji = "\x270A\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270A-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5125,7 +5125,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "oncoming fist: light skin tone"
-    , _openMoji_emoji = "\x1F44A-1F3FB"
+    , _openMoji_emoji = "\x1F44A\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44A-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5143,7 +5143,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "oncoming fist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F44A-1F3FC"
+    , _openMoji_emoji = "\x1F44A\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44A-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5161,7 +5161,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "oncoming fist: medium skin tone"
-    , _openMoji_emoji = "\x1F44A-1F3FD"
+    , _openMoji_emoji = "\x1F44A\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44A-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5179,7 +5179,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "oncoming fist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F44A-1F3FE"
+    , _openMoji_emoji = "\x1F44A\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44A-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5197,7 +5197,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "oncoming fist: dark skin tone"
-    , _openMoji_emoji = "\x1F44A-1F3FF"
+    , _openMoji_emoji = "\x1F44A\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44A-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5233,7 +5233,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "left-facing fist: light skin tone"
-    , _openMoji_emoji = "\x1F91B-1F3FB"
+    , _openMoji_emoji = "\x1F91B\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91B-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5251,7 +5251,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "left-facing fist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F91B-1F3FC"
+    , _openMoji_emoji = "\x1F91B\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91B-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5269,7 +5269,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "left-facing fist: medium skin tone"
-    , _openMoji_emoji = "\x1F91B-1F3FD"
+    , _openMoji_emoji = "\x1F91B\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91B-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5287,7 +5287,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "left-facing fist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F91B-1F3FE"
+    , _openMoji_emoji = "\x1F91B\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91B-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5305,7 +5305,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "left-facing fist: dark skin tone"
-    , _openMoji_emoji = "\x1F91B-1F3FF"
+    , _openMoji_emoji = "\x1F91B\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91B-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5341,7 +5341,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "right-facing fist: light skin tone"
-    , _openMoji_emoji = "\x1F91C-1F3FB"
+    , _openMoji_emoji = "\x1F91C\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91C-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5359,7 +5359,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "right-facing fist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F91C-1F3FC"
+    , _openMoji_emoji = "\x1F91C\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91C-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5377,7 +5377,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "right-facing fist: medium skin tone"
-    , _openMoji_emoji = "\x1F91C-1F3FD"
+    , _openMoji_emoji = "\x1F91C\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91C-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5395,7 +5395,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "right-facing fist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F91C-1F3FE"
+    , _openMoji_emoji = "\x1F91C\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91C-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5413,7 +5413,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "right-facing fist: dark skin tone"
-    , _openMoji_emoji = "\x1F91C-1F3FF"
+    , _openMoji_emoji = "\x1F91C\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F91C-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5449,7 +5449,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "clapping hands: light skin tone"
-    , _openMoji_emoji = "\x1F44F-1F3FB"
+    , _openMoji_emoji = "\x1F44F\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44F-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5467,7 +5467,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "clapping hands: medium-light skin tone"
-    , _openMoji_emoji = "\x1F44F-1F3FC"
+    , _openMoji_emoji = "\x1F44F\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44F-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5485,7 +5485,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "clapping hands: medium skin tone"
-    , _openMoji_emoji = "\x1F44F-1F3FD"
+    , _openMoji_emoji = "\x1F44F\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44F-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5503,7 +5503,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "clapping hands: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F44F-1F3FE"
+    , _openMoji_emoji = "\x1F44F\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44F-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5521,7 +5521,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "clapping hands: dark skin tone"
-    , _openMoji_emoji = "\x1F44F-1F3FF"
+    , _openMoji_emoji = "\x1F44F\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F44F-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5557,7 +5557,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raising hands: light skin tone"
-    , _openMoji_emoji = "\x1F64C-1F3FB"
+    , _openMoji_emoji = "\x1F64C\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64C-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5575,7 +5575,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raising hands: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64C-1F3FC"
+    , _openMoji_emoji = "\x1F64C\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64C-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5593,7 +5593,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raising hands: medium skin tone"
-    , _openMoji_emoji = "\x1F64C-1F3FD"
+    , _openMoji_emoji = "\x1F64C\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64C-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5611,7 +5611,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raising hands: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64C-1F3FE"
+    , _openMoji_emoji = "\x1F64C\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64C-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5629,7 +5629,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "raising hands: dark skin tone"
-    , _openMoji_emoji = "\x1F64C-1F3FF"
+    , _openMoji_emoji = "\x1F64C\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64C-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5665,7 +5665,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "open hands: light skin tone"
-    , _openMoji_emoji = "\x1F450-1F3FB"
+    , _openMoji_emoji = "\x1F450\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F450-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5683,7 +5683,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "open hands: medium-light skin tone"
-    , _openMoji_emoji = "\x1F450-1F3FC"
+    , _openMoji_emoji = "\x1F450\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F450-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5701,7 +5701,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "open hands: medium skin tone"
-    , _openMoji_emoji = "\x1F450-1F3FD"
+    , _openMoji_emoji = "\x1F450\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F450-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5719,7 +5719,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "open hands: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F450-1F3FE"
+    , _openMoji_emoji = "\x1F450\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F450-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5737,7 +5737,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "open hands: dark skin tone"
-    , _openMoji_emoji = "\x1F450-1F3FF"
+    , _openMoji_emoji = "\x1F450\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F450-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5773,7 +5773,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "palms up together: light skin tone"
-    , _openMoji_emoji = "\x1F932-1F3FB"
+    , _openMoji_emoji = "\x1F932\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F932-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5791,7 +5791,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "palms up together: medium-light skin tone"
-    , _openMoji_emoji = "\x1F932-1F3FC"
+    , _openMoji_emoji = "\x1F932\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F932-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5809,7 +5809,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "palms up together: medium skin tone"
-    , _openMoji_emoji = "\x1F932-1F3FD"
+    , _openMoji_emoji = "\x1F932\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F932-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5827,7 +5827,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "palms up together: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F932-1F3FE"
+    , _openMoji_emoji = "\x1F932\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F932-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5845,7 +5845,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "palms up together: dark skin tone"
-    , _openMoji_emoji = "\x1F932-1F3FF"
+    , _openMoji_emoji = "\x1F932\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F932-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5899,7 +5899,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "folded hands: light skin tone"
-    , _openMoji_emoji = "\x1F64F-1F3FB"
+    , _openMoji_emoji = "\x1F64F\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64F-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5917,7 +5917,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "folded hands: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64F-1F3FC"
+    , _openMoji_emoji = "\x1F64F\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64F-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5935,7 +5935,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "folded hands: medium skin tone"
-    , _openMoji_emoji = "\x1F64F-1F3FD"
+    , _openMoji_emoji = "\x1F64F\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64F-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5953,7 +5953,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "folded hands: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64F-1F3FE"
+    , _openMoji_emoji = "\x1F64F\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64F-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -5971,7 +5971,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "folded hands: dark skin tone"
-    , _openMoji_emoji = "\x1F64F-1F3FF"
+    , _openMoji_emoji = "\x1F64F\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64F-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6007,7 +6007,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "writing hand: light skin tone"
-    , _openMoji_emoji = "\x270D-1F3FB"
+    , _openMoji_emoji = "\x270D\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270D-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6025,7 +6025,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "writing hand: medium-light skin tone"
-    , _openMoji_emoji = "\x270D-1F3FC"
+    , _openMoji_emoji = "\x270D\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270D-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6043,7 +6043,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "writing hand: medium skin tone"
-    , _openMoji_emoji = "\x270D-1F3FD"
+    , _openMoji_emoji = "\x270D\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270D-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6061,7 +6061,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "writing hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x270D-1F3FE"
+    , _openMoji_emoji = "\x270D\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270D-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6079,7 +6079,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "writing hand: dark skin tone"
-    , _openMoji_emoji = "\x270D-1F3FF"
+    , _openMoji_emoji = "\x270D\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "270D-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6115,7 +6115,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nail polish: light skin tone"
-    , _openMoji_emoji = "\x1F485-1F3FB"
+    , _openMoji_emoji = "\x1F485\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F485-1F3FB"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6133,7 +6133,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nail polish: medium-light skin tone"
-    , _openMoji_emoji = "\x1F485-1F3FC"
+    , _openMoji_emoji = "\x1F485\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F485-1F3FC"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6151,7 +6151,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nail polish: medium skin tone"
-    , _openMoji_emoji = "\x1F485-1F3FD"
+    , _openMoji_emoji = "\x1F485\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F485-1F3FD"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6169,7 +6169,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nail polish: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F485-1F3FE"
+    , _openMoji_emoji = "\x1F485\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F485-1F3FE"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6187,7 +6187,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nail polish: dark skin tone"
-    , _openMoji_emoji = "\x1F485-1F3FF"
+    , _openMoji_emoji = "\x1F485\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F485-1F3FF"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6223,7 +6223,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "selfie: light skin tone"
-    , _openMoji_emoji = "\x1F933-1F3FB"
+    , _openMoji_emoji = "\x1F933\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F933-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6241,7 +6241,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "selfie: medium-light skin tone"
-    , _openMoji_emoji = "\x1F933-1F3FC"
+    , _openMoji_emoji = "\x1F933\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F933-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6259,7 +6259,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "selfie: medium skin tone"
-    , _openMoji_emoji = "\x1F933-1F3FD"
+    , _openMoji_emoji = "\x1F933\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F933-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6277,7 +6277,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "selfie: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F933-1F3FE"
+    , _openMoji_emoji = "\x1F933\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F933-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6295,7 +6295,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "selfie: dark skin tone"
-    , _openMoji_emoji = "\x1F933-1F3FF"
+    , _openMoji_emoji = "\x1F933\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F933-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6331,7 +6331,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flexed biceps: light skin tone"
-    , _openMoji_emoji = "\x1F4AA-1F3FB"
+    , _openMoji_emoji = "\x1F4AA\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F4AA-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6349,7 +6349,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flexed biceps: medium-light skin tone"
-    , _openMoji_emoji = "\x1F4AA-1F3FC"
+    , _openMoji_emoji = "\x1F4AA\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F4AA-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6367,7 +6367,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flexed biceps: medium skin tone"
-    , _openMoji_emoji = "\x1F4AA-1F3FD"
+    , _openMoji_emoji = "\x1F4AA\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F4AA-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6385,7 +6385,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flexed biceps: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F4AA-1F3FE"
+    , _openMoji_emoji = "\x1F4AA\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F4AA-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6403,7 +6403,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flexed biceps: dark skin tone"
-    , _openMoji_emoji = "\x1F4AA-1F3FF"
+    , _openMoji_emoji = "\x1F4AA\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F4AA-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6475,7 +6475,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "leg: light skin tone"
-    , _openMoji_emoji = "\x1F9B5-1F3FB"
+    , _openMoji_emoji = "\x1F9B5\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B5-1F3FB"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6493,7 +6493,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "leg: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9B5-1F3FC"
+    , _openMoji_emoji = "\x1F9B5\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B5-1F3FC"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6511,7 +6511,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "leg: medium skin tone"
-    , _openMoji_emoji = "\x1F9B5-1F3FD"
+    , _openMoji_emoji = "\x1F9B5\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B5-1F3FD"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6529,7 +6529,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "leg: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9B5-1F3FE"
+    , _openMoji_emoji = "\x1F9B5\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B5-1F3FE"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6547,7 +6547,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "leg: dark skin tone"
-    , _openMoji_emoji = "\x1F9B5-1F3FF"
+    , _openMoji_emoji = "\x1F9B5\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B5-1F3FF"
     , _openMoji_openmoji_author = "Laura Schießer"
@@ -6583,7 +6583,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "foot: light skin tone"
-    , _openMoji_emoji = "\x1F9B6-1F3FB"
+    , _openMoji_emoji = "\x1F9B6\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B6-1F3FB"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -6601,7 +6601,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "foot: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9B6-1F3FC"
+    , _openMoji_emoji = "\x1F9B6\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B6-1F3FC"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -6619,7 +6619,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "foot: medium skin tone"
-    , _openMoji_emoji = "\x1F9B6-1F3FD"
+    , _openMoji_emoji = "\x1F9B6\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B6-1F3FD"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -6637,7 +6637,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "foot: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9B6-1F3FE"
+    , _openMoji_emoji = "\x1F9B6\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B6-1F3FE"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -6655,7 +6655,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "foot: dark skin tone"
-    , _openMoji_emoji = "\x1F9B6-1F3FF"
+    , _openMoji_emoji = "\x1F9B6\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B6-1F3FF"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -6691,7 +6691,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear: light skin tone"
-    , _openMoji_emoji = "\x1F442-1F3FB"
+    , _openMoji_emoji = "\x1F442\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F442-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6709,7 +6709,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear: medium-light skin tone"
-    , _openMoji_emoji = "\x1F442-1F3FC"
+    , _openMoji_emoji = "\x1F442\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F442-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6727,7 +6727,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear: medium skin tone"
-    , _openMoji_emoji = "\x1F442-1F3FD"
+    , _openMoji_emoji = "\x1F442\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F442-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6745,7 +6745,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F442-1F3FE"
+    , _openMoji_emoji = "\x1F442\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F442-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6763,7 +6763,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear: dark skin tone"
-    , _openMoji_emoji = "\x1F442-1F3FF"
+    , _openMoji_emoji = "\x1F442\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F442-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6799,7 +6799,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear with hearing aid: light skin tone"
-    , _openMoji_emoji = "\x1F9BB-1F3FB"
+    , _openMoji_emoji = "\x1F9BB\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9BB-1F3FB"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -6817,7 +6817,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear with hearing aid: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9BB-1F3FC"
+    , _openMoji_emoji = "\x1F9BB\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9BB-1F3FC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -6835,7 +6835,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear with hearing aid: medium skin tone"
-    , _openMoji_emoji = "\x1F9BB-1F3FD"
+    , _openMoji_emoji = "\x1F9BB\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9BB-1F3FD"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -6853,7 +6853,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear with hearing aid: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9BB-1F3FE"
+    , _openMoji_emoji = "\x1F9BB\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9BB-1F3FE"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -6871,7 +6871,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ear with hearing aid: dark skin tone"
-    , _openMoji_emoji = "\x1F9BB-1F3FF"
+    , _openMoji_emoji = "\x1F9BB\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9BB-1F3FF"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -6907,7 +6907,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nose: light skin tone"
-    , _openMoji_emoji = "\x1F443-1F3FB"
+    , _openMoji_emoji = "\x1F443\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F443-1F3FB"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6925,7 +6925,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nose: medium-light skin tone"
-    , _openMoji_emoji = "\x1F443-1F3FC"
+    , _openMoji_emoji = "\x1F443\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F443-1F3FC"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6943,7 +6943,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nose: medium skin tone"
-    , _openMoji_emoji = "\x1F443-1F3FD"
+    , _openMoji_emoji = "\x1F443\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F443-1F3FD"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6961,7 +6961,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nose: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F443-1F3FE"
+    , _openMoji_emoji = "\x1F443\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F443-1F3FE"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -6979,7 +6979,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nose: dark skin tone"
-    , _openMoji_emoji = "\x1F443-1F3FF"
+    , _openMoji_emoji = "\x1F443\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F443-1F3FF"
     , _openMoji_openmoji_author = "Julian Grüneberg"
@@ -7177,7 +7177,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby: light skin tone"
-    , _openMoji_emoji = "\x1F476-1F3FB"
+    , _openMoji_emoji = "\x1F476\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F476-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7195,7 +7195,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby: medium-light skin tone"
-    , _openMoji_emoji = "\x1F476-1F3FC"
+    , _openMoji_emoji = "\x1F476\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F476-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7213,7 +7213,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby: medium skin tone"
-    , _openMoji_emoji = "\x1F476-1F3FD"
+    , _openMoji_emoji = "\x1F476\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F476-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7231,7 +7231,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F476-1F3FE"
+    , _openMoji_emoji = "\x1F476\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F476-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7249,7 +7249,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby: dark skin tone"
-    , _openMoji_emoji = "\x1F476-1F3FF"
+    , _openMoji_emoji = "\x1F476\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F476-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7285,7 +7285,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "child: light skin tone"
-    , _openMoji_emoji = "\x1F9D2-1F3FB"
+    , _openMoji_emoji = "\x1F9D2\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D2-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7303,7 +7303,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "child: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D2-1F3FC"
+    , _openMoji_emoji = "\x1F9D2\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D2-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7321,7 +7321,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "child: medium skin tone"
-    , _openMoji_emoji = "\x1F9D2-1F3FD"
+    , _openMoji_emoji = "\x1F9D2\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D2-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7339,7 +7339,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "child: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D2-1F3FE"
+    , _openMoji_emoji = "\x1F9D2\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D2-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7357,7 +7357,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "child: dark skin tone"
-    , _openMoji_emoji = "\x1F9D2-1F3FF"
+    , _openMoji_emoji = "\x1F9D2\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D2-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7393,7 +7393,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "boy: light skin tone"
-    , _openMoji_emoji = "\x1F466-1F3FB"
+    , _openMoji_emoji = "\x1F466\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F466-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7411,7 +7411,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "boy: medium-light skin tone"
-    , _openMoji_emoji = "\x1F466-1F3FC"
+    , _openMoji_emoji = "\x1F466\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F466-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7429,7 +7429,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "boy: medium skin tone"
-    , _openMoji_emoji = "\x1F466-1F3FD"
+    , _openMoji_emoji = "\x1F466\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F466-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7447,7 +7447,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "boy: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F466-1F3FE"
+    , _openMoji_emoji = "\x1F466\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F466-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7465,7 +7465,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "boy: dark skin tone"
-    , _openMoji_emoji = "\x1F466-1F3FF"
+    , _openMoji_emoji = "\x1F466\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F466-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7501,7 +7501,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "girl: light skin tone"
-    , _openMoji_emoji = "\x1F467-1F3FB"
+    , _openMoji_emoji = "\x1F467\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F467-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7519,7 +7519,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "girl: medium-light skin tone"
-    , _openMoji_emoji = "\x1F467-1F3FC"
+    , _openMoji_emoji = "\x1F467\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F467-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7537,7 +7537,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "girl: medium skin tone"
-    , _openMoji_emoji = "\x1F467-1F3FD"
+    , _openMoji_emoji = "\x1F467\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F467-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7555,7 +7555,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "girl: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F467-1F3FE"
+    , _openMoji_emoji = "\x1F467\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F467-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7573,7 +7573,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "girl: dark skin tone"
-    , _openMoji_emoji = "\x1F467-1F3FF"
+    , _openMoji_emoji = "\x1F467\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F467-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7609,7 +7609,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7627,7 +7627,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7645,7 +7645,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7663,7 +7663,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7681,7 +7681,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7717,7 +7717,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: light skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FB"
+    , _openMoji_emoji = "\x1F471\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FB"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -7735,7 +7735,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-light skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FC"
+    , _openMoji_emoji = "\x1F471\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FC"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -7753,7 +7753,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FD"
+    , _openMoji_emoji = "\x1F471\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FD"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -7771,7 +7771,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-dark skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FE"
+    , _openMoji_emoji = "\x1F471\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FE"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -7789,7 +7789,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: dark skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FF"
+    , _openMoji_emoji = "\x1F471\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FF"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -7825,7 +7825,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB"
+    , _openMoji_emoji = "\x1F468\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7843,7 +7843,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC"
+    , _openMoji_emoji = "\x1F468\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7861,7 +7861,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD"
+    , _openMoji_emoji = "\x1F468\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7879,7 +7879,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE"
+    , _openMoji_emoji = "\x1F468\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7897,7 +7897,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF"
+    , _openMoji_emoji = "\x1F468\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -7933,7 +7933,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: light skin tone, beard"
-    , _openMoji_emoji = "\x1F9D4-1F3FB"
+    , _openMoji_emoji = "\x1F9D4\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D4-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -7951,7 +7951,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-light skin tone, beard"
-    , _openMoji_emoji = "\x1F9D4-1F3FC"
+    , _openMoji_emoji = "\x1F9D4\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D4-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -7969,7 +7969,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium skin tone, beard"
-    , _openMoji_emoji = "\x1F9D4-1F3FD"
+    , _openMoji_emoji = "\x1F9D4\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D4-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -7987,7 +7987,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-dark skin tone, beard"
-    , _openMoji_emoji = "\x1F9D4-1F3FE"
+    , _openMoji_emoji = "\x1F9D4\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D4-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -8005,7 +8005,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: dark skin tone, beard"
-    , _openMoji_emoji = "\x1F9D4-1F3FF"
+    , _openMoji_emoji = "\x1F9D4\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D4-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -8023,7 +8023,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: red hair"
-    , _openMoji_emoji = "\x1F468-200D-1F9B0"
+    , _openMoji_emoji = "\x1F468\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8041,7 +8041,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: light skin tone, red hair"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F9B0"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8059,7 +8059,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-light skin tone, red hair"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F9B0"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8077,7 +8077,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium skin tone, red hair"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F9B0"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8095,7 +8095,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-dark skin tone, red hair"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F9B0"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8113,7 +8113,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: dark skin tone, red hair"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F9B0"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8131,7 +8131,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: curly hair"
-    , _openMoji_emoji = "\x1F468-200D-1F9B1"
+    , _openMoji_emoji = "\x1F468\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8149,7 +8149,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: light skin tone, curly hair"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F9B1"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8167,7 +8167,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-light skin tone, curly hair"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F9B1"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8185,7 +8185,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium skin tone, curly hair"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F9B1"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8203,7 +8203,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-dark skin tone, curly hair"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F9B1"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8221,7 +8221,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: dark skin tone, curly hair"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F9B1"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8239,7 +8239,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: white hair"
-    , _openMoji_emoji = "\x1F468-200D-1F9B3"
+    , _openMoji_emoji = "\x1F468\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8257,7 +8257,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: light skin tone, white hair"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F9B3"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8275,7 +8275,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-light skin tone, white hair"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F9B3"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8293,7 +8293,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium skin tone, white hair"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F9B3"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8311,7 +8311,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-dark skin tone, white hair"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F9B3"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8329,7 +8329,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: dark skin tone, white hair"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F9B3"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8347,7 +8347,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: bald"
-    , _openMoji_emoji = "\x1F468-200D-1F9B2"
+    , _openMoji_emoji = "\x1F468\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8365,7 +8365,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: light skin tone, bald"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F9B2"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8383,7 +8383,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-light skin tone, bald"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F9B2"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8401,7 +8401,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium skin tone, bald"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F9B2"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8419,7 +8419,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-dark skin tone, bald"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F9B2"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8437,7 +8437,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: dark skin tone, bald"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F9B2"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8473,7 +8473,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB"
+    , _openMoji_emoji = "\x1F469\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -8491,7 +8491,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC"
+    , _openMoji_emoji = "\x1F469\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -8509,7 +8509,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD"
+    , _openMoji_emoji = "\x1F469\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -8527,7 +8527,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE"
+    , _openMoji_emoji = "\x1F469\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -8545,7 +8545,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF"
+    , _openMoji_emoji = "\x1F469\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -8563,7 +8563,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: red hair"
-    , _openMoji_emoji = "\x1F469-200D-1F9B0"
+    , _openMoji_emoji = "\x1F469\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8581,7 +8581,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: light skin tone, red hair"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F9B0"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8599,7 +8599,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-light skin tone, red hair"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F9B0"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8617,7 +8617,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium skin tone, red hair"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F9B0"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8635,7 +8635,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-dark skin tone, red hair"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F9B0"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8653,7 +8653,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: dark skin tone, red hair"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F9B0"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F9B0"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8671,7 +8671,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: red hair"
-    , _openMoji_emoji = "\x1F9D1-200D-1F9B0"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F9B0"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8689,7 +8689,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: light skin tone, red hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F9B0"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F9B0"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8707,7 +8707,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-light skin tone, red hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F9B0"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F9B0"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8725,7 +8725,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium skin tone, red hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F9B0"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F9B0"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8743,7 +8743,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-dark skin tone, red hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F9B0"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F9B0"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8761,7 +8761,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: dark skin tone, red hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F9B0"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F9B0"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F9B0"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8779,7 +8779,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: curly hair"
-    , _openMoji_emoji = "\x1F469-200D-1F9B1"
+    , _openMoji_emoji = "\x1F469\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8797,7 +8797,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: light skin tone, curly hair"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F9B1"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8815,7 +8815,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-light skin tone, curly hair"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F9B1"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8833,7 +8833,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium skin tone, curly hair"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F9B1"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8851,7 +8851,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-dark skin tone, curly hair"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F9B1"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8869,7 +8869,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: dark skin tone, curly hair"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F9B1"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F9B1"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -8887,7 +8887,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: curly hair"
-    , _openMoji_emoji = "\x1F9D1-200D-1F9B1"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F9B1"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8905,7 +8905,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: light skin tone, curly hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F9B1"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F9B1"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8923,7 +8923,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-light skin tone, curly hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F9B1"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F9B1"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8941,7 +8941,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium skin tone, curly hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F9B1"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F9B1"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8959,7 +8959,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-dark skin tone, curly hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F9B1"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F9B1"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8977,7 +8977,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: dark skin tone, curly hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F9B1"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F9B1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F9B1"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -8995,7 +8995,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: white hair"
-    , _openMoji_emoji = "\x1F469-200D-1F9B3"
+    , _openMoji_emoji = "\x1F469\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9013,7 +9013,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: light skin tone, white hair"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F9B3"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9031,7 +9031,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-light skin tone, white hair"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F9B3"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9049,7 +9049,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium skin tone, white hair"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F9B3"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9067,7 +9067,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-dark skin tone, white hair"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F9B3"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9085,7 +9085,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: dark skin tone, white hair"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F9B3"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F9B3"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9103,7 +9103,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: white hair"
-    , _openMoji_emoji = "\x1F9D1-200D-1F9B3"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F9B3"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9121,7 +9121,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: light skin tone, white hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F9B3"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F9B3"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9139,7 +9139,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-light skin tone, white hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F9B3"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F9B3"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9157,7 +9157,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium skin tone, white hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F9B3"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F9B3"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9175,7 +9175,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-dark skin tone, white hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F9B3"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F9B3"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9193,7 +9193,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: dark skin tone, white hair"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F9B3"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F9B3"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F9B3"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9211,7 +9211,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: bald"
-    , _openMoji_emoji = "\x1F469-200D-1F9B2"
+    , _openMoji_emoji = "\x1F469\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9229,7 +9229,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: light skin tone, bald"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F9B2"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9247,7 +9247,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-light skin tone, bald"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F9B2"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9265,7 +9265,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium skin tone, bald"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F9B2"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9283,7 +9283,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-dark skin tone, bald"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F9B2"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9301,7 +9301,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: dark skin tone, bald"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F9B2"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F9B2"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9319,7 +9319,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: bald"
-    , _openMoji_emoji = "\x1F9D1-200D-1F9B2"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F9B2"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9337,7 +9337,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: light skin tone, bald"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F9B2"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F9B2"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9355,7 +9355,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-light skin tone, bald"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F9B2"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F9B2"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9373,7 +9373,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium skin tone, bald"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F9B2"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F9B2"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9391,7 +9391,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: medium-dark skin tone, bald"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F9B2"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F9B2"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9409,7 +9409,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person: dark skin tone, bald"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F9B2"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F9B2"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F9B2"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -9427,7 +9427,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: blond hair"
-    , _openMoji_emoji = "\x1F471-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F471\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9445,7 +9445,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: light skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9463,7 +9463,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-light skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9481,7 +9481,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9499,7 +9499,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: medium-dark skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9517,7 +9517,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman: dark skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9535,7 +9535,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: blond hair"
-    , _openMoji_emoji = "\x1F471-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F471\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9553,7 +9553,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: light skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9571,7 +9571,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-light skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9589,7 +9589,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9607,7 +9607,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: medium-dark skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9625,7 +9625,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man: dark skin tone, blond hair"
-    , _openMoji_emoji = "\x1F471-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F471\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F471-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -9661,7 +9661,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "older person: light skin tone"
-    , _openMoji_emoji = "\x1F9D3-1F3FB"
+    , _openMoji_emoji = "\x1F9D3\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D3-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9679,7 +9679,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "older person: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D3-1F3FC"
+    , _openMoji_emoji = "\x1F9D3\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D3-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9697,7 +9697,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "older person: medium skin tone"
-    , _openMoji_emoji = "\x1F9D3-1F3FD"
+    , _openMoji_emoji = "\x1F9D3\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D3-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9715,7 +9715,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "older person: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D3-1F3FE"
+    , _openMoji_emoji = "\x1F9D3\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D3-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9733,7 +9733,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "older person: dark skin tone"
-    , _openMoji_emoji = "\x1F9D3-1F3FF"
+    , _openMoji_emoji = "\x1F9D3\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D3-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9769,7 +9769,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old man: light skin tone"
-    , _openMoji_emoji = "\x1F474-1F3FB"
+    , _openMoji_emoji = "\x1F474\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F474-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9787,7 +9787,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old man: medium-light skin tone"
-    , _openMoji_emoji = "\x1F474-1F3FC"
+    , _openMoji_emoji = "\x1F474\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F474-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9805,7 +9805,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old man: medium skin tone"
-    , _openMoji_emoji = "\x1F474-1F3FD"
+    , _openMoji_emoji = "\x1F474\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F474-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9823,7 +9823,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old man: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F474-1F3FE"
+    , _openMoji_emoji = "\x1F474\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F474-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9841,7 +9841,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old man: dark skin tone"
-    , _openMoji_emoji = "\x1F474-1F3FF"
+    , _openMoji_emoji = "\x1F474\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F474-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9877,7 +9877,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old woman: light skin tone"
-    , _openMoji_emoji = "\x1F475-1F3FB"
+    , _openMoji_emoji = "\x1F475\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F475-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9895,7 +9895,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old woman: medium-light skin tone"
-    , _openMoji_emoji = "\x1F475-1F3FC"
+    , _openMoji_emoji = "\x1F475\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F475-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9913,7 +9913,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old woman: medium skin tone"
-    , _openMoji_emoji = "\x1F475-1F3FD"
+    , _openMoji_emoji = "\x1F475\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F475-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9931,7 +9931,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old woman: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F475-1F3FE"
+    , _openMoji_emoji = "\x1F475\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F475-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9949,7 +9949,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "old woman: dark skin tone"
-    , _openMoji_emoji = "\x1F475-1F3FF"
+    , _openMoji_emoji = "\x1F475\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F475-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -9985,7 +9985,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person frowning: light skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FB"
+    , _openMoji_emoji = "\x1F64D\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10003,7 +10003,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person frowning: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FC"
+    , _openMoji_emoji = "\x1F64D\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10021,7 +10021,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person frowning: medium skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FD"
+    , _openMoji_emoji = "\x1F64D\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10039,7 +10039,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person frowning: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FE"
+    , _openMoji_emoji = "\x1F64D\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10057,7 +10057,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person frowning: dark skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FF"
+    , _openMoji_emoji = "\x1F64D\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10075,7 +10075,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man frowning"
-    , _openMoji_emoji = "\x1F64D-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64D\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10093,7 +10093,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man frowning: light skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10111,7 +10111,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man frowning: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10129,7 +10129,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man frowning: medium skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10147,7 +10147,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man frowning: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10165,7 +10165,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man frowning: dark skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10183,7 +10183,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman frowning"
-    , _openMoji_emoji = "\x1F64D-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64D\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10201,7 +10201,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman frowning: light skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10219,7 +10219,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman frowning: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10237,7 +10237,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman frowning: medium skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10255,7 +10255,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman frowning: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10273,7 +10273,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman frowning: dark skin tone"
-    , _openMoji_emoji = "\x1F64D-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64D\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64D-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10309,7 +10309,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person pouting: light skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FB"
+    , _openMoji_emoji = "\x1F64E\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10327,7 +10327,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person pouting: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FC"
+    , _openMoji_emoji = "\x1F64E\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10345,7 +10345,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person pouting: medium skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FD"
+    , _openMoji_emoji = "\x1F64E\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10363,7 +10363,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person pouting: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FE"
+    , _openMoji_emoji = "\x1F64E\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10381,7 +10381,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person pouting: dark skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FF"
+    , _openMoji_emoji = "\x1F64E\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10399,7 +10399,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pouting"
-    , _openMoji_emoji = "\x1F64E-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64E\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10417,7 +10417,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pouting: light skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10435,7 +10435,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pouting: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10453,7 +10453,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pouting: medium skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10471,7 +10471,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pouting: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10489,7 +10489,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pouting: dark skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10507,7 +10507,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pouting"
-    , _openMoji_emoji = "\x1F64E-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64E\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10525,7 +10525,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pouting: light skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10543,7 +10543,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pouting: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10561,7 +10561,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pouting: medium skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10579,7 +10579,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pouting: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10597,7 +10597,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pouting: dark skin tone"
-    , _openMoji_emoji = "\x1F64E-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64E\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64E-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10633,7 +10633,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing NO: light skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FB"
+    , _openMoji_emoji = "\x1F645\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10651,7 +10651,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing NO: medium-light skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FC"
+    , _openMoji_emoji = "\x1F645\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10669,7 +10669,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing NO: medium skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FD"
+    , _openMoji_emoji = "\x1F645\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10687,7 +10687,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing NO: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FE"
+    , _openMoji_emoji = "\x1F645\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10705,7 +10705,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing NO: dark skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FF"
+    , _openMoji_emoji = "\x1F645\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10723,7 +10723,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing NO"
-    , _openMoji_emoji = "\x1F645-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F645\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10741,7 +10741,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing NO: light skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10759,7 +10759,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing NO: medium-light skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10777,7 +10777,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing NO: medium skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10795,7 +10795,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing NO: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10813,7 +10813,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing NO: dark skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10831,7 +10831,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing NO"
-    , _openMoji_emoji = "\x1F645-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F645\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10849,7 +10849,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing NO: light skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10867,7 +10867,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing NO: medium-light skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10885,7 +10885,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing NO: medium skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10903,7 +10903,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing NO: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10921,7 +10921,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing NO: dark skin tone"
-    , _openMoji_emoji = "\x1F645-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F645\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F645-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -10957,7 +10957,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing OK: light skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FB"
+    , _openMoji_emoji = "\x1F646\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10975,7 +10975,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing OK: medium-light skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FC"
+    , _openMoji_emoji = "\x1F646\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -10993,7 +10993,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing OK: medium skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FD"
+    , _openMoji_emoji = "\x1F646\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11011,7 +11011,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing OK: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FE"
+    , _openMoji_emoji = "\x1F646\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11029,7 +11029,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person gesturing OK: dark skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FF"
+    , _openMoji_emoji = "\x1F646\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11047,7 +11047,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing OK"
-    , _openMoji_emoji = "\x1F646-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F646\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11065,7 +11065,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing OK: light skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11083,7 +11083,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing OK: medium-light skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11101,7 +11101,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing OK: medium skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11119,7 +11119,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing OK: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11137,7 +11137,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man gesturing OK: dark skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11155,7 +11155,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing OK"
-    , _openMoji_emoji = "\x1F646-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F646\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11173,7 +11173,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing OK: light skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11191,7 +11191,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing OK: medium-light skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11209,7 +11209,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing OK: medium skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11227,7 +11227,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing OK: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11245,7 +11245,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman gesturing OK: dark skin tone"
-    , _openMoji_emoji = "\x1F646-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F646\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F646-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11281,7 +11281,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person tipping hand: light skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FB"
+    , _openMoji_emoji = "\x1F481\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11299,7 +11299,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person tipping hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FC"
+    , _openMoji_emoji = "\x1F481\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11317,7 +11317,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person tipping hand: medium skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FD"
+    , _openMoji_emoji = "\x1F481\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11335,7 +11335,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person tipping hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FE"
+    , _openMoji_emoji = "\x1F481\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11353,7 +11353,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person tipping hand: dark skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FF"
+    , _openMoji_emoji = "\x1F481\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11371,7 +11371,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man tipping hand"
-    , _openMoji_emoji = "\x1F481-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F481\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11389,7 +11389,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man tipping hand: light skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11407,7 +11407,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man tipping hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11425,7 +11425,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man tipping hand: medium skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11443,7 +11443,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man tipping hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11461,7 +11461,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man tipping hand: dark skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11479,7 +11479,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman tipping hand"
-    , _openMoji_emoji = "\x1F481-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F481\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11497,7 +11497,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman tipping hand: light skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11515,7 +11515,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman tipping hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11533,7 +11533,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman tipping hand: medium skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11551,7 +11551,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman tipping hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11569,7 +11569,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman tipping hand: dark skin tone"
-    , _openMoji_emoji = "\x1F481-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F481\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F481-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11605,7 +11605,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person raising hand: light skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FB"
+    , _openMoji_emoji = "\x1F64B\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11623,7 +11623,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person raising hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FC"
+    , _openMoji_emoji = "\x1F64B\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11641,7 +11641,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person raising hand: medium skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FD"
+    , _openMoji_emoji = "\x1F64B\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11659,7 +11659,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person raising hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FE"
+    , _openMoji_emoji = "\x1F64B\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11677,7 +11677,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person raising hand: dark skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FF"
+    , _openMoji_emoji = "\x1F64B\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -11695,7 +11695,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man raising hand"
-    , _openMoji_emoji = "\x1F64B-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64B\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11713,7 +11713,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man raising hand: light skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11731,7 +11731,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man raising hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11749,7 +11749,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man raising hand: medium skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11767,7 +11767,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man raising hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11785,7 +11785,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man raising hand: dark skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11803,7 +11803,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman raising hand"
-    , _openMoji_emoji = "\x1F64B-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64B\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11821,7 +11821,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman raising hand: light skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11839,7 +11839,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman raising hand: medium-light skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11857,7 +11857,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman raising hand: medium skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11875,7 +11875,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman raising hand: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11893,7 +11893,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman raising hand: dark skin tone"
-    , _openMoji_emoji = "\x1F64B-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F64B\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F64B-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -11929,7 +11929,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf person: light skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FB"
+    , _openMoji_emoji = "\x1F9CF\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FB"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -11947,7 +11947,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf person: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FC"
+    , _openMoji_emoji = "\x1F9CF\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -11965,7 +11965,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf person: medium skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FD"
+    , _openMoji_emoji = "\x1F9CF\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FD"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -11983,7 +11983,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf person: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FE"
+    , _openMoji_emoji = "\x1F9CF\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FE"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12001,7 +12001,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf person: dark skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FF"
+    , _openMoji_emoji = "\x1F9CF\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FF"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12019,7 +12019,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf man"
-    , _openMoji_emoji = "\x1F9CF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12037,7 +12037,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf man: light skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12055,7 +12055,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf man: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12073,7 +12073,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf man: medium skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12091,7 +12091,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf man: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12109,7 +12109,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf man: dark skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12127,7 +12127,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf woman"
-    , _openMoji_emoji = "\x1F9CF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12145,7 +12145,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf woman: light skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12163,7 +12163,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf woman: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12181,7 +12181,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf woman: medium skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12199,7 +12199,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf woman: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12217,7 +12217,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deaf woman: dark skin tone"
-    , _openMoji_emoji = "\x1F9CF-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CF\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CF-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -12253,7 +12253,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bowing: light skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FB"
+    , _openMoji_emoji = "\x1F647\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12271,7 +12271,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bowing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FC"
+    , _openMoji_emoji = "\x1F647\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12289,7 +12289,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bowing: medium skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FD"
+    , _openMoji_emoji = "\x1F647\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12307,7 +12307,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bowing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FE"
+    , _openMoji_emoji = "\x1F647\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12325,7 +12325,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bowing: dark skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FF"
+    , _openMoji_emoji = "\x1F647\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12343,7 +12343,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bowing"
-    , _openMoji_emoji = "\x1F647-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F647\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12361,7 +12361,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bowing: light skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12379,7 +12379,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bowing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12397,7 +12397,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bowing: medium skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12415,7 +12415,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bowing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12433,7 +12433,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bowing: dark skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12451,7 +12451,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bowing"
-    , _openMoji_emoji = "\x1F647-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F647\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12469,7 +12469,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bowing: light skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12487,7 +12487,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bowing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12505,7 +12505,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bowing: medium skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12523,7 +12523,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bowing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12541,7 +12541,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bowing: dark skin tone"
-    , _openMoji_emoji = "\x1F647-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F647\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F647-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -12577,7 +12577,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person facepalming: light skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FB"
+    , _openMoji_emoji = "\x1F926\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12595,7 +12595,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person facepalming: medium-light skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FC"
+    , _openMoji_emoji = "\x1F926\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12613,7 +12613,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person facepalming: medium skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FD"
+    , _openMoji_emoji = "\x1F926\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12631,7 +12631,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person facepalming: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FE"
+    , _openMoji_emoji = "\x1F926\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12649,7 +12649,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person facepalming: dark skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FF"
+    , _openMoji_emoji = "\x1F926\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12667,7 +12667,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man facepalming"
-    , _openMoji_emoji = "\x1F926-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F926\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12685,7 +12685,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man facepalming: light skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12703,7 +12703,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man facepalming: medium-light skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12721,7 +12721,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man facepalming: medium skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12739,7 +12739,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man facepalming: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12757,7 +12757,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man facepalming: dark skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12775,7 +12775,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman facepalming"
-    , _openMoji_emoji = "\x1F926-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F926\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12793,7 +12793,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman facepalming: light skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12811,7 +12811,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman facepalming: medium-light skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12829,7 +12829,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman facepalming: medium skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12847,7 +12847,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman facepalming: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12865,7 +12865,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman facepalming: dark skin tone"
-    , _openMoji_emoji = "\x1F926-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F926\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F926-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12901,7 +12901,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person shrugging: light skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FB"
+    , _openMoji_emoji = "\x1F937\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12919,7 +12919,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person shrugging: medium-light skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FC"
+    , _openMoji_emoji = "\x1F937\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12937,7 +12937,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person shrugging: medium skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FD"
+    , _openMoji_emoji = "\x1F937\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12955,7 +12955,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person shrugging: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FE"
+    , _openMoji_emoji = "\x1F937\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12973,7 +12973,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person shrugging: dark skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FF"
+    , _openMoji_emoji = "\x1F937\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -12991,7 +12991,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man shrugging"
-    , _openMoji_emoji = "\x1F937-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F937\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13009,7 +13009,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man shrugging: light skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13027,7 +13027,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man shrugging: medium-light skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13045,7 +13045,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man shrugging: medium skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13063,7 +13063,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man shrugging: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13081,7 +13081,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man shrugging: dark skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13099,7 +13099,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman shrugging"
-    , _openMoji_emoji = "\x1F937-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F937\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13117,7 +13117,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman shrugging: light skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13135,7 +13135,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman shrugging: medium-light skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13153,7 +13153,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman shrugging: medium skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13171,7 +13171,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman shrugging: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13189,7 +13189,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman shrugging: dark skin tone"
-    , _openMoji_emoji = "\x1F937-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F937\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F937-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -13207,7 +13207,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "health worker"
-    , _openMoji_emoji = "\x1F9D1-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13225,7 +13225,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "health worker: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13243,7 +13243,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "health worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13261,7 +13261,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "health worker: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13279,7 +13279,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "health worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13297,7 +13297,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "health worker: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13315,7 +13315,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man health worker"
-    , _openMoji_emoji = "\x1F468-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F468\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13333,7 +13333,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man health worker: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13351,7 +13351,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man health worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13369,7 +13369,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man health worker: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13387,7 +13387,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man health worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13405,7 +13405,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man health worker: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13423,7 +13423,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman health worker"
-    , _openMoji_emoji = "\x1F469-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F469\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13441,7 +13441,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman health worker: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13459,7 +13459,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman health worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13477,7 +13477,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman health worker: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13495,7 +13495,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman health worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13513,7 +13513,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman health worker: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-2695-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x2695\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-2695-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13531,7 +13531,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "student"
-    , _openMoji_emoji = "\x1F9D1-200D-1F393"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F393"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13549,7 +13549,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "student: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F393"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F393"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13567,7 +13567,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "student: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F393"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F393"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13585,7 +13585,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "student: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F393"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F393"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13603,7 +13603,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "student: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F393"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F393"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13621,7 +13621,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "student: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F393"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F393"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13639,7 +13639,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man student"
-    , _openMoji_emoji = "\x1F468-200D-1F393"
+    , _openMoji_emoji = "\x1F468\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13657,7 +13657,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man student: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F393"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13675,7 +13675,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man student: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F393"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13693,7 +13693,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man student: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F393"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13711,7 +13711,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man student: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F393"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13729,7 +13729,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man student: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F393"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13747,7 +13747,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman student"
-    , _openMoji_emoji = "\x1F469-200D-1F393"
+    , _openMoji_emoji = "\x1F469\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13765,7 +13765,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman student: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F393"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13783,7 +13783,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman student: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F393"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13801,7 +13801,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman student: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F393"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13819,7 +13819,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman student: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F393"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13837,7 +13837,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman student: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F393"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F393"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F393"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13855,7 +13855,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "teacher"
-    , _openMoji_emoji = "\x1F9D1-200D-1F3EB"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F3EB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13873,7 +13873,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "teacher: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F3EB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F3EB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13891,7 +13891,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "teacher: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F3EB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F3EB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13909,7 +13909,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "teacher: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F3EB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F3EB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13927,7 +13927,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "teacher: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F3EB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F3EB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13945,7 +13945,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "teacher: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F3EB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F3EB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -13963,7 +13963,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man teacher"
-    , _openMoji_emoji = "\x1F468-200D-1F3EB"
+    , _openMoji_emoji = "\x1F468\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13981,7 +13981,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man teacher: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F3EB"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -13999,7 +13999,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man teacher: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F3EB"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14017,7 +14017,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man teacher: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F3EB"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14035,7 +14035,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man teacher: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F3EB"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14053,7 +14053,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man teacher: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F3EB"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14071,7 +14071,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman teacher"
-    , _openMoji_emoji = "\x1F469-200D-1F3EB"
+    , _openMoji_emoji = "\x1F469\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14089,7 +14089,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman teacher: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F3EB"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14107,7 +14107,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman teacher: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F3EB"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14125,7 +14125,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman teacher: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F3EB"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14143,7 +14143,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman teacher: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F3EB"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14161,7 +14161,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman teacher: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F3EB"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F3EB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F3EB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14179,7 +14179,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "judge"
-    , _openMoji_emoji = "\x1F9D1-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14197,7 +14197,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "judge: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14215,7 +14215,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "judge: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14233,7 +14233,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "judge: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14251,7 +14251,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "judge: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14269,7 +14269,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "judge: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14287,7 +14287,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man judge"
-    , _openMoji_emoji = "\x1F468-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F468\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14305,7 +14305,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man judge: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14323,7 +14323,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man judge: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14341,7 +14341,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man judge: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14359,7 +14359,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man judge: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14377,7 +14377,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man judge: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14395,7 +14395,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman judge"
-    , _openMoji_emoji = "\x1F469-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F469\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14413,7 +14413,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman judge: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14431,7 +14431,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman judge: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14449,7 +14449,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman judge: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14467,7 +14467,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman judge: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14485,7 +14485,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman judge: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-2696-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x2696\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-2696-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14503,7 +14503,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "farmer"
-    , _openMoji_emoji = "\x1F9D1-200D-1F33E"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F33E"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14521,7 +14521,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "farmer: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F33E"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F33E"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14539,7 +14539,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "farmer: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F33E"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F33E"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14557,7 +14557,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "farmer: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F33E"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F33E"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14575,7 +14575,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "farmer: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F33E"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F33E"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14593,7 +14593,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "farmer: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F33E"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F33E"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14611,7 +14611,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man farmer"
-    , _openMoji_emoji = "\x1F468-200D-1F33E"
+    , _openMoji_emoji = "\x1F468\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14629,7 +14629,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man farmer: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F33E"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14647,7 +14647,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man farmer: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F33E"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14665,7 +14665,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man farmer: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F33E"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14683,7 +14683,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man farmer: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F33E"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14701,7 +14701,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man farmer: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F33E"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14719,7 +14719,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman farmer"
-    , _openMoji_emoji = "\x1F469-200D-1F33E"
+    , _openMoji_emoji = "\x1F469\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14737,7 +14737,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman farmer: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F33E"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14755,7 +14755,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman farmer: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F33E"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14773,7 +14773,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman farmer: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F33E"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14791,7 +14791,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman farmer: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F33E"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14809,7 +14809,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman farmer: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F33E"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F33E"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F33E"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14827,7 +14827,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "cook"
-    , _openMoji_emoji = "\x1F9D1-200D-1F373"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F373"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14845,7 +14845,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "cook: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F373"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F373"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14863,7 +14863,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "cook: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F373"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F373"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14881,7 +14881,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "cook: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F373"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F373"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14899,7 +14899,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "cook: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F373"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F373"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14917,7 +14917,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "cook: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F373"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F373"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -14935,7 +14935,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cook"
-    , _openMoji_emoji = "\x1F468-200D-1F373"
+    , _openMoji_emoji = "\x1F468\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14953,7 +14953,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cook: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F373"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14971,7 +14971,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cook: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F373"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -14989,7 +14989,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cook: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F373"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15007,7 +15007,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cook: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F373"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15025,7 +15025,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cook: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F373"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15043,7 +15043,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cook"
-    , _openMoji_emoji = "\x1F469-200D-1F373"
+    , _openMoji_emoji = "\x1F469\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15061,7 +15061,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cook: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F373"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15079,7 +15079,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cook: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F373"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15097,7 +15097,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cook: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F373"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15115,7 +15115,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cook: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F373"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15133,7 +15133,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cook: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F373"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F373"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F373"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15151,7 +15151,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mechanic"
-    , _openMoji_emoji = "\x1F9D1-200D-1F527"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F527"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15169,7 +15169,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mechanic: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F527"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F527"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15187,7 +15187,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mechanic: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F527"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F527"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15205,7 +15205,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mechanic: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F527"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F527"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15223,7 +15223,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mechanic: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F527"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F527"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15241,7 +15241,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mechanic: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F527"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F527"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15259,7 +15259,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mechanic"
-    , _openMoji_emoji = "\x1F468-200D-1F527"
+    , _openMoji_emoji = "\x1F468\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15277,7 +15277,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mechanic: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F527"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15295,7 +15295,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mechanic: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F527"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15313,7 +15313,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mechanic: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F527"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15331,7 +15331,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mechanic: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F527"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15349,7 +15349,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mechanic: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F527"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15367,7 +15367,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mechanic"
-    , _openMoji_emoji = "\x1F469-200D-1F527"
+    , _openMoji_emoji = "\x1F469\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15385,7 +15385,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mechanic: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F527"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15403,7 +15403,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mechanic: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F527"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15421,7 +15421,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mechanic: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F527"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15439,7 +15439,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mechanic: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F527"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15457,7 +15457,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mechanic: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F527"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F527"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F527"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15475,7 +15475,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "factory worker"
-    , _openMoji_emoji = "\x1F9D1-200D-1F3ED"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F3ED"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15493,7 +15493,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "factory worker: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F3ED"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F3ED"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15511,7 +15511,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "factory worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F3ED"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F3ED"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15529,7 +15529,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "factory worker: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F3ED"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F3ED"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15547,7 +15547,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "factory worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F3ED"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F3ED"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15565,7 +15565,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "factory worker: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F3ED"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F3ED"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15583,7 +15583,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man factory worker"
-    , _openMoji_emoji = "\x1F468-200D-1F3ED"
+    , _openMoji_emoji = "\x1F468\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15601,7 +15601,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man factory worker: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F3ED"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15619,7 +15619,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man factory worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F3ED"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15637,7 +15637,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man factory worker: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F3ED"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15655,7 +15655,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man factory worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F3ED"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15673,7 +15673,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man factory worker: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F3ED"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15691,7 +15691,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman factory worker"
-    , _openMoji_emoji = "\x1F469-200D-1F3ED"
+    , _openMoji_emoji = "\x1F469\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15709,7 +15709,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman factory worker: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F3ED"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15727,7 +15727,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman factory worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F3ED"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15745,7 +15745,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman factory worker: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F3ED"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15763,7 +15763,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman factory worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F3ED"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15781,7 +15781,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman factory worker: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F3ED"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F3ED"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F3ED"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15799,7 +15799,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "office worker"
-    , _openMoji_emoji = "\x1F9D1-200D-1F4BC"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F4BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15817,7 +15817,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "office worker: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F4BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F4BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15835,7 +15835,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "office worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F4BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F4BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15853,7 +15853,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "office worker: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F4BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F4BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15871,7 +15871,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "office worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F4BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F4BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15889,7 +15889,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "office worker: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F4BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F4BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -15907,7 +15907,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man office worker"
-    , _openMoji_emoji = "\x1F468-200D-1F4BC"
+    , _openMoji_emoji = "\x1F468\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15925,7 +15925,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man office worker: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F4BC"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15943,7 +15943,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man office worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F4BC"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15961,7 +15961,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man office worker: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F4BC"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15979,7 +15979,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man office worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F4BC"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -15997,7 +15997,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man office worker: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F4BC"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16015,7 +16015,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman office worker"
-    , _openMoji_emoji = "\x1F469-200D-1F4BC"
+    , _openMoji_emoji = "\x1F469\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16033,7 +16033,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman office worker: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F4BC"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16051,7 +16051,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman office worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F4BC"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16069,7 +16069,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman office worker: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F4BC"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16087,7 +16087,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman office worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F4BC"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16105,7 +16105,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman office worker: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F4BC"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F4BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F4BC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16123,7 +16123,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "scientist"
-    , _openMoji_emoji = "\x1F9D1-200D-1F52C"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F52C"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16141,7 +16141,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "scientist: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F52C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F52C"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16159,7 +16159,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "scientist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F52C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F52C"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16177,7 +16177,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "scientist: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F52C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F52C"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16195,7 +16195,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "scientist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F52C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F52C"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16213,7 +16213,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "scientist: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F52C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F52C"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16231,7 +16231,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man scientist"
-    , _openMoji_emoji = "\x1F468-200D-1F52C"
+    , _openMoji_emoji = "\x1F468\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16249,7 +16249,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man scientist: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F52C"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16267,7 +16267,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man scientist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F52C"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16285,7 +16285,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man scientist: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F52C"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16303,7 +16303,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man scientist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F52C"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16321,7 +16321,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man scientist: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F52C"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16339,7 +16339,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman scientist"
-    , _openMoji_emoji = "\x1F469-200D-1F52C"
+    , _openMoji_emoji = "\x1F469\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16357,7 +16357,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman scientist: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F52C"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16375,7 +16375,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman scientist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F52C"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16393,7 +16393,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman scientist: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F52C"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16411,7 +16411,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman scientist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F52C"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16429,7 +16429,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman scientist: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F52C"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F52C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F52C"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16447,7 +16447,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "technologist"
-    , _openMoji_emoji = "\x1F9D1-200D-1F4BB"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F4BB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16465,7 +16465,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "technologist: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F4BB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F4BB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16483,7 +16483,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "technologist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F4BB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F4BB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16501,7 +16501,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "technologist: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F4BB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F4BB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16519,7 +16519,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "technologist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F4BB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F4BB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16537,7 +16537,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "technologist: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F4BB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F4BB"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16555,7 +16555,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man technologist"
-    , _openMoji_emoji = "\x1F468-200D-1F4BB"
+    , _openMoji_emoji = "\x1F468\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16573,7 +16573,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man technologist: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F4BB"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16591,7 +16591,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man technologist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F4BB"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16609,7 +16609,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man technologist: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F4BB"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16627,7 +16627,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man technologist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F4BB"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16645,7 +16645,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man technologist: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F4BB"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16663,7 +16663,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman technologist"
-    , _openMoji_emoji = "\x1F469-200D-1F4BB"
+    , _openMoji_emoji = "\x1F469\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16681,7 +16681,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman technologist: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F4BB"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16699,7 +16699,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman technologist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F4BB"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16717,7 +16717,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman technologist: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F4BB"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16735,7 +16735,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman technologist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F4BB"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16753,7 +16753,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman technologist: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F4BB"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F4BB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F4BB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16771,7 +16771,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "singer"
-    , _openMoji_emoji = "\x1F9D1-200D-1F3A4"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F3A4"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16789,7 +16789,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "singer: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F3A4"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F3A4"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16807,7 +16807,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "singer: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F3A4"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F3A4"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16825,7 +16825,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "singer: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F3A4"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F3A4"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16843,7 +16843,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "singer: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F3A4"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F3A4"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16861,7 +16861,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "singer: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F3A4"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F3A4"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -16879,7 +16879,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man singer"
-    , _openMoji_emoji = "\x1F468-200D-1F3A4"
+    , _openMoji_emoji = "\x1F468\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16897,7 +16897,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man singer: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F3A4"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16915,7 +16915,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man singer: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F3A4"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16933,7 +16933,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man singer: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F3A4"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16951,7 +16951,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man singer: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F3A4"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16969,7 +16969,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man singer: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F3A4"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -16987,7 +16987,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman singer"
-    , _openMoji_emoji = "\x1F469-200D-1F3A4"
+    , _openMoji_emoji = "\x1F469\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17005,7 +17005,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman singer: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F3A4"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17023,7 +17023,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman singer: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F3A4"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17041,7 +17041,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman singer: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F3A4"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17059,7 +17059,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman singer: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F3A4"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17077,7 +17077,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman singer: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F3A4"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F3A4"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F3A4"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17095,7 +17095,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "artist"
-    , _openMoji_emoji = "\x1F9D1-200D-1F3A8"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F3A8"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17113,7 +17113,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "artist: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F3A8"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F3A8"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17131,7 +17131,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "artist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F3A8"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F3A8"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17149,7 +17149,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "artist: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F3A8"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F3A8"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17167,7 +17167,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "artist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F3A8"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F3A8"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17185,7 +17185,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "artist: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F3A8"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F3A8"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17203,7 +17203,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man artist"
-    , _openMoji_emoji = "\x1F468-200D-1F3A8"
+    , _openMoji_emoji = "\x1F468\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17221,7 +17221,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man artist: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F3A8"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17239,7 +17239,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man artist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F3A8"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17257,7 +17257,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man artist: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F3A8"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17275,7 +17275,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man artist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F3A8"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17293,7 +17293,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man artist: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F3A8"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17311,7 +17311,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman artist"
-    , _openMoji_emoji = "\x1F469-200D-1F3A8"
+    , _openMoji_emoji = "\x1F469\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17329,7 +17329,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman artist: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F3A8"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17347,7 +17347,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman artist: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F3A8"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17365,7 +17365,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman artist: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F3A8"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17383,7 +17383,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman artist: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F3A8"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17401,7 +17401,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman artist: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F3A8"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F3A8"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F3A8"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17419,7 +17419,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pilot"
-    , _openMoji_emoji = "\x1F9D1-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17437,7 +17437,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pilot: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17455,7 +17455,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pilot: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17473,7 +17473,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pilot: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17491,7 +17491,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pilot: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17509,7 +17509,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pilot: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17527,7 +17527,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pilot"
-    , _openMoji_emoji = "\x1F468-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F468\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17545,7 +17545,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pilot: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17563,7 +17563,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pilot: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17581,7 +17581,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pilot: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17599,7 +17599,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pilot: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17617,7 +17617,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man pilot: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17635,7 +17635,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pilot"
-    , _openMoji_emoji = "\x1F469-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F469\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17653,7 +17653,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pilot: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17671,7 +17671,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pilot: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17689,7 +17689,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pilot: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17707,7 +17707,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pilot: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17725,7 +17725,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman pilot: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-2708-FE0F"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x2708\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-2708-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17743,7 +17743,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "astronaut"
-    , _openMoji_emoji = "\x1F9D1-200D-1F680"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F680"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17761,7 +17761,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "astronaut: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F680"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F680"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17779,7 +17779,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "astronaut: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F680"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F680"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17797,7 +17797,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "astronaut: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F680"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F680"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17815,7 +17815,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "astronaut: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F680"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F680"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17833,7 +17833,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "astronaut: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F680"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F680"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -17851,7 +17851,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man astronaut"
-    , _openMoji_emoji = "\x1F468-200D-1F680"
+    , _openMoji_emoji = "\x1F468\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17869,7 +17869,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man astronaut: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F680"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17887,7 +17887,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man astronaut: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F680"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17905,7 +17905,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man astronaut: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F680"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17923,7 +17923,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man astronaut: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F680"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17941,7 +17941,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man astronaut: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F680"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17959,7 +17959,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman astronaut"
-    , _openMoji_emoji = "\x1F469-200D-1F680"
+    , _openMoji_emoji = "\x1F469\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17977,7 +17977,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman astronaut: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F680"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -17995,7 +17995,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman astronaut: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F680"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18013,7 +18013,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman astronaut: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F680"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18031,7 +18031,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman astronaut: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F680"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18049,7 +18049,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman astronaut: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F680"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F680"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F680"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18067,7 +18067,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "firefighter"
-    , _openMoji_emoji = "\x1F9D1-200D-1F692"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F692"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -18085,7 +18085,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "firefighter: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F692"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F692"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -18103,7 +18103,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "firefighter: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F692"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F692"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -18121,7 +18121,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "firefighter: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F692"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F692"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -18139,7 +18139,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "firefighter: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F692"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F692"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -18157,7 +18157,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "firefighter: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F692"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F692"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -18175,7 +18175,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man firefighter"
-    , _openMoji_emoji = "\x1F468-200D-1F692"
+    , _openMoji_emoji = "\x1F468\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18193,7 +18193,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man firefighter: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F692"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18211,7 +18211,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man firefighter: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F692"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18229,7 +18229,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man firefighter: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F692"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18247,7 +18247,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man firefighter: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F692"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18265,7 +18265,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man firefighter: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F692"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18283,7 +18283,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman firefighter"
-    , _openMoji_emoji = "\x1F469-200D-1F692"
+    , _openMoji_emoji = "\x1F469\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18301,7 +18301,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman firefighter: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F692"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18319,7 +18319,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman firefighter: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F692"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18337,7 +18337,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman firefighter: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F692"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18355,7 +18355,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman firefighter: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F692"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18373,7 +18373,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman firefighter: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F692"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F692"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F692"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18409,7 +18409,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "police officer: light skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FB"
+    , _openMoji_emoji = "\x1F46E\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18427,7 +18427,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "police officer: medium-light skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FC"
+    , _openMoji_emoji = "\x1F46E\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18445,7 +18445,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "police officer: medium skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FD"
+    , _openMoji_emoji = "\x1F46E\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18463,7 +18463,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "police officer: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FE"
+    , _openMoji_emoji = "\x1F46E\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18481,7 +18481,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "police officer: dark skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FF"
+    , _openMoji_emoji = "\x1F46E\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18499,7 +18499,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man police officer"
-    , _openMoji_emoji = "\x1F46E-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F46E\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18517,7 +18517,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man police officer: light skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18535,7 +18535,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man police officer: medium-light skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18553,7 +18553,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man police officer: medium skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18571,7 +18571,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man police officer: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18589,7 +18589,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man police officer: dark skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18607,7 +18607,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman police officer"
-    , _openMoji_emoji = "\x1F46E-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F46E\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18625,7 +18625,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman police officer: light skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18643,7 +18643,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman police officer: medium-light skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18661,7 +18661,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman police officer: medium skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18679,7 +18679,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman police officer: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18697,7 +18697,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman police officer: dark skin tone"
-    , _openMoji_emoji = "\x1F46E-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F46E\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46E-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18733,7 +18733,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "detective: light skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FB"
+    , _openMoji_emoji = "\x1F575\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18751,7 +18751,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "detective: medium-light skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FC"
+    , _openMoji_emoji = "\x1F575\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18769,7 +18769,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "detective: medium skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FD"
+    , _openMoji_emoji = "\x1F575\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18787,7 +18787,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "detective: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FE"
+    , _openMoji_emoji = "\x1F575\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18805,7 +18805,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "detective: dark skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FF"
+    , _openMoji_emoji = "\x1F575\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -18823,7 +18823,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man detective"
-    , _openMoji_emoji = "\x1F575-FE0F-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F575\xFE0F\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-FE0F-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18841,7 +18841,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man detective: light skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18859,7 +18859,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man detective: medium-light skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18877,7 +18877,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man detective: medium skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18895,7 +18895,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man detective: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18913,7 +18913,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man detective: dark skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18931,7 +18931,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman detective"
-    , _openMoji_emoji = "\x1F575-FE0F-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F575\xFE0F\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-FE0F-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18949,7 +18949,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman detective: light skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18967,7 +18967,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman detective: medium-light skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -18985,7 +18985,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman detective: medium skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19003,7 +19003,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman detective: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19021,7 +19021,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman detective: dark skin tone"
-    , _openMoji_emoji = "\x1F575-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F575\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F575-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19057,7 +19057,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "guard: light skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FB"
+    , _openMoji_emoji = "\x1F482\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19075,7 +19075,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "guard: medium-light skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FC"
+    , _openMoji_emoji = "\x1F482\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19093,7 +19093,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "guard: medium skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FD"
+    , _openMoji_emoji = "\x1F482\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19111,7 +19111,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "guard: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FE"
+    , _openMoji_emoji = "\x1F482\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19129,7 +19129,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "guard: dark skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FF"
+    , _openMoji_emoji = "\x1F482\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19147,7 +19147,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man guard"
-    , _openMoji_emoji = "\x1F482-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F482\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19165,7 +19165,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man guard: light skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19183,7 +19183,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man guard: medium-light skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19201,7 +19201,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man guard: medium skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19219,7 +19219,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man guard: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19237,7 +19237,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man guard: dark skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19255,7 +19255,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman guard"
-    , _openMoji_emoji = "\x1F482-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F482\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19273,7 +19273,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman guard: light skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19291,7 +19291,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman guard: medium-light skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19309,7 +19309,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman guard: medium skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19327,7 +19327,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman guard: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19345,7 +19345,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman guard: dark skin tone"
-    , _openMoji_emoji = "\x1F482-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F482\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F482-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19381,7 +19381,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ninja"
-    , _openMoji_emoji = "\x1F977-1F3FB"
+    , _openMoji_emoji = "\x1F977\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F977-1F3FB"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -19399,7 +19399,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ninja"
-    , _openMoji_emoji = "\x1F977-1F3FC"
+    , _openMoji_emoji = "\x1F977\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F977-1F3FC"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -19417,7 +19417,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ninja"
-    , _openMoji_emoji = "\x1F977-1F3FD"
+    , _openMoji_emoji = "\x1F977\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F977-1F3FD"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -19435,7 +19435,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ninja"
-    , _openMoji_emoji = "\x1F977-1F3FE"
+    , _openMoji_emoji = "\x1F977\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F977-1F3FE"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -19453,7 +19453,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "ninja"
-    , _openMoji_emoji = "\x1F977-1F3FF"
+    , _openMoji_emoji = "\x1F977\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F977-1F3FF"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -19489,7 +19489,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "construction worker: light skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FB"
+    , _openMoji_emoji = "\x1F477\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19507,7 +19507,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "construction worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FC"
+    , _openMoji_emoji = "\x1F477\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19525,7 +19525,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "construction worker: medium skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FD"
+    , _openMoji_emoji = "\x1F477\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19543,7 +19543,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "construction worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FE"
+    , _openMoji_emoji = "\x1F477\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19561,7 +19561,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "construction worker: dark skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FF"
+    , _openMoji_emoji = "\x1F477\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19579,7 +19579,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man construction worker"
-    , _openMoji_emoji = "\x1F477-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F477\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19597,7 +19597,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man construction worker: light skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19615,7 +19615,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man construction worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19633,7 +19633,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man construction worker: medium skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19651,7 +19651,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man construction worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19669,7 +19669,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man construction worker: dark skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19687,7 +19687,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman construction worker"
-    , _openMoji_emoji = "\x1F477-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F477\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19705,7 +19705,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman construction worker: light skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19723,7 +19723,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman construction worker: medium-light skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19741,7 +19741,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman construction worker: medium skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19759,7 +19759,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman construction worker: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19777,7 +19777,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman construction worker: dark skin tone"
-    , _openMoji_emoji = "\x1F477-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F477\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F477-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -19813,7 +19813,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "prince: light skin tone"
-    , _openMoji_emoji = "\x1F934-1F3FB"
+    , _openMoji_emoji = "\x1F934\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F934-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19831,7 +19831,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "prince: medium-light skin tone"
-    , _openMoji_emoji = "\x1F934-1F3FC"
+    , _openMoji_emoji = "\x1F934\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F934-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19849,7 +19849,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "prince: medium skin tone"
-    , _openMoji_emoji = "\x1F934-1F3FD"
+    , _openMoji_emoji = "\x1F934\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F934-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19867,7 +19867,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "prince: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F934-1F3FE"
+    , _openMoji_emoji = "\x1F934\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F934-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19885,7 +19885,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "prince: dark skin tone"
-    , _openMoji_emoji = "\x1F934-1F3FF"
+    , _openMoji_emoji = "\x1F934\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F934-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19921,7 +19921,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "princess: light skin tone"
-    , _openMoji_emoji = "\x1F478-1F3FB"
+    , _openMoji_emoji = "\x1F478\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F478-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19939,7 +19939,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "princess: medium-light skin tone"
-    , _openMoji_emoji = "\x1F478-1F3FC"
+    , _openMoji_emoji = "\x1F478\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F478-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19957,7 +19957,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "princess: medium skin tone"
-    , _openMoji_emoji = "\x1F478-1F3FD"
+    , _openMoji_emoji = "\x1F478\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F478-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19975,7 +19975,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "princess: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F478-1F3FE"
+    , _openMoji_emoji = "\x1F478\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F478-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -19993,7 +19993,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "princess: dark skin tone"
-    , _openMoji_emoji = "\x1F478-1F3FF"
+    , _openMoji_emoji = "\x1F478\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F478-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20029,7 +20029,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person wearing turban: light skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FB"
+    , _openMoji_emoji = "\x1F473\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20047,7 +20047,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person wearing turban: medium-light skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FC"
+    , _openMoji_emoji = "\x1F473\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20065,7 +20065,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person wearing turban: medium skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FD"
+    , _openMoji_emoji = "\x1F473\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20083,7 +20083,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person wearing turban: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FE"
+    , _openMoji_emoji = "\x1F473\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20101,7 +20101,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person wearing turban: dark skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FF"
+    , _openMoji_emoji = "\x1F473\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20119,7 +20119,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man wearing turban"
-    , _openMoji_emoji = "\x1F473-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F473\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20137,7 +20137,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man wearing turban: light skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20155,7 +20155,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man wearing turban: medium-light skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20173,7 +20173,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man wearing turban: medium skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20191,7 +20191,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man wearing turban: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20209,7 +20209,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man wearing turban: dark skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20227,7 +20227,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman wearing turban"
-    , _openMoji_emoji = "\x1F473-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F473\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20245,7 +20245,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman wearing turban: light skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20263,7 +20263,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman wearing turban: medium-light skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20281,7 +20281,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman wearing turban: medium skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20299,7 +20299,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman wearing turban: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20317,7 +20317,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman wearing turban: dark skin tone"
-    , _openMoji_emoji = "\x1F473-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F473\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F473-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Antonia Wagner"
@@ -20353,7 +20353,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with skullcap: light skin tone"
-    , _openMoji_emoji = "\x1F472-1F3FB"
+    , _openMoji_emoji = "\x1F472\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F472-1F3FB"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -20371,7 +20371,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with skullcap: medium-light skin tone"
-    , _openMoji_emoji = "\x1F472-1F3FC"
+    , _openMoji_emoji = "\x1F472\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F472-1F3FC"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -20389,7 +20389,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with skullcap: medium skin tone"
-    , _openMoji_emoji = "\x1F472-1F3FD"
+    , _openMoji_emoji = "\x1F472\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F472-1F3FD"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -20407,7 +20407,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with skullcap: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F472-1F3FE"
+    , _openMoji_emoji = "\x1F472\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F472-1F3FE"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -20425,7 +20425,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with skullcap: dark skin tone"
-    , _openMoji_emoji = "\x1F472-1F3FF"
+    , _openMoji_emoji = "\x1F472\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F472-1F3FF"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -20461,7 +20461,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with headscarf: light skin tone"
-    , _openMoji_emoji = "\x1F9D5-1F3FB"
+    , _openMoji_emoji = "\x1F9D5\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D5-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20479,7 +20479,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with headscarf: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D5-1F3FC"
+    , _openMoji_emoji = "\x1F9D5\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D5-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20497,7 +20497,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with headscarf: medium skin tone"
-    , _openMoji_emoji = "\x1F9D5-1F3FD"
+    , _openMoji_emoji = "\x1F9D5\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D5-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20515,7 +20515,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with headscarf: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D5-1F3FE"
+    , _openMoji_emoji = "\x1F9D5\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D5-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20533,7 +20533,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with headscarf: dark skin tone"
-    , _openMoji_emoji = "\x1F9D5-1F3FF"
+    , _openMoji_emoji = "\x1F9D5\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D5-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -20569,7 +20569,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in tuxedo: light skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FB"
+    , _openMoji_emoji = "\x1F935\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FB"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20587,7 +20587,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in tuxedo: medium-light skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FC"
+    , _openMoji_emoji = "\x1F935\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FC"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20605,7 +20605,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in tuxedo: medium skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FD"
+    , _openMoji_emoji = "\x1F935\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FD"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20623,7 +20623,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in tuxedo: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FE"
+    , _openMoji_emoji = "\x1F935\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FE"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20641,7 +20641,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in tuxedo: dark skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FF"
+    , _openMoji_emoji = "\x1F935\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FF"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20659,7 +20659,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in tuxedo"
-    , _openMoji_emoji = "\x1F935-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F935\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -20677,7 +20677,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in tuxedo: light skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -20695,7 +20695,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in tuxedo: medium-light skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -20713,7 +20713,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in tuxedo: medium skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -20731,7 +20731,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in tuxedo: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -20749,7 +20749,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in tuxedo: dark skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -20767,7 +20767,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in tuxedo"
-    , _openMoji_emoji = "\x1F935-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F935\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20785,7 +20785,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in tuxedo: light skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20803,7 +20803,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in tuxedo: medium-light skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20821,7 +20821,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in tuxedo: medium skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20839,7 +20839,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in tuxedo: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20857,7 +20857,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in tuxedo: dark skin tone"
-    , _openMoji_emoji = "\x1F935-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F935\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F935-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20893,7 +20893,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with veil: light skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FB"
+    , _openMoji_emoji = "\x1F470\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FB"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20911,7 +20911,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with veil: medium-light skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FC"
+    , _openMoji_emoji = "\x1F470\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FC"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20929,7 +20929,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with veil: medium skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FD"
+    , _openMoji_emoji = "\x1F470\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FD"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20947,7 +20947,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with veil: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FE"
+    , _openMoji_emoji = "\x1F470\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FE"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20965,7 +20965,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with veil: dark skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FF"
+    , _openMoji_emoji = "\x1F470\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FF"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -20983,7 +20983,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with veil"
-    , _openMoji_emoji = "\x1F470-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F470\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21001,7 +21001,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with veil: light skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21019,7 +21019,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with veil: medium-light skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21037,7 +21037,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with veil: medium skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21055,7 +21055,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with veil: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21073,7 +21073,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with veil: dark skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21091,7 +21091,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with veil"
-    , _openMoji_emoji = "\x1F470-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F470\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21109,7 +21109,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with veil: light skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21127,7 +21127,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with veil: medium-light skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21145,7 +21145,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with veil: medium skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21163,7 +21163,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with veil: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21181,7 +21181,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with veil: dark skin tone"
-    , _openMoji_emoji = "\x1F470-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F470\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F470-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21217,7 +21217,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pregnant woman: light skin tone"
-    , _openMoji_emoji = "\x1F930-1F3FB"
+    , _openMoji_emoji = "\x1F930\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F930-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21235,7 +21235,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pregnant woman: medium-light skin tone"
-    , _openMoji_emoji = "\x1F930-1F3FC"
+    , _openMoji_emoji = "\x1F930\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F930-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21253,7 +21253,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pregnant woman: medium skin tone"
-    , _openMoji_emoji = "\x1F930-1F3FD"
+    , _openMoji_emoji = "\x1F930\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F930-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21271,7 +21271,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pregnant woman: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F930-1F3FE"
+    , _openMoji_emoji = "\x1F930\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F930-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21289,7 +21289,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pregnant woman: dark skin tone"
-    , _openMoji_emoji = "\x1F930-1F3FF"
+    , _openMoji_emoji = "\x1F930\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F930-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21325,7 +21325,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "breast-feeding: light skin tone"
-    , _openMoji_emoji = "\x1F931-1F3FB"
+    , _openMoji_emoji = "\x1F931\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F931-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21343,7 +21343,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "breast-feeding: medium-light skin tone"
-    , _openMoji_emoji = "\x1F931-1F3FC"
+    , _openMoji_emoji = "\x1F931\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F931-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21361,7 +21361,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "breast-feeding: medium skin tone"
-    , _openMoji_emoji = "\x1F931-1F3FD"
+    , _openMoji_emoji = "\x1F931\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F931-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21379,7 +21379,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "breast-feeding: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F931-1F3FE"
+    , _openMoji_emoji = "\x1F931\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F931-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21397,7 +21397,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "breast-feeding: dark skin tone"
-    , _openMoji_emoji = "\x1F931-1F3FF"
+    , _openMoji_emoji = "\x1F931\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F931-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21415,7 +21415,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman feeding baby"
-    , _openMoji_emoji = "\x1F469-200D-1F37C"
+    , _openMoji_emoji = "\x1F469\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21433,7 +21433,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman feeding baby: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F37C"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21451,7 +21451,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman feeding baby: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F37C"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21469,7 +21469,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman feeding baby: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F37C"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21487,7 +21487,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman feeding baby: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F37C"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21505,7 +21505,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman feeding baby: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F37C"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21523,7 +21523,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man feeding baby"
-    , _openMoji_emoji = "\x1F468-200D-1F37C"
+    , _openMoji_emoji = "\x1F468\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21541,7 +21541,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man feeding baby: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F37C"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21559,7 +21559,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man feeding baby: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F37C"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21577,7 +21577,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man feeding baby: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F37C"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21595,7 +21595,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man feeding baby: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F37C"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21613,7 +21613,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man feeding baby: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F37C"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21631,7 +21631,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person feeding baby"
-    , _openMoji_emoji = "\x1F9D1-200D-1F37C"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21649,7 +21649,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person feeding baby: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F37C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21667,7 +21667,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person feeding baby: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F37C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21685,7 +21685,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person feeding baby: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F37C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21703,7 +21703,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person feeding baby: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F37C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21721,7 +21721,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person feeding baby: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F37C"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F37C"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F37C"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -21757,7 +21757,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby angel: light skin tone"
-    , _openMoji_emoji = "\x1F47C-1F3FB"
+    , _openMoji_emoji = "\x1F47C\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F47C-1F3FB"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -21775,7 +21775,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby angel: medium-light skin tone"
-    , _openMoji_emoji = "\x1F47C-1F3FC"
+    , _openMoji_emoji = "\x1F47C\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F47C-1F3FC"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -21793,7 +21793,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby angel: medium skin tone"
-    , _openMoji_emoji = "\x1F47C-1F3FD"
+    , _openMoji_emoji = "\x1F47C\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F47C-1F3FD"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -21811,7 +21811,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby angel: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F47C-1F3FE"
+    , _openMoji_emoji = "\x1F47C\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F47C-1F3FE"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -21829,7 +21829,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "baby angel: dark skin tone"
-    , _openMoji_emoji = "\x1F47C-1F3FF"
+    , _openMoji_emoji = "\x1F47C\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F47C-1F3FF"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -21865,7 +21865,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Santa Claus: light skin tone"
-    , _openMoji_emoji = "\x1F385-1F3FB"
+    , _openMoji_emoji = "\x1F385\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F385-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21883,7 +21883,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Santa Claus: medium-light skin tone"
-    , _openMoji_emoji = "\x1F385-1F3FC"
+    , _openMoji_emoji = "\x1F385\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F385-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21901,7 +21901,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Santa Claus: medium skin tone"
-    , _openMoji_emoji = "\x1F385-1F3FD"
+    , _openMoji_emoji = "\x1F385\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F385-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21919,7 +21919,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Santa Claus: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F385-1F3FE"
+    , _openMoji_emoji = "\x1F385\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F385-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21937,7 +21937,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Santa Claus: dark skin tone"
-    , _openMoji_emoji = "\x1F385-1F3FF"
+    , _openMoji_emoji = "\x1F385\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F385-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21973,7 +21973,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Mrs. Claus: light skin tone"
-    , _openMoji_emoji = "\x1F936-1F3FB"
+    , _openMoji_emoji = "\x1F936\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F936-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -21991,7 +21991,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Mrs. Claus: medium-light skin tone"
-    , _openMoji_emoji = "\x1F936-1F3FC"
+    , _openMoji_emoji = "\x1F936\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F936-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -22009,7 +22009,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Mrs. Claus: medium skin tone"
-    , _openMoji_emoji = "\x1F936-1F3FD"
+    , _openMoji_emoji = "\x1F936\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F936-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -22027,7 +22027,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Mrs. Claus: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F936-1F3FE"
+    , _openMoji_emoji = "\x1F936\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F936-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -22045,7 +22045,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "Mrs. Claus: dark skin tone"
-    , _openMoji_emoji = "\x1F936-1F3FF"
+    , _openMoji_emoji = "\x1F936\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F936-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -22063,7 +22063,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mx claus"
-    , _openMoji_emoji = "\x1F9D1-200D-1F384"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F384"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F384"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -22081,7 +22081,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mx claus: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F384"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F384"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F384"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -22099,7 +22099,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mx claus: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F384"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F384"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F384"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -22117,7 +22117,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mx claus: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F384"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F384"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F384"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -22135,7 +22135,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mx claus: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F384"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F384"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F384"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -22153,7 +22153,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mx claus: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F384"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F384"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F384"
     , _openMoji_openmoji_author = "Liz Bravo"
@@ -22189,7 +22189,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "superhero: light skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FB"
+    , _openMoji_emoji = "\x1F9B8\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FB"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22207,7 +22207,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "superhero: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FC"
+    , _openMoji_emoji = "\x1F9B8\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FC"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22225,7 +22225,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "superhero: medium skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FD"
+    , _openMoji_emoji = "\x1F9B8\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FD"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22243,7 +22243,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "superhero: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FE"
+    , _openMoji_emoji = "\x1F9B8\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FE"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22261,7 +22261,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "superhero: dark skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FF"
+    , _openMoji_emoji = "\x1F9B8\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FF"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22279,7 +22279,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man superhero"
-    , _openMoji_emoji = "\x1F9B8-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22297,7 +22297,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man superhero: light skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22315,7 +22315,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man superhero: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22333,7 +22333,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man superhero: medium skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22351,7 +22351,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man superhero: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22369,7 +22369,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man superhero: dark skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22387,7 +22387,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman superhero"
-    , _openMoji_emoji = "\x1F9B8-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22405,7 +22405,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman superhero: light skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22423,7 +22423,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman superhero: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22441,7 +22441,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman superhero: medium skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22459,7 +22459,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman superhero: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22477,7 +22477,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman superhero: dark skin tone"
-    , _openMoji_emoji = "\x1F9B8-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B8\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B8-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22513,7 +22513,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "supervillain: light skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FB"
+    , _openMoji_emoji = "\x1F9B9\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FB"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22531,7 +22531,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "supervillain: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FC"
+    , _openMoji_emoji = "\x1F9B9\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FC"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22549,7 +22549,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "supervillain: medium skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FD"
+    , _openMoji_emoji = "\x1F9B9\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FD"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22567,7 +22567,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "supervillain: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FE"
+    , _openMoji_emoji = "\x1F9B9\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FE"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22585,7 +22585,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "supervillain: dark skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FF"
+    , _openMoji_emoji = "\x1F9B9\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FF"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22603,7 +22603,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man supervillain"
-    , _openMoji_emoji = "\x1F9B9-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22621,7 +22621,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man supervillain: light skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22639,7 +22639,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man supervillain: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22657,7 +22657,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man supervillain: medium skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22675,7 +22675,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man supervillain: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22693,7 +22693,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man supervillain: dark skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22711,7 +22711,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman supervillain"
-    , _openMoji_emoji = "\x1F9B9-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22729,7 +22729,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman supervillain: light skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22747,7 +22747,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman supervillain: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22765,7 +22765,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman supervillain: medium skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22783,7 +22783,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman supervillain: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22801,7 +22801,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman supervillain: dark skin tone"
-    , _openMoji_emoji = "\x1F9B9-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9B9\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9B9-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22837,7 +22837,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mage: light skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FB"
+    , _openMoji_emoji = "\x1F9D9\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -22855,7 +22855,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mage: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FC"
+    , _openMoji_emoji = "\x1F9D9\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -22873,7 +22873,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mage: medium skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FD"
+    , _openMoji_emoji = "\x1F9D9\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -22891,7 +22891,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mage: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FE"
+    , _openMoji_emoji = "\x1F9D9\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -22909,7 +22909,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mage: dark skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FF"
+    , _openMoji_emoji = "\x1F9D9\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -22927,7 +22927,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mage"
-    , _openMoji_emoji = "\x1F9D9-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22945,7 +22945,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mage: light skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22963,7 +22963,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mage: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22981,7 +22981,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mage: medium skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -22999,7 +22999,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mage: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23017,7 +23017,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mage: dark skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23035,7 +23035,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mage"
-    , _openMoji_emoji = "\x1F9D9-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23053,7 +23053,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mage: light skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23071,7 +23071,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mage: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23089,7 +23089,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mage: medium skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23107,7 +23107,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mage: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23125,7 +23125,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mage: dark skin tone"
-    , _openMoji_emoji = "\x1F9D9-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D9\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D9-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23161,7 +23161,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "fairy: light skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FB"
+    , _openMoji_emoji = "\x1F9DA\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FB"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23179,7 +23179,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "fairy: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FC"
+    , _openMoji_emoji = "\x1F9DA\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FC"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23197,7 +23197,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "fairy: medium skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FD"
+    , _openMoji_emoji = "\x1F9DA\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FD"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23215,7 +23215,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "fairy: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FE"
+    , _openMoji_emoji = "\x1F9DA\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FE"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23233,7 +23233,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "fairy: dark skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FF"
+    , _openMoji_emoji = "\x1F9DA\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FF"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23251,7 +23251,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man fairy"
-    , _openMoji_emoji = "\x1F9DA-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23269,7 +23269,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man fairy: light skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23287,7 +23287,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man fairy: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23305,7 +23305,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man fairy: medium skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23323,7 +23323,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man fairy: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23341,7 +23341,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man fairy: dark skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23359,7 +23359,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman fairy"
-    , _openMoji_emoji = "\x1F9DA-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23377,7 +23377,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman fairy: light skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23395,7 +23395,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman fairy: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23413,7 +23413,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman fairy: medium skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23431,7 +23431,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman fairy: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23449,7 +23449,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman fairy: dark skin tone"
-    , _openMoji_emoji = "\x1F9DA-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DA\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DA-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23485,7 +23485,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vampire: light skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FB"
+    , _openMoji_emoji = "\x1F9DB\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FB"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23503,7 +23503,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vampire: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FC"
+    , _openMoji_emoji = "\x1F9DB\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FC"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23521,7 +23521,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vampire: medium skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FD"
+    , _openMoji_emoji = "\x1F9DB\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FD"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23539,7 +23539,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vampire: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FE"
+    , _openMoji_emoji = "\x1F9DB\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FE"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23557,7 +23557,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "vampire: dark skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FF"
+    , _openMoji_emoji = "\x1F9DB\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FF"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23575,7 +23575,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man vampire"
-    , _openMoji_emoji = "\x1F9DB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23593,7 +23593,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man vampire: light skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23611,7 +23611,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man vampire: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23629,7 +23629,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man vampire: medium skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23647,7 +23647,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man vampire: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23665,7 +23665,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man vampire: dark skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23683,7 +23683,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman vampire"
-    , _openMoji_emoji = "\x1F9DB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23701,7 +23701,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman vampire: light skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23719,7 +23719,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman vampire: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23737,7 +23737,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman vampire: medium skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23755,7 +23755,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman vampire: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23773,7 +23773,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman vampire: dark skin tone"
-    , _openMoji_emoji = "\x1F9DB-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DB\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DB-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Nadine Bartel"
@@ -23809,7 +23809,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merperson: light skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FB"
+    , _openMoji_emoji = "\x1F9DC\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FB"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -23827,7 +23827,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merperson: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FC"
+    , _openMoji_emoji = "\x1F9DC\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FC"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -23845,7 +23845,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merperson: medium skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FD"
+    , _openMoji_emoji = "\x1F9DC\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FD"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -23863,7 +23863,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merperson: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FE"
+    , _openMoji_emoji = "\x1F9DC\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FE"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -23881,7 +23881,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merperson: dark skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FF"
+    , _openMoji_emoji = "\x1F9DC\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FF"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -23899,7 +23899,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merman"
-    , _openMoji_emoji = "\x1F9DC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -23917,7 +23917,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merman: light skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -23935,7 +23935,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merman: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -23953,7 +23953,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merman: medium skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -23971,7 +23971,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merman: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -23989,7 +23989,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "merman: dark skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -24007,7 +24007,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mermaid"
-    , _openMoji_emoji = "\x1F9DC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -24025,7 +24025,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mermaid: light skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -24043,7 +24043,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mermaid: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -24061,7 +24061,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mermaid: medium skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -24079,7 +24079,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mermaid: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -24097,7 +24097,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "mermaid: dark skin tone"
-    , _openMoji_emoji = "\x1F9DC-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DC\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DC-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Sina Chlod"
@@ -24133,7 +24133,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "elf: light skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FB"
+    , _openMoji_emoji = "\x1F9DD\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FB"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -24151,7 +24151,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "elf: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FC"
+    , _openMoji_emoji = "\x1F9DD\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FC"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -24169,7 +24169,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "elf: medium skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FD"
+    , _openMoji_emoji = "\x1F9DD\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FD"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -24187,7 +24187,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "elf: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FE"
+    , _openMoji_emoji = "\x1F9DD\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FE"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -24205,7 +24205,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "elf: dark skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FF"
+    , _openMoji_emoji = "\x1F9DD\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FF"
     , _openMoji_openmoji_author = "Lisa Thiel"
@@ -24223,7 +24223,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man elf"
-    , _openMoji_emoji = "\x1F9DD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24241,7 +24241,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man elf: light skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24259,7 +24259,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man elf: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24277,7 +24277,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man elf: medium skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24295,7 +24295,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man elf: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24313,7 +24313,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man elf: dark skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24331,7 +24331,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman elf"
-    , _openMoji_emoji = "\x1F9DD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24349,7 +24349,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman elf: light skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24367,7 +24367,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman elf: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24385,7 +24385,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman elf: medium skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24403,7 +24403,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman elf: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24421,7 +24421,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman elf: dark skin tone"
-    , _openMoji_emoji = "\x1F9DD-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DD\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DD-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24457,7 +24457,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man genie"
-    , _openMoji_emoji = "\x1F9DE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24475,7 +24475,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman genie"
-    , _openMoji_emoji = "\x1F9DE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24511,7 +24511,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man zombie"
-    , _openMoji_emoji = "\x1F9DF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9DF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24529,7 +24529,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman zombie"
-    , _openMoji_emoji = "\x1F9DF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9DF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9DF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24565,7 +24565,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting massage: light skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FB"
+    , _openMoji_emoji = "\x1F486\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24583,7 +24583,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting massage: medium-light skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FC"
+    , _openMoji_emoji = "\x1F486\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24601,7 +24601,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting massage: medium skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FD"
+    , _openMoji_emoji = "\x1F486\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24619,7 +24619,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting massage: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FE"
+    , _openMoji_emoji = "\x1F486\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24637,7 +24637,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting massage: dark skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FF"
+    , _openMoji_emoji = "\x1F486\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24655,7 +24655,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting massage"
-    , _openMoji_emoji = "\x1F486-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F486\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24673,7 +24673,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting massage: light skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24691,7 +24691,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting massage: medium-light skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24709,7 +24709,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting massage: medium skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24727,7 +24727,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting massage: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24745,7 +24745,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting massage: dark skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24763,7 +24763,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting massage"
-    , _openMoji_emoji = "\x1F486-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F486\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24781,7 +24781,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting massage: light skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24799,7 +24799,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting massage: medium-light skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24817,7 +24817,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting massage: medium skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24835,7 +24835,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting massage: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24853,7 +24853,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting massage: dark skin tone"
-    , _openMoji_emoji = "\x1F486-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F486\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F486-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24889,7 +24889,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting haircut: light skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FB"
+    , _openMoji_emoji = "\x1F487\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24907,7 +24907,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting haircut: medium-light skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FC"
+    , _openMoji_emoji = "\x1F487\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24925,7 +24925,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting haircut: medium skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FD"
+    , _openMoji_emoji = "\x1F487\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24943,7 +24943,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting haircut: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FE"
+    , _openMoji_emoji = "\x1F487\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24961,7 +24961,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person getting haircut: dark skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FF"
+    , _openMoji_emoji = "\x1F487\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -24979,7 +24979,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting haircut"
-    , _openMoji_emoji = "\x1F487-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F487\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -24997,7 +24997,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting haircut: light skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25015,7 +25015,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting haircut: medium-light skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25033,7 +25033,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting haircut: medium skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25051,7 +25051,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting haircut: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25069,7 +25069,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man getting haircut: dark skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25087,7 +25087,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting haircut"
-    , _openMoji_emoji = "\x1F487-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F487\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25105,7 +25105,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting haircut: light skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25123,7 +25123,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting haircut: medium-light skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25141,7 +25141,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting haircut: medium skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25159,7 +25159,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting haircut: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25177,7 +25177,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman getting haircut: dark skin tone"
-    , _openMoji_emoji = "\x1F487-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F487\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F487-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -25213,7 +25213,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person walking: light skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FB"
+    , _openMoji_emoji = "\x1F6B6\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25231,7 +25231,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person walking: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FC"
+    , _openMoji_emoji = "\x1F6B6\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25249,7 +25249,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person walking: medium skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FD"
+    , _openMoji_emoji = "\x1F6B6\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25267,7 +25267,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person walking: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FE"
+    , _openMoji_emoji = "\x1F6B6\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25285,7 +25285,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person walking: dark skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FF"
+    , _openMoji_emoji = "\x1F6B6\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25303,7 +25303,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man walking"
-    , _openMoji_emoji = "\x1F6B6-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25321,7 +25321,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man walking: light skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25339,7 +25339,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man walking: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25357,7 +25357,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man walking: medium skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25375,7 +25375,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man walking: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25393,7 +25393,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man walking: dark skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25411,7 +25411,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman walking"
-    , _openMoji_emoji = "\x1F6B6-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25429,7 +25429,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman walking: light skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25447,7 +25447,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman walking: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25465,7 +25465,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman walking: medium skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25483,7 +25483,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman walking: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25501,7 +25501,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman walking: dark skin tone"
-    , _openMoji_emoji = "\x1F6B6-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B6\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B6-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -25537,7 +25537,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person standing: light skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FB"
+    , _openMoji_emoji = "\x1F9CD\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FB"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25555,7 +25555,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person standing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FC"
+    , _openMoji_emoji = "\x1F9CD\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25573,7 +25573,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person standing: medium skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FD"
+    , _openMoji_emoji = "\x1F9CD\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FD"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25591,7 +25591,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person standing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FE"
+    , _openMoji_emoji = "\x1F9CD\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FE"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25609,7 +25609,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person standing: dark skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FF"
+    , _openMoji_emoji = "\x1F9CD\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FF"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25627,7 +25627,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man standing"
-    , _openMoji_emoji = "\x1F9CD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25645,7 +25645,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man standing: light skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25663,7 +25663,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man standing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25681,7 +25681,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man standing: medium skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25699,7 +25699,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man standing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25717,7 +25717,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man standing: dark skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25735,7 +25735,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman standing"
-    , _openMoji_emoji = "\x1F9CD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25753,7 +25753,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman standing: light skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25771,7 +25771,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman standing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25789,7 +25789,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman standing: medium skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25807,7 +25807,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman standing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25825,7 +25825,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman standing: dark skin tone"
-    , _openMoji_emoji = "\x1F9CD-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CD\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CD-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25861,7 +25861,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person kneeling: light skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FB"
+    , _openMoji_emoji = "\x1F9CE\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FB"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25879,7 +25879,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person kneeling: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FC"
+    , _openMoji_emoji = "\x1F9CE\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25897,7 +25897,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person kneeling: medium skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FD"
+    , _openMoji_emoji = "\x1F9CE\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FD"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25915,7 +25915,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person kneeling: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FE"
+    , _openMoji_emoji = "\x1F9CE\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FE"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25933,7 +25933,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person kneeling: dark skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FF"
+    , _openMoji_emoji = "\x1F9CE\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FF"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25951,7 +25951,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man kneeling"
-    , _openMoji_emoji = "\x1F9CE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25969,7 +25969,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man kneeling: light skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -25987,7 +25987,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man kneeling: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26005,7 +26005,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man kneeling: medium skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26023,7 +26023,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man kneeling: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26041,7 +26041,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man kneeling: dark skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26059,7 +26059,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman kneeling"
-    , _openMoji_emoji = "\x1F9CE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26077,7 +26077,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman kneeling: light skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26095,7 +26095,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman kneeling: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26113,7 +26113,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman kneeling: medium skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26131,7 +26131,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman kneeling: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26149,7 +26149,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman kneeling: dark skin tone"
-    , _openMoji_emoji = "\x1F9CE-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9CE\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9CE-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26167,7 +26167,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with white cane"
-    , _openMoji_emoji = "\x1F9D1-200D-1F9AF"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F9AF"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26185,7 +26185,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with white cane: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F9AF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F9AF"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26203,7 +26203,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with white cane: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F9AF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F9AF"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26221,7 +26221,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with white cane: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F9AF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F9AF"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26239,7 +26239,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with white cane: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F9AF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F9AF"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26257,7 +26257,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person with white cane: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F9AF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F9AF"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26275,7 +26275,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with white cane"
-    , _openMoji_emoji = "\x1F468-200D-1F9AF"
+    , _openMoji_emoji = "\x1F468\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26293,7 +26293,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with white cane: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F9AF"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26311,7 +26311,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with white cane: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F9AF"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26329,7 +26329,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with white cane: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F9AF"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26347,7 +26347,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with white cane: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F9AF"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26365,7 +26365,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with white cane: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F9AF"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26383,7 +26383,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with white cane"
-    , _openMoji_emoji = "\x1F469-200D-1F9AF"
+    , _openMoji_emoji = "\x1F469\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26401,7 +26401,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with white cane: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F9AF"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26419,7 +26419,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with white cane: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F9AF"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26437,7 +26437,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with white cane: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F9AF"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26455,7 +26455,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with white cane: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F9AF"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26473,7 +26473,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with white cane: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F9AF"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F9AF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F9AF"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26491,7 +26491,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in motorized wheelchair"
-    , _openMoji_emoji = "\x1F9D1-200D-1F9BC"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F9BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26509,7 +26509,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in motorized wheelchair: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F9BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F9BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26527,7 +26527,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in motorized wheelchair: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F9BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F9BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26545,7 +26545,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in motorized wheelchair: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F9BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F9BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26563,7 +26563,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in motorized wheelchair: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F9BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F9BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26581,7 +26581,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in motorized wheelchair: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F9BC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F9BC"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26599,7 +26599,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in motorized wheelchair"
-    , _openMoji_emoji = "\x1F468-200D-1F9BC"
+    , _openMoji_emoji = "\x1F468\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26617,7 +26617,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in motorized wheelchair: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F9BC"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26635,7 +26635,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in motorized wheelchair: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F9BC"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26653,7 +26653,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in motorized wheelchair: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F9BC"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26671,7 +26671,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in motorized wheelchair: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F9BC"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26689,7 +26689,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in motorized wheelchair: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F9BC"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26707,7 +26707,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in motorized wheelchair"
-    , _openMoji_emoji = "\x1F469-200D-1F9BC"
+    , _openMoji_emoji = "\x1F469\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26725,7 +26725,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in motorized wheelchair: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F9BC"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26743,7 +26743,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in motorized wheelchair: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F9BC"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26761,7 +26761,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in motorized wheelchair: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F9BC"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26779,7 +26779,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in motorized wheelchair: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F9BC"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26797,7 +26797,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in motorized wheelchair: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F9BC"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F9BC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F9BC"
     , _openMoji_openmoji_author = "Laura Dworatschek"
@@ -26815,7 +26815,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in manual wheelchair"
-    , _openMoji_emoji = "\x1F9D1-200D-1F9BD"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F9BD"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26833,7 +26833,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in manual wheelchair: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F9BD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F9BD"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26851,7 +26851,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in manual wheelchair: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F9BD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F9BD"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26869,7 +26869,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in manual wheelchair: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F9BD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F9BD"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26887,7 +26887,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in manual wheelchair: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F9BD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F9BD"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26905,7 +26905,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in manual wheelchair: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F9BD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F9BD"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -26923,7 +26923,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in manual wheelchair"
-    , _openMoji_emoji = "\x1F468-200D-1F9BD"
+    , _openMoji_emoji = "\x1F468\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26941,7 +26941,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in manual wheelchair: light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F9BD"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26959,7 +26959,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in manual wheelchair: medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F9BD"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26977,7 +26977,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in manual wheelchair: medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F9BD"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -26995,7 +26995,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in manual wheelchair: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F9BD"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -27013,7 +27013,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in manual wheelchair: dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F9BD"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -27031,7 +27031,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in manual wheelchair"
-    , _openMoji_emoji = "\x1F469-200D-1F9BD"
+    , _openMoji_emoji = "\x1F469\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -27049,7 +27049,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in manual wheelchair: light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F9BD"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -27067,7 +27067,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in manual wheelchair: medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F9BD"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -27085,7 +27085,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in manual wheelchair: medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F9BD"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -27103,7 +27103,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in manual wheelchair: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F9BD"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -27121,7 +27121,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in manual wheelchair: dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F9BD"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F9BD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F9BD"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -27157,7 +27157,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person running: light skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FB"
+    , _openMoji_emoji = "\x1F3C3\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27175,7 +27175,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person running: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FC"
+    , _openMoji_emoji = "\x1F3C3\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27193,7 +27193,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person running: medium skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FD"
+    , _openMoji_emoji = "\x1F3C3\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27211,7 +27211,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person running: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FE"
+    , _openMoji_emoji = "\x1F3C3\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27229,7 +27229,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person running: dark skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FF"
+    , _openMoji_emoji = "\x1F3C3\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27247,7 +27247,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man running"
-    , _openMoji_emoji = "\x1F3C3-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27265,7 +27265,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man running: light skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27283,7 +27283,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man running: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27301,7 +27301,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man running: medium skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27319,7 +27319,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man running: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27337,7 +27337,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man running: dark skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27355,7 +27355,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman running"
-    , _openMoji_emoji = "\x1F3C3-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27373,7 +27373,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman running: light skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27391,7 +27391,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman running: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27409,7 +27409,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman running: medium skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27427,7 +27427,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman running: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27445,7 +27445,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman running: dark skin tone"
-    , _openMoji_emoji = "\x1F3C3-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C3\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C3-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27481,7 +27481,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman dancing: light skin tone"
-    , _openMoji_emoji = "\x1F483-1F3FB"
+    , _openMoji_emoji = "\x1F483\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F483-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27499,7 +27499,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman dancing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F483-1F3FC"
+    , _openMoji_emoji = "\x1F483\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F483-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27517,7 +27517,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman dancing: medium skin tone"
-    , _openMoji_emoji = "\x1F483-1F3FD"
+    , _openMoji_emoji = "\x1F483\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F483-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27535,7 +27535,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman dancing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F483-1F3FE"
+    , _openMoji_emoji = "\x1F483\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F483-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27553,7 +27553,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman dancing: dark skin tone"
-    , _openMoji_emoji = "\x1F483-1F3FF"
+    , _openMoji_emoji = "\x1F483\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F483-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27589,7 +27589,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man dancing: light skin tone"
-    , _openMoji_emoji = "\x1F57A-1F3FB"
+    , _openMoji_emoji = "\x1F57A\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F57A-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27607,7 +27607,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man dancing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F57A-1F3FC"
+    , _openMoji_emoji = "\x1F57A\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F57A-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27625,7 +27625,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man dancing: medium skin tone"
-    , _openMoji_emoji = "\x1F57A-1F3FD"
+    , _openMoji_emoji = "\x1F57A\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F57A-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27643,7 +27643,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man dancing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F57A-1F3FE"
+    , _openMoji_emoji = "\x1F57A\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F57A-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27661,7 +27661,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man dancing: dark skin tone"
-    , _openMoji_emoji = "\x1F57A-1F3FF"
+    , _openMoji_emoji = "\x1F57A\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F57A-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -27697,7 +27697,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in suit levitating: light skin tone"
-    , _openMoji_emoji = "\x1F574-1F3FB"
+    , _openMoji_emoji = "\x1F574\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F574-1F3FB"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27715,7 +27715,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in suit levitating: medium-light skin tone"
-    , _openMoji_emoji = "\x1F574-1F3FC"
+    , _openMoji_emoji = "\x1F574\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F574-1F3FC"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27733,7 +27733,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in suit levitating: medium skin tone"
-    , _openMoji_emoji = "\x1F574-1F3FD"
+    , _openMoji_emoji = "\x1F574\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F574-1F3FD"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27751,7 +27751,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in suit levitating: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F574-1F3FE"
+    , _openMoji_emoji = "\x1F574\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F574-1F3FE"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27769,7 +27769,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in suit levitating: dark skin tone"
-    , _openMoji_emoji = "\x1F574-1F3FF"
+    , _openMoji_emoji = "\x1F574\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F574-1F3FF"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27805,7 +27805,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men with bunny ears"
-    , _openMoji_emoji = "\x1F46F-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F46F\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46F-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27823,7 +27823,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women with bunny ears"
-    , _openMoji_emoji = "\x1F46F-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F46F\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46F-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Rifat Erdogan"
@@ -27859,7 +27859,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in steamy room: light skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FB"
+    , _openMoji_emoji = "\x1F9D6\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FB"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27877,7 +27877,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in steamy room: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FC"
+    , _openMoji_emoji = "\x1F9D6\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FC"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27895,7 +27895,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in steamy room: medium skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FD"
+    , _openMoji_emoji = "\x1F9D6\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FD"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27913,7 +27913,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in steamy room: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FE"
+    , _openMoji_emoji = "\x1F9D6\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FE"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27931,7 +27931,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in steamy room: dark skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FF"
+    , _openMoji_emoji = "\x1F9D6\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FF"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27949,7 +27949,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in steamy room"
-    , _openMoji_emoji = "\x1F9D6-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27967,7 +27967,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in steamy room: light skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -27985,7 +27985,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in steamy room: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28003,7 +28003,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in steamy room: medium skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28021,7 +28021,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in steamy room: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28039,7 +28039,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in steamy room: dark skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28057,7 +28057,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in steamy room"
-    , _openMoji_emoji = "\x1F9D6-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28075,7 +28075,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in steamy room: light skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28093,7 +28093,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in steamy room: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28111,7 +28111,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in steamy room: medium skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28129,7 +28129,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in steamy room: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28147,7 +28147,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in steamy room: dark skin tone"
-    , _openMoji_emoji = "\x1F9D6-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D6\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D6-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28183,7 +28183,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person climbing: light skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FB"
+    , _openMoji_emoji = "\x1F9D7\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28201,7 +28201,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person climbing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FC"
+    , _openMoji_emoji = "\x1F9D7\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28219,7 +28219,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person climbing: medium skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FD"
+    , _openMoji_emoji = "\x1F9D7\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28237,7 +28237,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person climbing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FE"
+    , _openMoji_emoji = "\x1F9D7\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28255,7 +28255,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person climbing: dark skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FF"
+    , _openMoji_emoji = "\x1F9D7\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28273,7 +28273,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man climbing"
-    , _openMoji_emoji = "\x1F9D7-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28291,7 +28291,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man climbing: light skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28309,7 +28309,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man climbing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28327,7 +28327,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man climbing: medium skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28345,7 +28345,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man climbing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28363,7 +28363,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man climbing: dark skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28381,7 +28381,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman climbing"
-    , _openMoji_emoji = "\x1F9D7-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28399,7 +28399,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman climbing: light skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28417,7 +28417,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman climbing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28435,7 +28435,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman climbing: medium skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28453,7 +28453,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman climbing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28471,7 +28471,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman climbing: dark skin tone"
-    , _openMoji_emoji = "\x1F9D7-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D7\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D7-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28525,7 +28525,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "horse racing: light skin tone"
-    , _openMoji_emoji = "\x1F3C7-1F3FB"
+    , _openMoji_emoji = "\x1F3C7\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C7-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28543,7 +28543,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "horse racing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3C7-1F3FC"
+    , _openMoji_emoji = "\x1F3C7\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C7-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28561,7 +28561,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "horse racing: medium skin tone"
-    , _openMoji_emoji = "\x1F3C7-1F3FD"
+    , _openMoji_emoji = "\x1F3C7\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C7-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28579,7 +28579,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "horse racing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3C7-1F3FE"
+    , _openMoji_emoji = "\x1F3C7\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C7-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28597,7 +28597,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "horse racing: dark skin tone"
-    , _openMoji_emoji = "\x1F3C7-1F3FF"
+    , _openMoji_emoji = "\x1F3C7\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C7-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28651,7 +28651,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "snowboarder: light skin tone"
-    , _openMoji_emoji = "\x1F3C2-1F3FB"
+    , _openMoji_emoji = "\x1F3C2\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C2-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28669,7 +28669,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "snowboarder: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3C2-1F3FC"
+    , _openMoji_emoji = "\x1F3C2\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C2-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28687,7 +28687,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "snowboarder: medium skin tone"
-    , _openMoji_emoji = "\x1F3C2-1F3FD"
+    , _openMoji_emoji = "\x1F3C2\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C2-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28705,7 +28705,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "snowboarder: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3C2-1F3FE"
+    , _openMoji_emoji = "\x1F3C2\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C2-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28723,7 +28723,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "snowboarder: dark skin tone"
-    , _openMoji_emoji = "\x1F3C2-1F3FF"
+    , _openMoji_emoji = "\x1F3C2\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C2-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28759,7 +28759,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person golfing: light skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FB"
+    , _openMoji_emoji = "\x1F3CC\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28777,7 +28777,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person golfing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FC"
+    , _openMoji_emoji = "\x1F3CC\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28795,7 +28795,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person golfing: medium skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FD"
+    , _openMoji_emoji = "\x1F3CC\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28813,7 +28813,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person golfing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FE"
+    , _openMoji_emoji = "\x1F3CC\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28831,7 +28831,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person golfing: dark skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FF"
+    , _openMoji_emoji = "\x1F3CC\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -28849,7 +28849,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man golfing"
-    , _openMoji_emoji = "\x1F3CC-FE0F-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CC\xFE0F\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-FE0F-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28867,7 +28867,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man golfing: light skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28885,7 +28885,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man golfing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28903,7 +28903,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man golfing: medium skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28921,7 +28921,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man golfing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28939,7 +28939,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man golfing: dark skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28957,7 +28957,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman golfing"
-    , _openMoji_emoji = "\x1F3CC-FE0F-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CC\xFE0F\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-FE0F-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28975,7 +28975,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman golfing: light skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -28993,7 +28993,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman golfing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29011,7 +29011,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman golfing: medium skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29029,7 +29029,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman golfing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29047,7 +29047,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman golfing: dark skin tone"
-    , _openMoji_emoji = "\x1F3CC-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CC\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CC-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29083,7 +29083,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person surfing: light skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FB"
+    , _openMoji_emoji = "\x1F3C4\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29101,7 +29101,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person surfing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FC"
+    , _openMoji_emoji = "\x1F3C4\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29119,7 +29119,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person surfing: medium skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FD"
+    , _openMoji_emoji = "\x1F3C4\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29137,7 +29137,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person surfing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FE"
+    , _openMoji_emoji = "\x1F3C4\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29155,7 +29155,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person surfing: dark skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FF"
+    , _openMoji_emoji = "\x1F3C4\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29173,7 +29173,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man surfing"
-    , _openMoji_emoji = "\x1F3C4-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29191,7 +29191,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man surfing: light skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29209,7 +29209,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man surfing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29227,7 +29227,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man surfing: medium skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29245,7 +29245,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man surfing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29263,7 +29263,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man surfing: dark skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29281,7 +29281,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman surfing"
-    , _openMoji_emoji = "\x1F3C4-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29299,7 +29299,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman surfing: light skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29317,7 +29317,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman surfing: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29335,7 +29335,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman surfing: medium skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29353,7 +29353,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman surfing: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29371,7 +29371,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman surfing: dark skin tone"
-    , _openMoji_emoji = "\x1F3C4-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3C4\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3C4-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29407,7 +29407,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person rowing boat: light skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FB"
+    , _openMoji_emoji = "\x1F6A3\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29425,7 +29425,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person rowing boat: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FC"
+    , _openMoji_emoji = "\x1F6A3\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29443,7 +29443,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person rowing boat: medium skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FD"
+    , _openMoji_emoji = "\x1F6A3\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29461,7 +29461,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person rowing boat: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FE"
+    , _openMoji_emoji = "\x1F6A3\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29479,7 +29479,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person rowing boat: dark skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FF"
+    , _openMoji_emoji = "\x1F6A3\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29497,7 +29497,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man rowing boat"
-    , _openMoji_emoji = "\x1F6A3-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29515,7 +29515,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man rowing boat: light skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29533,7 +29533,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man rowing boat: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29551,7 +29551,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man rowing boat: medium skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29569,7 +29569,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man rowing boat: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29587,7 +29587,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man rowing boat: dark skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29605,7 +29605,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman rowing boat"
-    , _openMoji_emoji = "\x1F6A3-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29623,7 +29623,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman rowing boat: light skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29641,7 +29641,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman rowing boat: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29659,7 +29659,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman rowing boat: medium skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29677,7 +29677,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman rowing boat: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29695,7 +29695,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman rowing boat: dark skin tone"
-    , _openMoji_emoji = "\x1F6A3-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6A3\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6A3-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29731,7 +29731,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person swimming: light skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FB"
+    , _openMoji_emoji = "\x1F3CA\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29749,7 +29749,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person swimming: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FC"
+    , _openMoji_emoji = "\x1F3CA\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29767,7 +29767,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person swimming: medium skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FD"
+    , _openMoji_emoji = "\x1F3CA\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29785,7 +29785,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person swimming: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FE"
+    , _openMoji_emoji = "\x1F3CA\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29803,7 +29803,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person swimming: dark skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FF"
+    , _openMoji_emoji = "\x1F3CA\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -29821,7 +29821,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man swimming"
-    , _openMoji_emoji = "\x1F3CA-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29839,7 +29839,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man swimming: light skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29857,7 +29857,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man swimming: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29875,7 +29875,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man swimming: medium skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29893,7 +29893,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man swimming: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29911,7 +29911,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man swimming: dark skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29929,7 +29929,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman swimming"
-    , _openMoji_emoji = "\x1F3CA-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29947,7 +29947,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman swimming: light skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29965,7 +29965,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman swimming: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -29983,7 +29983,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman swimming: medium skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30001,7 +30001,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman swimming: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30019,7 +30019,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman swimming: dark skin tone"
-    , _openMoji_emoji = "\x1F3CA-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CA\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CA-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30055,7 +30055,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bouncing ball: light skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FB"
+    , _openMoji_emoji = "\x26F9\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30073,7 +30073,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bouncing ball: medium-light skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FC"
+    , _openMoji_emoji = "\x26F9\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30091,7 +30091,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bouncing ball: medium skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FD"
+    , _openMoji_emoji = "\x26F9\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30109,7 +30109,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bouncing ball: medium-dark skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FE"
+    , _openMoji_emoji = "\x26F9\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30127,7 +30127,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person bouncing ball: dark skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FF"
+    , _openMoji_emoji = "\x26F9\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30145,7 +30145,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bouncing ball"
-    , _openMoji_emoji = "\x26F9-FE0F-200D-2642-FE0F"
+    , _openMoji_emoji = "\x26F9\xFE0F\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-FE0F-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30163,7 +30163,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bouncing ball: light skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30181,7 +30181,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bouncing ball: medium-light skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30199,7 +30199,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bouncing ball: medium skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30217,7 +30217,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bouncing ball: medium-dark skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30235,7 +30235,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man bouncing ball: dark skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30253,7 +30253,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bouncing ball"
-    , _openMoji_emoji = "\x26F9-FE0F-200D-2640-FE0F"
+    , _openMoji_emoji = "\x26F9\xFE0F\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-FE0F-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30271,7 +30271,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bouncing ball: light skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30289,7 +30289,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bouncing ball: medium-light skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30307,7 +30307,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bouncing ball: medium skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30325,7 +30325,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bouncing ball: medium-dark skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30343,7 +30343,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman bouncing ball: dark skin tone"
-    , _openMoji_emoji = "\x26F9-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x26F9\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "26F9-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30379,7 +30379,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person lifting weights: light skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FB"
+    , _openMoji_emoji = "\x1F3CB\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30397,7 +30397,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person lifting weights: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FC"
+    , _openMoji_emoji = "\x1F3CB\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30415,7 +30415,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person lifting weights: medium skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FD"
+    , _openMoji_emoji = "\x1F3CB\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30433,7 +30433,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person lifting weights: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FE"
+    , _openMoji_emoji = "\x1F3CB\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30451,7 +30451,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person lifting weights: dark skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FF"
+    , _openMoji_emoji = "\x1F3CB\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30469,7 +30469,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man lifting weights"
-    , _openMoji_emoji = "\x1F3CB-FE0F-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CB\xFE0F\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-FE0F-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30487,7 +30487,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man lifting weights: light skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30505,7 +30505,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man lifting weights: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30523,7 +30523,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man lifting weights: medium skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30541,7 +30541,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man lifting weights: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30559,7 +30559,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man lifting weights: dark skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30577,7 +30577,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman lifting weights"
-    , _openMoji_emoji = "\x1F3CB-FE0F-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CB\xFE0F\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-FE0F-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30595,7 +30595,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman lifting weights: light skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30613,7 +30613,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman lifting weights: medium-light skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30631,7 +30631,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman lifting weights: medium skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30649,7 +30649,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman lifting weights: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30667,7 +30667,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman lifting weights: dark skin tone"
-    , _openMoji_emoji = "\x1F3CB-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F3CB\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F3CB-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30703,7 +30703,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person biking: light skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FB"
+    , _openMoji_emoji = "\x1F6B4\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30721,7 +30721,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person biking: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FC"
+    , _openMoji_emoji = "\x1F6B4\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30739,7 +30739,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person biking: medium skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FD"
+    , _openMoji_emoji = "\x1F6B4\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30757,7 +30757,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person biking: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FE"
+    , _openMoji_emoji = "\x1F6B4\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30775,7 +30775,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person biking: dark skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FF"
+    , _openMoji_emoji = "\x1F6B4\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -30793,7 +30793,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man biking"
-    , _openMoji_emoji = "\x1F6B4-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30811,7 +30811,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man biking: light skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30829,7 +30829,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man biking: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30847,7 +30847,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man biking: medium skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30865,7 +30865,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man biking: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30883,7 +30883,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man biking: dark skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30901,7 +30901,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman biking"
-    , _openMoji_emoji = "\x1F6B4-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30919,7 +30919,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman biking: light skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30937,7 +30937,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman biking: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30955,7 +30955,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman biking: medium skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30973,7 +30973,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman biking: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -30991,7 +30991,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman biking: dark skin tone"
-    , _openMoji_emoji = "\x1F6B4-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B4\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B4-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31027,7 +31027,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person mountain biking: light skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FB"
+    , _openMoji_emoji = "\x1F6B5\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FB"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -31045,7 +31045,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person mountain biking: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FC"
+    , _openMoji_emoji = "\x1F6B5\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FC"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -31063,7 +31063,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person mountain biking: medium skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FD"
+    , _openMoji_emoji = "\x1F6B5\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FD"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -31081,7 +31081,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person mountain biking: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FE"
+    , _openMoji_emoji = "\x1F6B5\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FE"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -31099,7 +31099,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person mountain biking: dark skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FF"
+    , _openMoji_emoji = "\x1F6B5\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FF"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -31117,7 +31117,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mountain biking"
-    , _openMoji_emoji = "\x1F6B5-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31135,7 +31135,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mountain biking: light skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31153,7 +31153,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mountain biking: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31171,7 +31171,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mountain biking: medium skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31189,7 +31189,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mountain biking: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31207,7 +31207,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man mountain biking: dark skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31225,7 +31225,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mountain biking"
-    , _openMoji_emoji = "\x1F6B5-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31243,7 +31243,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mountain biking: light skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31261,7 +31261,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mountain biking: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31279,7 +31279,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mountain biking: medium skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31297,7 +31297,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mountain biking: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31315,7 +31315,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman mountain biking: dark skin tone"
-    , _openMoji_emoji = "\x1F6B5-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F6B5\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6B5-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31351,7 +31351,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person cartwheeling: light skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FB"
+    , _openMoji_emoji = "\x1F938\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31369,7 +31369,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person cartwheeling: medium-light skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FC"
+    , _openMoji_emoji = "\x1F938\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31387,7 +31387,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person cartwheeling: medium skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FD"
+    , _openMoji_emoji = "\x1F938\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31405,7 +31405,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person cartwheeling: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FE"
+    , _openMoji_emoji = "\x1F938\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31423,7 +31423,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person cartwheeling: dark skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FF"
+    , _openMoji_emoji = "\x1F938\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31441,7 +31441,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cartwheeling"
-    , _openMoji_emoji = "\x1F938-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F938\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31459,7 +31459,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cartwheeling: light skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31477,7 +31477,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cartwheeling: medium-light skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31495,7 +31495,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cartwheeling: medium skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31513,7 +31513,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cartwheeling: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31531,7 +31531,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man cartwheeling: dark skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31549,7 +31549,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cartwheeling"
-    , _openMoji_emoji = "\x1F938-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F938\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31567,7 +31567,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cartwheeling: light skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31585,7 +31585,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cartwheeling: medium-light skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31603,7 +31603,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cartwheeling: medium skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31621,7 +31621,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cartwheeling: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31639,7 +31639,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman cartwheeling: dark skin tone"
-    , _openMoji_emoji = "\x1F938-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F938\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F938-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31675,7 +31675,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men wrestling"
-    , _openMoji_emoji = "\x1F93C-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93C\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93C-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31693,7 +31693,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women wrestling"
-    , _openMoji_emoji = "\x1F93C-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93C\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93C-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31729,7 +31729,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing water polo: light skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FB"
+    , _openMoji_emoji = "\x1F93D\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31747,7 +31747,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing water polo: medium-light skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FC"
+    , _openMoji_emoji = "\x1F93D\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31765,7 +31765,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing water polo: medium skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FD"
+    , _openMoji_emoji = "\x1F93D\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31783,7 +31783,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing water polo: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FE"
+    , _openMoji_emoji = "\x1F93D\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31801,7 +31801,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing water polo: dark skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FF"
+    , _openMoji_emoji = "\x1F93D\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -31819,7 +31819,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing water polo"
-    , _openMoji_emoji = "\x1F93D-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93D\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31837,7 +31837,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing water polo: light skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31855,7 +31855,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing water polo: medium-light skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31873,7 +31873,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing water polo: medium skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31891,7 +31891,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing water polo: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31909,7 +31909,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing water polo: dark skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31927,7 +31927,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing water polo"
-    , _openMoji_emoji = "\x1F93D-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93D\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31945,7 +31945,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing water polo: light skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31963,7 +31963,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing water polo: medium-light skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31981,7 +31981,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing water polo: medium skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -31999,7 +31999,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing water polo: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32017,7 +32017,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing water polo: dark skin tone"
-    , _openMoji_emoji = "\x1F93D-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93D\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93D-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32053,7 +32053,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing handball: light skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FB"
+    , _openMoji_emoji = "\x1F93E\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32071,7 +32071,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing handball: medium-light skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FC"
+    , _openMoji_emoji = "\x1F93E\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32089,7 +32089,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing handball: medium skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FD"
+    , _openMoji_emoji = "\x1F93E\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32107,7 +32107,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing handball: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FE"
+    , _openMoji_emoji = "\x1F93E\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32125,7 +32125,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person playing handball: dark skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FF"
+    , _openMoji_emoji = "\x1F93E\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32143,7 +32143,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing handball"
-    , _openMoji_emoji = "\x1F93E-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93E\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32161,7 +32161,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing handball: light skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32179,7 +32179,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing handball: medium-light skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32197,7 +32197,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing handball: medium skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32215,7 +32215,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing handball: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32233,7 +32233,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man playing handball: dark skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32251,7 +32251,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing handball"
-    , _openMoji_emoji = "\x1F93E-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93E\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32269,7 +32269,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing handball: light skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32287,7 +32287,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing handball: medium-light skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32305,7 +32305,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing handball: medium skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32323,7 +32323,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing handball: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32341,7 +32341,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman playing handball: dark skin tone"
-    , _openMoji_emoji = "\x1F93E-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F93E\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F93E-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32377,7 +32377,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person juggling: light skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FB"
+    , _openMoji_emoji = "\x1F939\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32395,7 +32395,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person juggling: medium-light skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FC"
+    , _openMoji_emoji = "\x1F939\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32413,7 +32413,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person juggling: medium skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FD"
+    , _openMoji_emoji = "\x1F939\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32431,7 +32431,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person juggling: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FE"
+    , _openMoji_emoji = "\x1F939\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32449,7 +32449,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person juggling: dark skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FF"
+    , _openMoji_emoji = "\x1F939\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32467,7 +32467,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man juggling"
-    , _openMoji_emoji = "\x1F939-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F939\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32485,7 +32485,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man juggling: light skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32503,7 +32503,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man juggling: medium-light skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32521,7 +32521,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man juggling: medium skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32539,7 +32539,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man juggling: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32557,7 +32557,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man juggling: dark skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32575,7 +32575,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman juggling"
-    , _openMoji_emoji = "\x1F939-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F939\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32593,7 +32593,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman juggling: light skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32611,7 +32611,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman juggling: medium-light skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32629,7 +32629,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman juggling: medium skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32647,7 +32647,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman juggling: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32665,7 +32665,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman juggling: dark skin tone"
-    , _openMoji_emoji = "\x1F939-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F939\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F939-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32701,7 +32701,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in lotus position: light skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FB"
+    , _openMoji_emoji = "\x1F9D8\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32719,7 +32719,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in lotus position: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FC"
+    , _openMoji_emoji = "\x1F9D8\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32737,7 +32737,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in lotus position: medium skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FD"
+    , _openMoji_emoji = "\x1F9D8\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32755,7 +32755,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in lotus position: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FE"
+    , _openMoji_emoji = "\x1F9D8\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32773,7 +32773,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in lotus position: dark skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FF"
+    , _openMoji_emoji = "\x1F9D8\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -32791,7 +32791,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in lotus position"
-    , _openMoji_emoji = "\x1F9D8-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32809,7 +32809,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in lotus position: light skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FB-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FB\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FB-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32827,7 +32827,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in lotus position: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FC-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FC\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32845,7 +32845,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in lotus position: medium skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FD-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FD\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32863,7 +32863,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in lotus position: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FE-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FE\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FE-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32881,7 +32881,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man in lotus position: dark skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FF-200D-2642-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FF\x200D\x2642\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FF-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32899,7 +32899,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in lotus position"
-    , _openMoji_emoji = "\x1F9D8-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32917,7 +32917,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in lotus position: light skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FB-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FB\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FB-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32935,7 +32935,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in lotus position: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FC-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FC\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32953,7 +32953,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in lotus position: medium skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FD-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FD\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32971,7 +32971,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in lotus position: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FE-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FE\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FE-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -32989,7 +32989,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman in lotus position: dark skin tone"
-    , _openMoji_emoji = "\x1F9D8-1F3FF-200D-2640-FE0F"
+    , _openMoji_emoji = "\x1F9D8\x1F3FF\x200D\x2640\xFE0F"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D8-1F3FF-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Florian Nagel"
@@ -33025,7 +33025,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person taking bath: light skin tone"
-    , _openMoji_emoji = "\x1F6C0-1F3FB"
+    , _openMoji_emoji = "\x1F6C0\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6C0-1F3FB"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -33043,7 +33043,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person taking bath: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6C0-1F3FC"
+    , _openMoji_emoji = "\x1F6C0\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6C0-1F3FC"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -33061,7 +33061,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person taking bath: medium skin tone"
-    , _openMoji_emoji = "\x1F6C0-1F3FD"
+    , _openMoji_emoji = "\x1F6C0\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6C0-1F3FD"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -33079,7 +33079,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person taking bath: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6C0-1F3FE"
+    , _openMoji_emoji = "\x1F6C0\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6C0-1F3FE"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -33097,7 +33097,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person taking bath: dark skin tone"
-    , _openMoji_emoji = "\x1F6C0-1F3FF"
+    , _openMoji_emoji = "\x1F6C0\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6C0-1F3FF"
     , _openMoji_openmoji_author = "Anne Frauendorf"
@@ -33133,7 +33133,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in bed: light skin tone"
-    , _openMoji_emoji = "\x1F6CC-1F3FB"
+    , _openMoji_emoji = "\x1F6CC\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6CC-1F3FB"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -33151,7 +33151,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in bed: medium-light skin tone"
-    , _openMoji_emoji = "\x1F6CC-1F3FC"
+    , _openMoji_emoji = "\x1F6CC\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6CC-1F3FC"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -33169,7 +33169,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in bed: medium skin tone"
-    , _openMoji_emoji = "\x1F6CC-1F3FD"
+    , _openMoji_emoji = "\x1F6CC\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6CC-1F3FD"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -33187,7 +33187,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in bed: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F6CC-1F3FE"
+    , _openMoji_emoji = "\x1F6CC\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6CC-1F3FE"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -33205,7 +33205,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "person in bed: dark skin tone"
-    , _openMoji_emoji = "\x1F6CC-1F3FF"
+    , _openMoji_emoji = "\x1F6CC\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F6CC-1F3FF"
     , _openMoji_openmoji_author = "Johanna Wellnitz"
@@ -33223,7 +33223,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands"
-    , _openMoji_emoji = "\x1F9D1-200D-1F91D-200D-1F9D1"
+    , _openMoji_emoji = "\x1F9D1\x200D\x1F91D\x200D\x1F9D1"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-200D-1F91D-200D-1F9D1"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33241,7 +33241,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F91D\x200D\x1F9D1\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33259,7 +33259,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: light skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F91D\x200D\x1F9D1\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33277,7 +33277,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: light skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F91D\x200D\x1F9D1\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33295,7 +33295,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: light skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F91D\x200D\x1F9D1\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FE"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33313,7 +33313,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: light skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FB\x200D\x1F91D\x200D\x1F9D1\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33331,7 +33331,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-light skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F91D\x200D\x1F9D1\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FB"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33349,7 +33349,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F91D\x200D\x1F9D1\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FC"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33367,7 +33367,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-light skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F91D\x200D\x1F9D1\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33385,7 +33385,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-light skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F91D\x200D\x1F9D1\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33403,7 +33403,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-light skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FC\x200D\x1F91D\x200D\x1F9D1\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33421,7 +33421,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F91D\x200D\x1F9D1\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FB"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33439,7 +33439,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F91D\x200D\x1F9D1\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FC"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33457,7 +33457,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F91D\x200D\x1F9D1\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FD"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33475,7 +33475,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F91D\x200D\x1F9D1\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33493,7 +33493,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FD\x200D\x1F91D\x200D\x1F9D1\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33511,7 +33511,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-dark skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F91D\x200D\x1F9D1\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FB"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33529,7 +33529,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-dark skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F91D\x200D\x1F9D1\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FC"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33547,7 +33547,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-dark skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F91D\x200D\x1F9D1\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FD"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33565,7 +33565,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F91D\x200D\x1F9D1\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FE"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33583,7 +33583,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: medium-dark skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FE\x200D\x1F91D\x200D\x1F9D1\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33601,7 +33601,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: dark skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F91D\x200D\x1F9D1\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FB"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33619,7 +33619,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: dark skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F91D\x200D\x1F9D1\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FC"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33637,7 +33637,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: dark skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F91D\x200D\x1F9D1\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33655,7 +33655,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: dark skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F91D\x200D\x1F9D1\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33673,7 +33673,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "people holding hands: dark skin tone"
-    , _openMoji_emoji = "\x1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF"
+    , _openMoji_emoji = "\x1F9D1\x1F3FF\x200D\x1F91D\x200D\x1F9D1\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -33709,7 +33709,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: light skin tone"
-    , _openMoji_emoji = "\x1F46D-1F3FB"
+    , _openMoji_emoji = "\x1F46D\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46D-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33727,7 +33727,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: light skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F91D\x200D\x1F469\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33745,7 +33745,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: light skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F91D\x200D\x1F469\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33763,7 +33763,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: light skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F91D\x200D\x1F469\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33781,7 +33781,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: light skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F91D\x200D\x1F469\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33799,7 +33799,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-light skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F91D\x200D\x1F469\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33817,7 +33817,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-light skin tone"
-    , _openMoji_emoji = "\x1F46D-1F3FC"
+    , _openMoji_emoji = "\x1F46D\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46D-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33835,7 +33835,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-light skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F91D\x200D\x1F469\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33853,7 +33853,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-light skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F91D\x200D\x1F469\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33871,7 +33871,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-light skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F91D\x200D\x1F469\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33889,7 +33889,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F91D\x200D\x1F469\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33907,7 +33907,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F91D\x200D\x1F469\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33925,7 +33925,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium skin tone"
-    , _openMoji_emoji = "\x1F46D-1F3FD"
+    , _openMoji_emoji = "\x1F46D\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46D-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33943,7 +33943,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F91D\x200D\x1F469\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33961,7 +33961,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F91D\x200D\x1F469\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33979,7 +33979,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-dark skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F91D\x200D\x1F469\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -33997,7 +33997,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-dark skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F91D\x200D\x1F469\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34015,7 +34015,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-dark skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F91D\x200D\x1F469\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34033,7 +34033,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F46D-1F3FE"
+    , _openMoji_emoji = "\x1F46D\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46D-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34051,7 +34051,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: medium-dark skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F91D\x200D\x1F469\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34069,7 +34069,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: dark skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F91D\x200D\x1F469\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34087,7 +34087,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: dark skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F91D\x200D\x1F469\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34105,7 +34105,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: dark skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F91D\x200D\x1F469\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34123,7 +34123,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: dark skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F91D\x200D\x1F469\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34141,7 +34141,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "women holding hands: dark skin tone"
-    , _openMoji_emoji = "\x1F46D-1F3FF"
+    , _openMoji_emoji = "\x1F46D\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46D-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34177,7 +34177,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: light skin tone"
-    , _openMoji_emoji = "\x1F46B-1F3FB"
+    , _openMoji_emoji = "\x1F46B\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46B-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34195,7 +34195,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: light skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F91D\x200D\x1F468\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34213,7 +34213,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: light skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F91D\x200D\x1F468\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34231,7 +34231,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: light skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F91D\x200D\x1F468\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34249,7 +34249,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: light skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF"
+    , _openMoji_emoji = "\x1F469\x1F3FB\x200D\x1F91D\x200D\x1F468\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FB-200D-1F91D-200D-1F468-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34267,7 +34267,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-light skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F91D\x200D\x1F468\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34285,7 +34285,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-light skin tone"
-    , _openMoji_emoji = "\x1F46B-1F3FC"
+    , _openMoji_emoji = "\x1F46B\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46B-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34303,7 +34303,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-light skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F91D\x200D\x1F468\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34321,7 +34321,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-light skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F91D\x200D\x1F468\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34339,7 +34339,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-light skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF"
+    , _openMoji_emoji = "\x1F469\x1F3FC\x200D\x1F91D\x200D\x1F468\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34357,7 +34357,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F91D\x200D\x1F468\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34375,7 +34375,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F91D\x200D\x1F468\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34393,7 +34393,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium skin tone"
-    , _openMoji_emoji = "\x1F46B-1F3FD"
+    , _openMoji_emoji = "\x1F46B\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46B-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34411,7 +34411,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F91D\x200D\x1F468\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34429,7 +34429,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF"
+    , _openMoji_emoji = "\x1F469\x1F3FD\x200D\x1F91D\x200D\x1F468\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34447,7 +34447,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-dark skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F91D\x200D\x1F468\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34465,7 +34465,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-dark skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F91D\x200D\x1F468\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34483,7 +34483,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-dark skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F91D\x200D\x1F468\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34501,7 +34501,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F46B-1F3FE"
+    , _openMoji_emoji = "\x1F46B\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46B-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34519,7 +34519,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: medium-dark skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF"
+    , _openMoji_emoji = "\x1F469\x1F3FE\x200D\x1F91D\x200D\x1F468\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34537,7 +34537,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: dark skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F91D\x200D\x1F468\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34555,7 +34555,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: dark skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F91D\x200D\x1F468\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34573,7 +34573,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: dark skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F91D\x200D\x1F468\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34591,7 +34591,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: dark skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE"
+    , _openMoji_emoji = "\x1F469\x1F3FF\x200D\x1F91D\x200D\x1F468\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34609,7 +34609,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman and man holding hands: dark skin tone"
-    , _openMoji_emoji = "\x1F46B-1F3FF"
+    , _openMoji_emoji = "\x1F46B\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46B-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34645,7 +34645,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: light skin tone"
-    , _openMoji_emoji = "\x1F46C-1F3FB"
+    , _openMoji_emoji = "\x1F46C\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46C-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34663,7 +34663,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: light skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F91D\x200D\x1F468\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34681,7 +34681,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: light skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F91D\x200D\x1F468\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34699,7 +34699,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: light skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F91D\x200D\x1F468\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34717,7 +34717,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: light skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF"
+    , _openMoji_emoji = "\x1F468\x1F3FB\x200D\x1F91D\x200D\x1F468\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34735,7 +34735,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-light skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F91D\x200D\x1F468\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34753,7 +34753,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-light skin tone"
-    , _openMoji_emoji = "\x1F46C-1F3FC"
+    , _openMoji_emoji = "\x1F46C\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46C-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34771,7 +34771,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-light skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F91D\x200D\x1F468\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34789,7 +34789,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-light skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F91D\x200D\x1F468\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34807,7 +34807,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-light skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF"
+    , _openMoji_emoji = "\x1F468\x1F3FC\x200D\x1F91D\x200D\x1F468\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34825,7 +34825,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F91D\x200D\x1F468\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34843,7 +34843,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F91D\x200D\x1F468\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34861,7 +34861,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium skin tone"
-    , _openMoji_emoji = "\x1F46C-1F3FD"
+    , _openMoji_emoji = "\x1F46C\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46C-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34879,7 +34879,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F91D\x200D\x1F468\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34897,7 +34897,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF"
+    , _openMoji_emoji = "\x1F468\x1F3FD\x200D\x1F91D\x200D\x1F468\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34915,7 +34915,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-dark skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F91D\x200D\x1F468\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34933,7 +34933,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-dark skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F91D\x200D\x1F468\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34951,7 +34951,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-dark skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F91D\x200D\x1F468\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34969,7 +34969,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-dark skin tone"
-    , _openMoji_emoji = "\x1F46C-1F3FE"
+    , _openMoji_emoji = "\x1F46C\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46C-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -34987,7 +34987,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: medium-dark skin tone, dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF"
+    , _openMoji_emoji = "\x1F468\x1F3FE\x200D\x1F91D\x200D\x1F468\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35005,7 +35005,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: dark skin tone, light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F91D\x200D\x1F468\x1F3FB"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F91D-200D-1F468-1F3FB"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35023,7 +35023,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: dark skin tone, medium-light skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F91D\x200D\x1F468\x1F3FC"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F91D-200D-1F468-1F3FC"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35041,7 +35041,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: dark skin tone, medium skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F91D\x200D\x1F468\x1F3FD"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F91D-200D-1F468-1F3FD"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35059,7 +35059,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: dark skin tone, medium-dark skin tone"
-    , _openMoji_emoji = "\x1F468-1F3FF-200D-1F91D-200D-1F468-1F3FE"
+    , _openMoji_emoji = "\x1F468\x1F3FF\x200D\x1F91D\x200D\x1F468\x1F3FE"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-1F3FF-200D-1F91D-200D-1F468-1F3FE"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35077,7 +35077,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "men holding hands: dark skin tone"
-    , _openMoji_emoji = "\x1F46C-1F3FF"
+    , _openMoji_emoji = "\x1F46C\x1F3FF"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F46C-1F3FF"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35113,7 +35113,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "kiss: woman, man"
-    , _openMoji_emoji = "\x1F469-200D-2764-FE0F-200D-1F48B-200D-1F468"
+    , _openMoji_emoji = "\x1F469\x200D\x2764\xFE0F\x200D\x1F48B\x200D\x1F468"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35131,7 +35131,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "kiss: man, man"
-    , _openMoji_emoji = "\x1F468-200D-2764-FE0F-200D-1F48B-200D-1F468"
+    , _openMoji_emoji = "\x1F468\x200D\x2764\xFE0F\x200D\x1F48B\x200D\x1F468"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35149,7 +35149,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "kiss: woman, woman"
-    , _openMoji_emoji = "\x1F469-200D-2764-FE0F-200D-1F48B-200D-1F469"
+    , _openMoji_emoji = "\x1F469\x200D\x2764\xFE0F\x200D\x1F48B\x200D\x1F469"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-2764-FE0F-200D-1F48B-200D-1F469"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35185,7 +35185,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "couple with heart: woman, man"
-    , _openMoji_emoji = "\x1F469-200D-2764-FE0F-200D-1F468"
+    , _openMoji_emoji = "\x1F469\x200D\x2764\xFE0F\x200D\x1F468"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-2764-FE0F-200D-1F468"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35203,7 +35203,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "couple with heart: man, man"
-    , _openMoji_emoji = "\x1F468-200D-2764-FE0F-200D-1F468"
+    , _openMoji_emoji = "\x1F468\x200D\x2764\xFE0F\x200D\x1F468"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-2764-FE0F-200D-1F468"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35221,7 +35221,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "couple with heart: woman, woman"
-    , _openMoji_emoji = "\x1F469-200D-2764-FE0F-200D-1F469"
+    , _openMoji_emoji = "\x1F469\x200D\x2764\xFE0F\x200D\x1F469"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-2764-FE0F-200D-1F469"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35257,7 +35257,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, woman, boy"
-    , _openMoji_emoji = "\x1F468-200D-1F469-200D-1F466"
+    , _openMoji_emoji = "\x1F468\x200D\x1F469\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F469-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35275,7 +35275,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, woman, girl"
-    , _openMoji_emoji = "\x1F468-200D-1F469-200D-1F467"
+    , _openMoji_emoji = "\x1F468\x200D\x1F469\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F469-200D-1F467"
     , _openMoji_openmoji_author = "Lisa Schulz"
@@ -35293,7 +35293,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, woman, girl, boy"
-    , _openMoji_emoji = "\x1F468-200D-1F469-200D-1F467-200D-1F466"
+    , _openMoji_emoji = "\x1F468\x200D\x1F469\x200D\x1F467\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F469-200D-1F467-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35311,7 +35311,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, woman, boy, boy"
-    , _openMoji_emoji = "\x1F468-200D-1F469-200D-1F466-200D-1F466"
+    , _openMoji_emoji = "\x1F468\x200D\x1F469\x200D\x1F466\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F469-200D-1F466-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35329,7 +35329,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, woman, girl, girl"
-    , _openMoji_emoji = "\x1F468-200D-1F469-200D-1F467-200D-1F467"
+    , _openMoji_emoji = "\x1F468\x200D\x1F469\x200D\x1F467\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F469-200D-1F467-200D-1F467"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35347,7 +35347,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, man, boy"
-    , _openMoji_emoji = "\x1F468-200D-1F468-200D-1F466"
+    , _openMoji_emoji = "\x1F468\x200D\x1F468\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F468-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35365,7 +35365,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, man, girl"
-    , _openMoji_emoji = "\x1F468-200D-1F468-200D-1F467"
+    , _openMoji_emoji = "\x1F468\x200D\x1F468\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F468-200D-1F467"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35383,7 +35383,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, man, girl, boy"
-    , _openMoji_emoji = "\x1F468-200D-1F468-200D-1F467-200D-1F466"
+    , _openMoji_emoji = "\x1F468\x200D\x1F468\x200D\x1F467\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F468-200D-1F467-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35401,7 +35401,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, man, boy, boy"
-    , _openMoji_emoji = "\x1F468-200D-1F468-200D-1F466-200D-1F466"
+    , _openMoji_emoji = "\x1F468\x200D\x1F468\x200D\x1F466\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F468-200D-1F466-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35419,7 +35419,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, man, girl, girl"
-    , _openMoji_emoji = "\x1F468-200D-1F468-200D-1F467-200D-1F467"
+    , _openMoji_emoji = "\x1F468\x200D\x1F468\x200D\x1F467\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F468-200D-1F467-200D-1F467"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35437,7 +35437,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, woman, boy"
-    , _openMoji_emoji = "\x1F469-200D-1F469-200D-1F466"
+    , _openMoji_emoji = "\x1F469\x200D\x1F469\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F469-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35455,7 +35455,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, woman, girl"
-    , _openMoji_emoji = "\x1F469-200D-1F469-200D-1F467"
+    , _openMoji_emoji = "\x1F469\x200D\x1F469\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F469-200D-1F467"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35473,7 +35473,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, woman, girl, boy"
-    , _openMoji_emoji = "\x1F469-200D-1F469-200D-1F467-200D-1F466"
+    , _openMoji_emoji = "\x1F469\x200D\x1F469\x200D\x1F467\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F469-200D-1F467-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35491,7 +35491,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, woman, boy, boy"
-    , _openMoji_emoji = "\x1F469-200D-1F469-200D-1F466-200D-1F466"
+    , _openMoji_emoji = "\x1F469\x200D\x1F469\x200D\x1F466\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F469-200D-1F466-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35509,7 +35509,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, woman, girl, girl"
-    , _openMoji_emoji = "\x1F469-200D-1F469-200D-1F467-200D-1F467"
+    , _openMoji_emoji = "\x1F469\x200D\x1F469\x200D\x1F467\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F469-200D-1F467-200D-1F467"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35527,7 +35527,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, boy"
-    , _openMoji_emoji = "\x1F468-200D-1F466"
+    , _openMoji_emoji = "\x1F468\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35545,7 +35545,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, boy, boy"
-    , _openMoji_emoji = "\x1F468-200D-1F466-200D-1F466"
+    , _openMoji_emoji = "\x1F468\x200D\x1F466\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F466-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35563,7 +35563,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, girl"
-    , _openMoji_emoji = "\x1F468-200D-1F467"
+    , _openMoji_emoji = "\x1F468\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F467"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35581,7 +35581,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, girl, boy"
-    , _openMoji_emoji = "\x1F468-200D-1F467-200D-1F466"
+    , _openMoji_emoji = "\x1F468\x200D\x1F467\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F467-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35599,7 +35599,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: man, girl, girl"
-    , _openMoji_emoji = "\x1F468-200D-1F467-200D-1F467"
+    , _openMoji_emoji = "\x1F468\x200D\x1F467\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F468-200D-1F467-200D-1F467"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35617,7 +35617,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, boy"
-    , _openMoji_emoji = "\x1F469-200D-1F466"
+    , _openMoji_emoji = "\x1F469\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35635,7 +35635,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, boy, boy"
-    , _openMoji_emoji = "\x1F469-200D-1F466-200D-1F466"
+    , _openMoji_emoji = "\x1F469\x200D\x1F466\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F466-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35653,7 +35653,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, girl"
-    , _openMoji_emoji = "\x1F469-200D-1F467"
+    , _openMoji_emoji = "\x1F469\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F467"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35671,7 +35671,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, girl, boy"
-    , _openMoji_emoji = "\x1F469-200D-1F467-200D-1F466"
+    , _openMoji_emoji = "\x1F469\x200D\x1F467\x200D\x1F466"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F467-200D-1F466"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -35689,7 +35689,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "family: woman, girl, girl"
-    , _openMoji_emoji = "\x1F469-200D-1F467-200D-1F467"
+    , _openMoji_emoji = "\x1F469\x200D\x1F467\x200D\x1F467"
     , _openMoji_group = "people-body"
     , _openMoji_hexcode = "1F469-200D-1F467-200D-1F467"
     , _openMoji_openmoji_author = "Fanny Jung"
@@ -36085,7 +36085,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "service dog"
-    , _openMoji_emoji = "\x1F415-200D-1F9BA"
+    , _openMoji_emoji = "\x1F415\x200D\x1F9BA"
     , _openMoji_group = "animals-nature"
     , _openMoji_hexcode = "1F415-200D-1F9BA"
     , _openMoji_openmoji_author = "Yasmin Abdullahi"
@@ -36211,7 +36211,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "black cat"
-    , _openMoji_emoji = "\x1F408-200D-2B1B"
+    , _openMoji_emoji = "\x1F408\x200D\x2B1B"
     , _openMoji_group = "animals-nature"
     , _openMoji_hexcode = "1F408-200D-2B1B"
     , _openMoji_openmoji_author = "Sofie Ascherl"
@@ -36949,7 +36949,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "polar bear"
-    , _openMoji_emoji = "\x1F43B-200D-2744-FE0F"
+    , _openMoji_emoji = "\x1F43B\x200D\x2744\xFE0F"
     , _openMoji_group = "animals-nature"
     , _openMoji_hexcode = "1F43B-200D-2744-FE0F"
     , _openMoji_openmoji_author = "Sina Grund"
@@ -53095,7 +53095,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: #"
-    , _openMoji_emoji = "\x0023-FE0F-20E3"
+    , _openMoji_emoji = "\x0023\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0023-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53113,7 +53113,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: *"
-    , _openMoji_emoji = "\x002A-FE0F-20E3"
+    , _openMoji_emoji = "\x002A\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "002A-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53131,7 +53131,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 0"
-    , _openMoji_emoji = "\x0030-FE0F-20E3"
+    , _openMoji_emoji = "\x0030\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0030-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53149,7 +53149,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 1"
-    , _openMoji_emoji = "\x0031-FE0F-20E3"
+    , _openMoji_emoji = "\x0031\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0031-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53167,7 +53167,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 2"
-    , _openMoji_emoji = "\x0032-FE0F-20E3"
+    , _openMoji_emoji = "\x0032\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0032-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53185,7 +53185,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 3"
-    , _openMoji_emoji = "\x0033-FE0F-20E3"
+    , _openMoji_emoji = "\x0033\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0033-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53203,7 +53203,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 4"
-    , _openMoji_emoji = "\x0034-FE0F-20E3"
+    , _openMoji_emoji = "\x0034\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0034-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53221,7 +53221,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 5"
-    , _openMoji_emoji = "\x0035-FE0F-20E3"
+    , _openMoji_emoji = "\x0035\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0035-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53239,7 +53239,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 6"
-    , _openMoji_emoji = "\x0036-FE0F-20E3"
+    , _openMoji_emoji = "\x0036\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0036-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53257,7 +53257,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 7"
-    , _openMoji_emoji = "\x0037-FE0F-20E3"
+    , _openMoji_emoji = "\x0037\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0037-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53275,7 +53275,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 8"
-    , _openMoji_emoji = "\x0038-FE0F-20E3"
+    , _openMoji_emoji = "\x0038\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0038-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -53293,7 +53293,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "keycap: 9"
-    , _openMoji_emoji = "\x0039-FE0F-20E3"
+    , _openMoji_emoji = "\x0039\xFE0F\x20E3"
     , _openMoji_group = "symbols"
     , _openMoji_hexcode = "0039-FE0F-20E3"
     , _openMoji_openmoji_author = "Selina Lange"
@@ -54733,7 +54733,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "rainbow flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F308"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F308"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F308"
     , _openMoji_openmoji_author = "Romain Bazile"
@@ -54751,7 +54751,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "transgender flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-26A7-FE0F"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x26A7\xFE0F"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-26A7-FE0F"
     , _openMoji_openmoji_author = "Carlin MacKenzie"
@@ -54769,7 +54769,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "pirate flag"
-    , _openMoji_emoji = "\x1F3F4-200D-2620-FE0F"
+    , _openMoji_emoji = "\x1F3F4\x200D\x2620\xFE0F"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F3F4-200D-2620-FE0F"
     , _openMoji_openmoji_author = "Aileen Gedrat"
@@ -54787,7 +54787,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Ascension Island"
-    , _openMoji_emoji = "\x1F1E6-1F1E8"
+    , _openMoji_emoji = "\x1F1E6\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1E8"
     , _openMoji_openmoji_author = "Aileen Gedrat"
@@ -54805,7 +54805,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Andorra"
-    , _openMoji_emoji = "\x1F1E6-1F1E9"
+    , _openMoji_emoji = "\x1F1E6\x1F1E9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1E9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -54823,7 +54823,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: United Arab Emirates"
-    , _openMoji_emoji = "\x1F1E6-1F1EA"
+    , _openMoji_emoji = "\x1F1E6\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -54841,7 +54841,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Afghanistan"
-    , _openMoji_emoji = "\x1F1E6-1F1EB"
+    , _openMoji_emoji = "\x1F1E6\x1F1EB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1EB"
     , _openMoji_openmoji_author = "Aileen Gedrat"
@@ -54859,7 +54859,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Antigua & Barbuda"
-    , _openMoji_emoji = "\x1F1E6-1F1EC"
+    , _openMoji_emoji = "\x1F1E6\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -54877,7 +54877,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Anguilla"
-    , _openMoji_emoji = "\x1F1E6-1F1EE"
+    , _openMoji_emoji = "\x1F1E6\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1EE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -54895,7 +54895,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Albania"
-    , _openMoji_emoji = "\x1F1E6-1F1F1"
+    , _openMoji_emoji = "\x1F1E6\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -54913,7 +54913,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Armenia"
-    , _openMoji_emoji = "\x1F1E6-1F1F2"
+    , _openMoji_emoji = "\x1F1E6\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -54931,7 +54931,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Angola"
-    , _openMoji_emoji = "\x1F1E6-1F1F4"
+    , _openMoji_emoji = "\x1F1E6\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -54949,7 +54949,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Antarctica"
-    , _openMoji_emoji = "\x1F1E6-1F1F6"
+    , _openMoji_emoji = "\x1F1E6\x1F1F6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1F6"
     , _openMoji_openmoji_author = "Carlin MacKenzie"
@@ -54967,7 +54967,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Argentina"
-    , _openMoji_emoji = "\x1F1E6-1F1F7"
+    , _openMoji_emoji = "\x1F1E6\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -54985,7 +54985,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: American Samoa"
-    , _openMoji_emoji = "\x1F1E6-1F1F8"
+    , _openMoji_emoji = "\x1F1E6\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1F8"
     , _openMoji_openmoji_author = "Aileen Gedrat"
@@ -55003,7 +55003,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Austria"
-    , _openMoji_emoji = "\x1F1E6-1F1F9"
+    , _openMoji_emoji = "\x1F1E6\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1F9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55021,7 +55021,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Australia"
-    , _openMoji_emoji = "\x1F1E6-1F1FA"
+    , _openMoji_emoji = "\x1F1E6\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1FA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55039,7 +55039,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Aruba"
-    , _openMoji_emoji = "\x1F1E6-1F1FC"
+    , _openMoji_emoji = "\x1F1E6\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1FC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55057,7 +55057,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Åland Islands"
-    , _openMoji_emoji = "\x1F1E6-1F1FD"
+    , _openMoji_emoji = "\x1F1E6\x1F1FD"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1FD"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55075,7 +55075,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Azerbaijan"
-    , _openMoji_emoji = "\x1F1E6-1F1FF"
+    , _openMoji_emoji = "\x1F1E6\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E6-1F1FF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55093,7 +55093,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Bosnia & Herzegovina"
-    , _openMoji_emoji = "\x1F1E7-1F1E6"
+    , _openMoji_emoji = "\x1F1E7\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55111,7 +55111,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Barbados"
-    , _openMoji_emoji = "\x1F1E7-1F1E7"
+    , _openMoji_emoji = "\x1F1E7\x1F1E7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1E7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55129,7 +55129,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Bangladesh"
-    , _openMoji_emoji = "\x1F1E7-1F1E9"
+    , _openMoji_emoji = "\x1F1E7\x1F1E9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1E9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55147,7 +55147,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Belgium"
-    , _openMoji_emoji = "\x1F1E7-1F1EA"
+    , _openMoji_emoji = "\x1F1E7\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55165,7 +55165,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Burkina Faso"
-    , _openMoji_emoji = "\x1F1E7-1F1EB"
+    , _openMoji_emoji = "\x1F1E7\x1F1EB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1EB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55183,7 +55183,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Bulgaria"
-    , _openMoji_emoji = "\x1F1E7-1F1EC"
+    , _openMoji_emoji = "\x1F1E7\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55201,7 +55201,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Bahrain"
-    , _openMoji_emoji = "\x1F1E7-1F1ED"
+    , _openMoji_emoji = "\x1F1E7\x1F1ED"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1ED"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55219,7 +55219,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Burundi"
-    , _openMoji_emoji = "\x1F1E7-1F1EE"
+    , _openMoji_emoji = "\x1F1E7\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1EE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55237,7 +55237,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Benin"
-    , _openMoji_emoji = "\x1F1E7-1F1EF"
+    , _openMoji_emoji = "\x1F1E7\x1F1EF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1EF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55255,7 +55255,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: St. Barthélemy"
-    , _openMoji_emoji = "\x1F1E7-1F1F1"
+    , _openMoji_emoji = "\x1F1E7\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55273,7 +55273,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Bermuda"
-    , _openMoji_emoji = "\x1F1E7-1F1F2"
+    , _openMoji_emoji = "\x1F1E7\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1F2"
     , _openMoji_openmoji_author = "Aileen Gedrat"
@@ -55291,7 +55291,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Brunei"
-    , _openMoji_emoji = "\x1F1E7-1F1F3"
+    , _openMoji_emoji = "\x1F1E7\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1F3"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55309,7 +55309,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Bolivia"
-    , _openMoji_emoji = "\x1F1E7-1F1F4"
+    , _openMoji_emoji = "\x1F1E7\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1F4"
     , _openMoji_openmoji_author = "Aileen Gedrat"
@@ -55327,7 +55327,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Caribbean Netherlands"
-    , _openMoji_emoji = "\x1F1E7-1F1F6"
+    , _openMoji_emoji = "\x1F1E7\x1F1F6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1F6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55345,7 +55345,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Brazil"
-    , _openMoji_emoji = "\x1F1E7-1F1F7"
+    , _openMoji_emoji = "\x1F1E7\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55363,7 +55363,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Bahamas"
-    , _openMoji_emoji = "\x1F1E7-1F1F8"
+    , _openMoji_emoji = "\x1F1E7\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1F8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55381,7 +55381,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Bhutan"
-    , _openMoji_emoji = "\x1F1E7-1F1F9"
+    , _openMoji_emoji = "\x1F1E7\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1F9"
     , _openMoji_openmoji_author = "Aileen Gedrat"
@@ -55399,7 +55399,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Bouvet Island"
-    , _openMoji_emoji = "\x1F1E7-1F1FB"
+    , _openMoji_emoji = "\x1F1E7\x1F1FB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1FB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55417,7 +55417,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Botswana"
-    , _openMoji_emoji = "\x1F1E7-1F1FC"
+    , _openMoji_emoji = "\x1F1E7\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1FC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55435,7 +55435,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Belarus"
-    , _openMoji_emoji = "\x1F1E7-1F1FE"
+    , _openMoji_emoji = "\x1F1E7\x1F1FE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1FE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55453,7 +55453,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Belize"
-    , _openMoji_emoji = "\x1F1E7-1F1FF"
+    , _openMoji_emoji = "\x1F1E7\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E7-1F1FF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55471,7 +55471,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Canada"
-    , _openMoji_emoji = "\x1F1E8-1F1E6"
+    , _openMoji_emoji = "\x1F1E8\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55489,7 +55489,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Cocos (Keeling) Islands"
-    , _openMoji_emoji = "\x1F1E8-1F1E8"
+    , _openMoji_emoji = "\x1F1E8\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1E8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55507,7 +55507,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Congo - Kinshasa"
-    , _openMoji_emoji = "\x1F1E8-1F1E9"
+    , _openMoji_emoji = "\x1F1E8\x1F1E9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1E9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55525,7 +55525,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Central African Republic"
-    , _openMoji_emoji = "\x1F1E8-1F1EB"
+    , _openMoji_emoji = "\x1F1E8\x1F1EB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1EB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55543,7 +55543,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Congo - Brazzaville"
-    , _openMoji_emoji = "\x1F1E8-1F1EC"
+    , _openMoji_emoji = "\x1F1E8\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55561,7 +55561,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Switzerland"
-    , _openMoji_emoji = "\x1F1E8-1F1ED"
+    , _openMoji_emoji = "\x1F1E8\x1F1ED"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1ED"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55579,7 +55579,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Côte d’Ivoire"
-    , _openMoji_emoji = "\x1F1E8-1F1EE"
+    , _openMoji_emoji = "\x1F1E8\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1EE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55597,7 +55597,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Cook Islands"
-    , _openMoji_emoji = "\x1F1E8-1F1F0"
+    , _openMoji_emoji = "\x1F1E8\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1F0"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55615,7 +55615,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Chile"
-    , _openMoji_emoji = "\x1F1E8-1F1F1"
+    , _openMoji_emoji = "\x1F1E8\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55633,7 +55633,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Cameroon"
-    , _openMoji_emoji = "\x1F1E8-1F1F2"
+    , _openMoji_emoji = "\x1F1E8\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55651,7 +55651,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: China"
-    , _openMoji_emoji = "\x1F1E8-1F1F3"
+    , _openMoji_emoji = "\x1F1E8\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1F3"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55669,7 +55669,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Colombia"
-    , _openMoji_emoji = "\x1F1E8-1F1F4"
+    , _openMoji_emoji = "\x1F1E8\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55687,7 +55687,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Clipperton Island"
-    , _openMoji_emoji = "\x1F1E8-1F1F5"
+    , _openMoji_emoji = "\x1F1E8\x1F1F5"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1F5"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55705,7 +55705,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Costa Rica"
-    , _openMoji_emoji = "\x1F1E8-1F1F7"
+    , _openMoji_emoji = "\x1F1E8\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55723,7 +55723,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Cuba"
-    , _openMoji_emoji = "\x1F1E8-1F1FA"
+    , _openMoji_emoji = "\x1F1E8\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1FA"
     , _openMoji_openmoji_author = "Carlin MacKenzie"
@@ -55741,7 +55741,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Cape Verde"
-    , _openMoji_emoji = "\x1F1E8-1F1FB"
+    , _openMoji_emoji = "\x1F1E8\x1F1FB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1FB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55759,7 +55759,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Curaçao"
-    , _openMoji_emoji = "\x1F1E8-1F1FC"
+    , _openMoji_emoji = "\x1F1E8\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1FC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55777,7 +55777,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Christmas Island"
-    , _openMoji_emoji = "\x1F1E8-1F1FD"
+    , _openMoji_emoji = "\x1F1E8\x1F1FD"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1FD"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55795,7 +55795,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Cyprus"
-    , _openMoji_emoji = "\x1F1E8-1F1FE"
+    , _openMoji_emoji = "\x1F1E8\x1F1FE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1FE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55813,7 +55813,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Czechia"
-    , _openMoji_emoji = "\x1F1E8-1F1FF"
+    , _openMoji_emoji = "\x1F1E8\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E8-1F1FF"
     , _openMoji_openmoji_author = "Carlin MacKenzie"
@@ -55831,7 +55831,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Germany"
-    , _openMoji_emoji = "\x1F1E9-1F1EA"
+    , _openMoji_emoji = "\x1F1E9\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E9-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55849,7 +55849,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Diego Garcia"
-    , _openMoji_emoji = "\x1F1E9-1F1EC"
+    , _openMoji_emoji = "\x1F1E9\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E9-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55867,7 +55867,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Djibouti"
-    , _openMoji_emoji = "\x1F1E9-1F1EF"
+    , _openMoji_emoji = "\x1F1E9\x1F1EF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E9-1F1EF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55885,7 +55885,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Denmark"
-    , _openMoji_emoji = "\x1F1E9-1F1F0"
+    , _openMoji_emoji = "\x1F1E9\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E9-1F1F0"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55903,7 +55903,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Dominica"
-    , _openMoji_emoji = "\x1F1E9-1F1F2"
+    , _openMoji_emoji = "\x1F1E9\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E9-1F1F2"
     , _openMoji_openmoji_author = "Aileen Gedrat"
@@ -55921,7 +55921,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Dominican Republic"
-    , _openMoji_emoji = "\x1F1E9-1F1F4"
+    , _openMoji_emoji = "\x1F1E9\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E9-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55939,7 +55939,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Algeria"
-    , _openMoji_emoji = "\x1F1E9-1F1FF"
+    , _openMoji_emoji = "\x1F1E9\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1E9-1F1FF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55957,7 +55957,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Ceuta & Melilla"
-    , _openMoji_emoji = "\x1F1EA-1F1E6"
+    , _openMoji_emoji = "\x1F1EA\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EA-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -55975,7 +55975,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Ecuador"
-    , _openMoji_emoji = "\x1F1EA-1F1E8"
+    , _openMoji_emoji = "\x1F1EA\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EA-1F1E8"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -55993,7 +55993,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Estonia"
-    , _openMoji_emoji = "\x1F1EA-1F1EA"
+    , _openMoji_emoji = "\x1F1EA\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EA-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56011,7 +56011,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Egypt"
-    , _openMoji_emoji = "\x1F1EA-1F1EC"
+    , _openMoji_emoji = "\x1F1EA\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EA-1F1EC"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56029,7 +56029,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Western Sahara"
-    , _openMoji_emoji = "\x1F1EA-1F1ED"
+    , _openMoji_emoji = "\x1F1EA\x1F1ED"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EA-1F1ED"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56047,7 +56047,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Eritrea"
-    , _openMoji_emoji = "\x1F1EA-1F1F7"
+    , _openMoji_emoji = "\x1F1EA\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EA-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56065,7 +56065,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Spain"
-    , _openMoji_emoji = "\x1F1EA-1F1F8"
+    , _openMoji_emoji = "\x1F1EA\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EA-1F1F8"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56083,7 +56083,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Ethiopia"
-    , _openMoji_emoji = "\x1F1EA-1F1F9"
+    , _openMoji_emoji = "\x1F1EA\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EA-1F1F9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56101,7 +56101,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: European Union"
-    , _openMoji_emoji = "\x1F1EA-1F1FA"
+    , _openMoji_emoji = "\x1F1EA\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EA-1F1FA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56119,7 +56119,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Finland"
-    , _openMoji_emoji = "\x1F1EB-1F1EE"
+    , _openMoji_emoji = "\x1F1EB\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EB-1F1EE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56137,7 +56137,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Fiji"
-    , _openMoji_emoji = "\x1F1EB-1F1EF"
+    , _openMoji_emoji = "\x1F1EB\x1F1EF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EB-1F1EF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56155,7 +56155,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Falkland Islands"
-    , _openMoji_emoji = "\x1F1EB-1F1F0"
+    , _openMoji_emoji = "\x1F1EB\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EB-1F1F0"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56173,7 +56173,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Micronesia"
-    , _openMoji_emoji = "\x1F1EB-1F1F2"
+    , _openMoji_emoji = "\x1F1EB\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EB-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56191,7 +56191,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Faroe Islands"
-    , _openMoji_emoji = "\x1F1EB-1F1F4"
+    , _openMoji_emoji = "\x1F1EB\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EB-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56209,7 +56209,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: France"
-    , _openMoji_emoji = "\x1F1EB-1F1F7"
+    , _openMoji_emoji = "\x1F1EB\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EB-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56227,7 +56227,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Gabon"
-    , _openMoji_emoji = "\x1F1EC-1F1E6"
+    , _openMoji_emoji = "\x1F1EC\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56245,7 +56245,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: United Kingdom"
-    , _openMoji_emoji = "\x1F1EC-1F1E7"
+    , _openMoji_emoji = "\x1F1EC\x1F1E7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1E7"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56263,7 +56263,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Grenada"
-    , _openMoji_emoji = "\x1F1EC-1F1E9"
+    , _openMoji_emoji = "\x1F1EC\x1F1E9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1E9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56281,7 +56281,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Georgia"
-    , _openMoji_emoji = "\x1F1EC-1F1EA"
+    , _openMoji_emoji = "\x1F1EC\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56299,7 +56299,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: French Guiana"
-    , _openMoji_emoji = "\x1F1EC-1F1EB"
+    , _openMoji_emoji = "\x1F1EC\x1F1EB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1EB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56317,7 +56317,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Guernsey"
-    , _openMoji_emoji = "\x1F1EC-1F1EC"
+    , _openMoji_emoji = "\x1F1EC\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56335,7 +56335,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Ghana"
-    , _openMoji_emoji = "\x1F1EC-1F1ED"
+    , _openMoji_emoji = "\x1F1EC\x1F1ED"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1ED"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56353,7 +56353,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Gibraltar"
-    , _openMoji_emoji = "\x1F1EC-1F1EE"
+    , _openMoji_emoji = "\x1F1EC\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1EE"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56371,7 +56371,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Greenland"
-    , _openMoji_emoji = "\x1F1EC-1F1F1"
+    , _openMoji_emoji = "\x1F1EC\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56389,7 +56389,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Gambia"
-    , _openMoji_emoji = "\x1F1EC-1F1F2"
+    , _openMoji_emoji = "\x1F1EC\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56407,7 +56407,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Guinea"
-    , _openMoji_emoji = "\x1F1EC-1F1F3"
+    , _openMoji_emoji = "\x1F1EC\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1F3"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56425,7 +56425,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Guadeloupe"
-    , _openMoji_emoji = "\x1F1EC-1F1F5"
+    , _openMoji_emoji = "\x1F1EC\x1F1F5"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1F5"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56443,7 +56443,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Equatorial Guinea"
-    , _openMoji_emoji = "\x1F1EC-1F1F6"
+    , _openMoji_emoji = "\x1F1EC\x1F1F6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1F6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56461,7 +56461,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Greece"
-    , _openMoji_emoji = "\x1F1EC-1F1F7"
+    , _openMoji_emoji = "\x1F1EC\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56479,7 +56479,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: South Georgia & South Sandwich Islands"
-    , _openMoji_emoji = "\x1F1EC-1F1F8"
+    , _openMoji_emoji = "\x1F1EC\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1F8"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56497,7 +56497,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Guatemala"
-    , _openMoji_emoji = "\x1F1EC-1F1F9"
+    , _openMoji_emoji = "\x1F1EC\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1F9"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56515,7 +56515,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Guam"
-    , _openMoji_emoji = "\x1F1EC-1F1FA"
+    , _openMoji_emoji = "\x1F1EC\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1FA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56533,7 +56533,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Guinea-Bissau"
-    , _openMoji_emoji = "\x1F1EC-1F1FC"
+    , _openMoji_emoji = "\x1F1EC\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1FC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56551,7 +56551,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Guyana"
-    , _openMoji_emoji = "\x1F1EC-1F1FE"
+    , _openMoji_emoji = "\x1F1EC\x1F1FE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EC-1F1FE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56569,7 +56569,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Hong Kong SAR China"
-    , _openMoji_emoji = "\x1F1ED-1F1F0"
+    , _openMoji_emoji = "\x1F1ED\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1ED-1F1F0"
     , _openMoji_openmoji_author = "Carlin MacKenzie"
@@ -56587,7 +56587,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Heard & McDonald Islands"
-    , _openMoji_emoji = "\x1F1ED-1F1F2"
+    , _openMoji_emoji = "\x1F1ED\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1ED-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56605,7 +56605,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Honduras"
-    , _openMoji_emoji = "\x1F1ED-1F1F3"
+    , _openMoji_emoji = "\x1F1ED\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1ED-1F1F3"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56623,7 +56623,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Croatia"
-    , _openMoji_emoji = "\x1F1ED-1F1F7"
+    , _openMoji_emoji = "\x1F1ED\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1ED-1F1F7"
     , _openMoji_openmoji_author = "Benedikt Groß"
@@ -56641,7 +56641,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Haiti"
-    , _openMoji_emoji = "\x1F1ED-1F1F9"
+    , _openMoji_emoji = "\x1F1ED\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1ED-1F1F9"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56659,7 +56659,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Hungary"
-    , _openMoji_emoji = "\x1F1ED-1F1FA"
+    , _openMoji_emoji = "\x1F1ED\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1ED-1F1FA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56677,7 +56677,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Canary Islands"
-    , _openMoji_emoji = "\x1F1EE-1F1E8"
+    , _openMoji_emoji = "\x1F1EE\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1E8"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56695,7 +56695,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Indonesia"
-    , _openMoji_emoji = "\x1F1EE-1F1E9"
+    , _openMoji_emoji = "\x1F1EE\x1F1E9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1E9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56713,7 +56713,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Ireland"
-    , _openMoji_emoji = "\x1F1EE-1F1EA"
+    , _openMoji_emoji = "\x1F1EE\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56731,7 +56731,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Israel"
-    , _openMoji_emoji = "\x1F1EE-1F1F1"
+    , _openMoji_emoji = "\x1F1EE\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56749,7 +56749,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Isle of Man"
-    , _openMoji_emoji = "\x1F1EE-1F1F2"
+    , _openMoji_emoji = "\x1F1EE\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56767,7 +56767,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: India"
-    , _openMoji_emoji = "\x1F1EE-1F1F3"
+    , _openMoji_emoji = "\x1F1EE\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1F3"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56785,7 +56785,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: British Indian Ocean Territory"
-    , _openMoji_emoji = "\x1F1EE-1F1F4"
+    , _openMoji_emoji = "\x1F1EE\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56803,7 +56803,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Iraq"
-    , _openMoji_emoji = "\x1F1EE-1F1F6"
+    , _openMoji_emoji = "\x1F1EE\x1F1F6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1F6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56821,7 +56821,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Iran"
-    , _openMoji_emoji = "\x1F1EE-1F1F7"
+    , _openMoji_emoji = "\x1F1EE\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56839,7 +56839,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Iceland"
-    , _openMoji_emoji = "\x1F1EE-1F1F8"
+    , _openMoji_emoji = "\x1F1EE\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1F8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56857,7 +56857,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Italy"
-    , _openMoji_emoji = "\x1F1EE-1F1F9"
+    , _openMoji_emoji = "\x1F1EE\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EE-1F1F9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56875,7 +56875,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Jersey"
-    , _openMoji_emoji = "\x1F1EF-1F1EA"
+    , _openMoji_emoji = "\x1F1EF\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EF-1F1EA"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -56893,7 +56893,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Jamaica"
-    , _openMoji_emoji = "\x1F1EF-1F1F2"
+    , _openMoji_emoji = "\x1F1EF\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EF-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56911,7 +56911,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Jordan"
-    , _openMoji_emoji = "\x1F1EF-1F1F4"
+    , _openMoji_emoji = "\x1F1EF\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EF-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56929,7 +56929,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Japan"
-    , _openMoji_emoji = "\x1F1EF-1F1F5"
+    , _openMoji_emoji = "\x1F1EF\x1F1F5"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1EF-1F1F5"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56947,7 +56947,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Kenya"
-    , _openMoji_emoji = "\x1F1F0-1F1EA"
+    , _openMoji_emoji = "\x1F1F0\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56965,7 +56965,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Kyrgyzstan"
-    , _openMoji_emoji = "\x1F1F0-1F1EC"
+    , _openMoji_emoji = "\x1F1F0\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -56983,7 +56983,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Cambodia"
-    , _openMoji_emoji = "\x1F1F0-1F1ED"
+    , _openMoji_emoji = "\x1F1F0\x1F1ED"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1ED"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57001,7 +57001,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Kiribati"
-    , _openMoji_emoji = "\x1F1F0-1F1EE"
+    , _openMoji_emoji = "\x1F1F0\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1EE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57019,7 +57019,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Comoros"
-    , _openMoji_emoji = "\x1F1F0-1F1F2"
+    , _openMoji_emoji = "\x1F1F0\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57037,7 +57037,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: St. Kitts & Nevis"
-    , _openMoji_emoji = "\x1F1F0-1F1F3"
+    , _openMoji_emoji = "\x1F1F0\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1F3"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57055,7 +57055,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: North Korea"
-    , _openMoji_emoji = "\x1F1F0-1F1F5"
+    , _openMoji_emoji = "\x1F1F0\x1F1F5"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1F5"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57073,7 +57073,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: South Korea"
-    , _openMoji_emoji = "\x1F1F0-1F1F7"
+    , _openMoji_emoji = "\x1F1F0\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57091,7 +57091,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Kuwait"
-    , _openMoji_emoji = "\x1F1F0-1F1FC"
+    , _openMoji_emoji = "\x1F1F0\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1FC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57109,7 +57109,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Cayman Islands"
-    , _openMoji_emoji = "\x1F1F0-1F1FE"
+    , _openMoji_emoji = "\x1F1F0\x1F1FE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1FE"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -57127,7 +57127,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Kazakhstan"
-    , _openMoji_emoji = "\x1F1F0-1F1FF"
+    , _openMoji_emoji = "\x1F1F0\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F0-1F1FF"
     , _openMoji_openmoji_author = "Carlin MacKenzie"
@@ -57145,7 +57145,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Laos"
-    , _openMoji_emoji = "\x1F1F1-1F1E6"
+    , _openMoji_emoji = "\x1F1F1\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57163,7 +57163,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Lebanon"
-    , _openMoji_emoji = "\x1F1F1-1F1E7"
+    , _openMoji_emoji = "\x1F1F1\x1F1E7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1E7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57181,7 +57181,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: St. Lucia"
-    , _openMoji_emoji = "\x1F1F1-1F1E8"
+    , _openMoji_emoji = "\x1F1F1\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1E8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57199,7 +57199,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Liechtenstein"
-    , _openMoji_emoji = "\x1F1F1-1F1EE"
+    , _openMoji_emoji = "\x1F1F1\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1EE"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -57217,7 +57217,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Sri Lanka"
-    , _openMoji_emoji = "\x1F1F1-1F1F0"
+    , _openMoji_emoji = "\x1F1F1\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1F0"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -57235,7 +57235,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Liberia"
-    , _openMoji_emoji = "\x1F1F1-1F1F7"
+    , _openMoji_emoji = "\x1F1F1\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57253,7 +57253,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Lesotho"
-    , _openMoji_emoji = "\x1F1F1-1F1F8"
+    , _openMoji_emoji = "\x1F1F1\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1F8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57271,7 +57271,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Lithuania"
-    , _openMoji_emoji = "\x1F1F1-1F1F9"
+    , _openMoji_emoji = "\x1F1F1\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1F9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57289,7 +57289,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Luxembourg"
-    , _openMoji_emoji = "\x1F1F1-1F1FA"
+    , _openMoji_emoji = "\x1F1F1\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1FA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57307,7 +57307,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Latvia"
-    , _openMoji_emoji = "\x1F1F1-1F1FB"
+    , _openMoji_emoji = "\x1F1F1\x1F1FB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1FB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57325,7 +57325,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Libya"
-    , _openMoji_emoji = "\x1F1F1-1F1FE"
+    , _openMoji_emoji = "\x1F1F1\x1F1FE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F1-1F1FE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57343,7 +57343,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Morocco"
-    , _openMoji_emoji = "\x1F1F2-1F1E6"
+    , _openMoji_emoji = "\x1F1F2\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57361,7 +57361,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Monaco"
-    , _openMoji_emoji = "\x1F1F2-1F1E8"
+    , _openMoji_emoji = "\x1F1F2\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1E8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57379,7 +57379,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Moldova"
-    , _openMoji_emoji = "\x1F1F2-1F1E9"
+    , _openMoji_emoji = "\x1F1F2\x1F1E9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1E9"
     , _openMoji_openmoji_author = "Pascal Ligon"
@@ -57397,7 +57397,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Montenegro"
-    , _openMoji_emoji = "\x1F1F2-1F1EA"
+    , _openMoji_emoji = "\x1F1F2\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1EA"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -57415,7 +57415,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: St. Martin"
-    , _openMoji_emoji = "\x1F1F2-1F1EB"
+    , _openMoji_emoji = "\x1F1F2\x1F1EB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1EB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57433,7 +57433,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Madagascar"
-    , _openMoji_emoji = "\x1F1F2-1F1EC"
+    , _openMoji_emoji = "\x1F1F2\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57451,7 +57451,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Marshall Islands"
-    , _openMoji_emoji = "\x1F1F2-1F1ED"
+    , _openMoji_emoji = "\x1F1F2\x1F1ED"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1ED"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57469,7 +57469,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: North Macedonia"
-    , _openMoji_emoji = "\x1F1F2-1F1F0"
+    , _openMoji_emoji = "\x1F1F2\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F0"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57487,7 +57487,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Mali"
-    , _openMoji_emoji = "\x1F1F2-1F1F1"
+    , _openMoji_emoji = "\x1F1F2\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57505,7 +57505,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Myanmar (Burma)"
-    , _openMoji_emoji = "\x1F1F2-1F1F2"
+    , _openMoji_emoji = "\x1F1F2\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57523,7 +57523,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Mongolia"
-    , _openMoji_emoji = "\x1F1F2-1F1F3"
+    , _openMoji_emoji = "\x1F1F2\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F3"
     , _openMoji_openmoji_author = "Pascal Ligon"
@@ -57541,7 +57541,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Macao SAR China"
-    , _openMoji_emoji = "\x1F1F2-1F1F4"
+    , _openMoji_emoji = "\x1F1F2\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57559,7 +57559,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Northern Mariana Islands"
-    , _openMoji_emoji = "\x1F1F2-1F1F5"
+    , _openMoji_emoji = "\x1F1F2\x1F1F5"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F5"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57577,7 +57577,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Martinique"
-    , _openMoji_emoji = "\x1F1F2-1F1F6"
+    , _openMoji_emoji = "\x1F1F2\x1F1F6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57595,7 +57595,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Mauritania"
-    , _openMoji_emoji = "\x1F1F2-1F1F7"
+    , _openMoji_emoji = "\x1F1F2\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57613,7 +57613,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Montserrat"
-    , _openMoji_emoji = "\x1F1F2-1F1F8"
+    , _openMoji_emoji = "\x1F1F2\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57631,7 +57631,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Malta"
-    , _openMoji_emoji = "\x1F1F2-1F1F9"
+    , _openMoji_emoji = "\x1F1F2\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1F9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57649,7 +57649,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Mauritius"
-    , _openMoji_emoji = "\x1F1F2-1F1FA"
+    , _openMoji_emoji = "\x1F1F2\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1FA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57667,7 +57667,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Maldives"
-    , _openMoji_emoji = "\x1F1F2-1F1FB"
+    , _openMoji_emoji = "\x1F1F2\x1F1FB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1FB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57685,7 +57685,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Malawi"
-    , _openMoji_emoji = "\x1F1F2-1F1FC"
+    , _openMoji_emoji = "\x1F1F2\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1FC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57703,7 +57703,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Mexico"
-    , _openMoji_emoji = "\x1F1F2-1F1FD"
+    , _openMoji_emoji = "\x1F1F2\x1F1FD"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1FD"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -57721,7 +57721,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Malaysia"
-    , _openMoji_emoji = "\x1F1F2-1F1FE"
+    , _openMoji_emoji = "\x1F1F2\x1F1FE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1FE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57739,7 +57739,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Mozambique"
-    , _openMoji_emoji = "\x1F1F2-1F1FF"
+    , _openMoji_emoji = "\x1F1F2\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F2-1F1FF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57757,7 +57757,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Namibia"
-    , _openMoji_emoji = "\x1F1F3-1F1E6"
+    , _openMoji_emoji = "\x1F1F3\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57775,7 +57775,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: New Caledonia"
-    , _openMoji_emoji = "\x1F1F3-1F1E8"
+    , _openMoji_emoji = "\x1F1F3\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1E8"
     , _openMoji_openmoji_author = "Carlin MacKenzie"
@@ -57793,7 +57793,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Niger"
-    , _openMoji_emoji = "\x1F1F3-1F1EA"
+    , _openMoji_emoji = "\x1F1F3\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57811,7 +57811,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Norfolk Island"
-    , _openMoji_emoji = "\x1F1F3-1F1EB"
+    , _openMoji_emoji = "\x1F1F3\x1F1EB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1EB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57829,7 +57829,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Nigeria"
-    , _openMoji_emoji = "\x1F1F3-1F1EC"
+    , _openMoji_emoji = "\x1F1F3\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57847,7 +57847,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Nicaragua"
-    , _openMoji_emoji = "\x1F1F3-1F1EE"
+    , _openMoji_emoji = "\x1F1F3\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1EE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57865,7 +57865,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Netherlands"
-    , _openMoji_emoji = "\x1F1F3-1F1F1"
+    , _openMoji_emoji = "\x1F1F3\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57883,7 +57883,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Norway"
-    , _openMoji_emoji = "\x1F1F3-1F1F4"
+    , _openMoji_emoji = "\x1F1F3\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57901,7 +57901,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Nepal"
-    , _openMoji_emoji = "\x1F1F3-1F1F5"
+    , _openMoji_emoji = "\x1F1F3\x1F1F5"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1F5"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57919,7 +57919,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Nauru"
-    , _openMoji_emoji = "\x1F1F3-1F1F7"
+    , _openMoji_emoji = "\x1F1F3\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57937,7 +57937,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Niue"
-    , _openMoji_emoji = "\x1F1F3-1F1FA"
+    , _openMoji_emoji = "\x1F1F3\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1FA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57955,7 +57955,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: New Zealand"
-    , _openMoji_emoji = "\x1F1F3-1F1FF"
+    , _openMoji_emoji = "\x1F1F3\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F3-1F1FF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57973,7 +57973,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Oman"
-    , _openMoji_emoji = "\x1F1F4-1F1F2"
+    , _openMoji_emoji = "\x1F1F4\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F4-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -57991,7 +57991,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Panama"
-    , _openMoji_emoji = "\x1F1F5-1F1E6"
+    , _openMoji_emoji = "\x1F1F5\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58009,7 +58009,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Peru"
-    , _openMoji_emoji = "\x1F1F5-1F1EA"
+    , _openMoji_emoji = "\x1F1F5\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58027,7 +58027,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: French Polynesia"
-    , _openMoji_emoji = "\x1F1F5-1F1EB"
+    , _openMoji_emoji = "\x1F1F5\x1F1EB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1EB"
     , _openMoji_openmoji_author = "Pascal Ligon"
@@ -58045,7 +58045,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Papua New Guinea"
-    , _openMoji_emoji = "\x1F1F5-1F1EC"
+    , _openMoji_emoji = "\x1F1F5\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1EC"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -58063,7 +58063,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Philippines"
-    , _openMoji_emoji = "\x1F1F5-1F1ED"
+    , _openMoji_emoji = "\x1F1F5\x1F1ED"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1ED"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58081,7 +58081,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Pakistan"
-    , _openMoji_emoji = "\x1F1F5-1F1F0"
+    , _openMoji_emoji = "\x1F1F5\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1F0"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58099,7 +58099,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Poland"
-    , _openMoji_emoji = "\x1F1F5-1F1F1"
+    , _openMoji_emoji = "\x1F1F5\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58117,7 +58117,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: St. Pierre & Miquelon"
-    , _openMoji_emoji = "\x1F1F5-1F1F2"
+    , _openMoji_emoji = "\x1F1F5\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1F2"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -58135,7 +58135,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Pitcairn Islands"
-    , _openMoji_emoji = "\x1F1F5-1F1F3"
+    , _openMoji_emoji = "\x1F1F5\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1F3"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -58153,7 +58153,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Puerto Rico"
-    , _openMoji_emoji = "\x1F1F5-1F1F7"
+    , _openMoji_emoji = "\x1F1F5\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58171,7 +58171,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Palestinian Territories"
-    , _openMoji_emoji = "\x1F1F5-1F1F8"
+    , _openMoji_emoji = "\x1F1F5\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1F8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58189,7 +58189,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Portugal"
-    , _openMoji_emoji = "\x1F1F5-1F1F9"
+    , _openMoji_emoji = "\x1F1F5\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1F9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58207,7 +58207,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Palau"
-    , _openMoji_emoji = "\x1F1F5-1F1FC"
+    , _openMoji_emoji = "\x1F1F5\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1FC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58225,7 +58225,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Paraguay"
-    , _openMoji_emoji = "\x1F1F5-1F1FE"
+    , _openMoji_emoji = "\x1F1F5\x1F1FE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F5-1F1FE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58243,7 +58243,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Qatar"
-    , _openMoji_emoji = "\x1F1F6-1F1E6"
+    , _openMoji_emoji = "\x1F1F6\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F6-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58261,7 +58261,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Réunion"
-    , _openMoji_emoji = "\x1F1F7-1F1EA"
+    , _openMoji_emoji = "\x1F1F7\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F7-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58279,7 +58279,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Romania"
-    , _openMoji_emoji = "\x1F1F7-1F1F4"
+    , _openMoji_emoji = "\x1F1F7\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F7-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58297,7 +58297,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Serbia"
-    , _openMoji_emoji = "\x1F1F7-1F1F8"
+    , _openMoji_emoji = "\x1F1F7\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F7-1F1F8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58315,7 +58315,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Russia"
-    , _openMoji_emoji = "\x1F1F7-1F1FA"
+    , _openMoji_emoji = "\x1F1F7\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F7-1F1FA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58333,7 +58333,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Rwanda"
-    , _openMoji_emoji = "\x1F1F7-1F1FC"
+    , _openMoji_emoji = "\x1F1F7\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F7-1F1FC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58351,7 +58351,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Saudi Arabia"
-    , _openMoji_emoji = "\x1F1F8-1F1E6"
+    , _openMoji_emoji = "\x1F1F8\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1E6"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -58369,7 +58369,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Solomon Islands"
-    , _openMoji_emoji = "\x1F1F8-1F1E7"
+    , _openMoji_emoji = "\x1F1F8\x1F1E7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1E7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58387,7 +58387,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Seychelles"
-    , _openMoji_emoji = "\x1F1F8-1F1E8"
+    , _openMoji_emoji = "\x1F1F8\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1E8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58405,7 +58405,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Sudan"
-    , _openMoji_emoji = "\x1F1F8-1F1E9"
+    , _openMoji_emoji = "\x1F1F8\x1F1E9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1E9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58423,7 +58423,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Sweden"
-    , _openMoji_emoji = "\x1F1F8-1F1EA"
+    , _openMoji_emoji = "\x1F1F8\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58441,7 +58441,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Singapore"
-    , _openMoji_emoji = "\x1F1F8-1F1EC"
+    , _openMoji_emoji = "\x1F1F8\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58459,7 +58459,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: St. Helena"
-    , _openMoji_emoji = "\x1F1F8-1F1ED"
+    , _openMoji_emoji = "\x1F1F8\x1F1ED"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1ED"
     , _openMoji_openmoji_author = "Pascal Ligon"
@@ -58477,7 +58477,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Slovenia"
-    , _openMoji_emoji = "\x1F1F8-1F1EE"
+    , _openMoji_emoji = "\x1F1F8\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1EE"
     , _openMoji_openmoji_author = "Pascal Ligon"
@@ -58495,7 +58495,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Svalbard & Jan Mayen"
-    , _openMoji_emoji = "\x1F1F8-1F1EF"
+    , _openMoji_emoji = "\x1F1F8\x1F1EF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1EF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58513,7 +58513,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Slovakia"
-    , _openMoji_emoji = "\x1F1F8-1F1F0"
+    , _openMoji_emoji = "\x1F1F8\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1F0"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58531,7 +58531,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Sierra Leone"
-    , _openMoji_emoji = "\x1F1F8-1F1F1"
+    , _openMoji_emoji = "\x1F1F8\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58549,7 +58549,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: San Marino"
-    , _openMoji_emoji = "\x1F1F8-1F1F2"
+    , _openMoji_emoji = "\x1F1F8\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1F2"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -58567,7 +58567,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Senegal"
-    , _openMoji_emoji = "\x1F1F8-1F1F3"
+    , _openMoji_emoji = "\x1F1F8\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1F3"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58585,7 +58585,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Somalia"
-    , _openMoji_emoji = "\x1F1F8-1F1F4"
+    , _openMoji_emoji = "\x1F1F8\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58603,7 +58603,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Suriname"
-    , _openMoji_emoji = "\x1F1F8-1F1F7"
+    , _openMoji_emoji = "\x1F1F8\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58621,7 +58621,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: South Sudan"
-    , _openMoji_emoji = "\x1F1F8-1F1F8"
+    , _openMoji_emoji = "\x1F1F8\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1F8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58639,7 +58639,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: São Tomé & Príncipe"
-    , _openMoji_emoji = "\x1F1F8-1F1F9"
+    , _openMoji_emoji = "\x1F1F8\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1F9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58657,7 +58657,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: El Salvador"
-    , _openMoji_emoji = "\x1F1F8-1F1FB"
+    , _openMoji_emoji = "\x1F1F8\x1F1FB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1FB"
     , _openMoji_openmoji_author = "Pascal Ligon"
@@ -58675,7 +58675,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Sint Maarten"
-    , _openMoji_emoji = "\x1F1F8-1F1FD"
+    , _openMoji_emoji = "\x1F1F8\x1F1FD"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1FD"
     , _openMoji_openmoji_author = "Pascal Ligon"
@@ -58693,7 +58693,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Syria"
-    , _openMoji_emoji = "\x1F1F8-1F1FE"
+    , _openMoji_emoji = "\x1F1F8\x1F1FE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1FE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58711,7 +58711,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Eswatini"
-    , _openMoji_emoji = "\x1F1F8-1F1FF"
+    , _openMoji_emoji = "\x1F1F8\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F8-1F1FF"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -58729,7 +58729,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Tristan da Cunha"
-    , _openMoji_emoji = "\x1F1F9-1F1E6"
+    , _openMoji_emoji = "\x1F1F9\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1E6"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -58747,7 +58747,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Turks & Caicos Islands"
-    , _openMoji_emoji = "\x1F1F9-1F1E8"
+    , _openMoji_emoji = "\x1F1F9\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1E8"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -58765,7 +58765,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Chad"
-    , _openMoji_emoji = "\x1F1F9-1F1E9"
+    , _openMoji_emoji = "\x1F1F9\x1F1E9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1E9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58783,7 +58783,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: French Southern Territories"
-    , _openMoji_emoji = "\x1F1F9-1F1EB"
+    , _openMoji_emoji = "\x1F1F9\x1F1EB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1EB"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -58801,7 +58801,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Togo"
-    , _openMoji_emoji = "\x1F1F9-1F1EC"
+    , _openMoji_emoji = "\x1F1F9\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1EC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58819,7 +58819,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Thailand"
-    , _openMoji_emoji = "\x1F1F9-1F1ED"
+    , _openMoji_emoji = "\x1F1F9\x1F1ED"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1ED"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58837,7 +58837,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Tajikistan"
-    , _openMoji_emoji = "\x1F1F9-1F1EF"
+    , _openMoji_emoji = "\x1F1F9\x1F1EF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1EF"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -58855,7 +58855,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Tokelau"
-    , _openMoji_emoji = "\x1F1F9-1F1F0"
+    , _openMoji_emoji = "\x1F1F9\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1F0"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58873,7 +58873,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Timor-Leste"
-    , _openMoji_emoji = "\x1F1F9-1F1F1"
+    , _openMoji_emoji = "\x1F1F9\x1F1F1"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1F1"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58891,7 +58891,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Turkmenistan"
-    , _openMoji_emoji = "\x1F1F9-1F1F2"
+    , _openMoji_emoji = "\x1F1F9\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1F2"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -58909,7 +58909,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Tunisia"
-    , _openMoji_emoji = "\x1F1F9-1F1F3"
+    , _openMoji_emoji = "\x1F1F9\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1F3"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58927,7 +58927,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Tonga"
-    , _openMoji_emoji = "\x1F1F9-1F1F4"
+    , _openMoji_emoji = "\x1F1F9\x1F1F4"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1F4"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58945,7 +58945,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Turkey"
-    , _openMoji_emoji = "\x1F1F9-1F1F7"
+    , _openMoji_emoji = "\x1F1F9\x1F1F7"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1F7"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58963,7 +58963,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Trinidad & Tobago"
-    , _openMoji_emoji = "\x1F1F9-1F1F9"
+    , _openMoji_emoji = "\x1F1F9\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1F9"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58981,7 +58981,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Tuvalu"
-    , _openMoji_emoji = "\x1F1F9-1F1FB"
+    , _openMoji_emoji = "\x1F1F9\x1F1FB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1FB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -58999,7 +58999,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Taiwan"
-    , _openMoji_emoji = "\x1F1F9-1F1FC"
+    , _openMoji_emoji = "\x1F1F9\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1FC"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59017,7 +59017,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Tanzania"
-    , _openMoji_emoji = "\x1F1F9-1F1FF"
+    , _openMoji_emoji = "\x1F1F9\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1F9-1F1FF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59035,7 +59035,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Ukraine"
-    , _openMoji_emoji = "\x1F1FA-1F1E6"
+    , _openMoji_emoji = "\x1F1FA\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FA-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59053,7 +59053,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Uganda"
-    , _openMoji_emoji = "\x1F1FA-1F1EC"
+    , _openMoji_emoji = "\x1F1FA\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FA-1F1EC"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -59071,7 +59071,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: U.S. Outlying Islands"
-    , _openMoji_emoji = "\x1F1FA-1F1F2"
+    , _openMoji_emoji = "\x1F1FA\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FA-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59089,7 +59089,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: United Nations"
-    , _openMoji_emoji = "\x1F1FA-1F1F3"
+    , _openMoji_emoji = "\x1F1FA\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FA-1F1F3"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -59107,7 +59107,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: United States"
-    , _openMoji_emoji = "\x1F1FA-1F1F8"
+    , _openMoji_emoji = "\x1F1FA\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FA-1F1F8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59125,7 +59125,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Uruguay"
-    , _openMoji_emoji = "\x1F1FA-1F1FE"
+    , _openMoji_emoji = "\x1F1FA\x1F1FE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FA-1F1FE"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59143,7 +59143,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Uzbekistan"
-    , _openMoji_emoji = "\x1F1FA-1F1FF"
+    , _openMoji_emoji = "\x1F1FA\x1F1FF"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FA-1F1FF"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59161,7 +59161,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Vatican City"
-    , _openMoji_emoji = "\x1F1FB-1F1E6"
+    , _openMoji_emoji = "\x1F1FB\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FB-1F1E6"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -59179,7 +59179,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: St. Vincent & Grenadines"
-    , _openMoji_emoji = "\x1F1FB-1F1E8"
+    , _openMoji_emoji = "\x1F1FB\x1F1E8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FB-1F1E8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59197,7 +59197,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Venezuela"
-    , _openMoji_emoji = "\x1F1FB-1F1EA"
+    , _openMoji_emoji = "\x1F1FB\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FB-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59215,7 +59215,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: British Virgin Islands"
-    , _openMoji_emoji = "\x1F1FB-1F1EC"
+    , _openMoji_emoji = "\x1F1FB\x1F1EC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FB-1F1EC"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -59233,7 +59233,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: U.S. Virgin Islands"
-    , _openMoji_emoji = "\x1F1FB-1F1EE"
+    , _openMoji_emoji = "\x1F1FB\x1F1EE"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FB-1F1EE"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -59251,7 +59251,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Vietnam"
-    , _openMoji_emoji = "\x1F1FB-1F1F3"
+    , _openMoji_emoji = "\x1F1FB\x1F1F3"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FB-1F1F3"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59269,7 +59269,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Vanuatu"
-    , _openMoji_emoji = "\x1F1FB-1F1FA"
+    , _openMoji_emoji = "\x1F1FB\x1F1FA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FB-1F1FA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59287,7 +59287,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Wallis & Futuna"
-    , _openMoji_emoji = "\x1F1FC-1F1EB"
+    , _openMoji_emoji = "\x1F1FC\x1F1EB"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FC-1F1EB"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59305,7 +59305,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Samoa"
-    , _openMoji_emoji = "\x1F1FC-1F1F8"
+    , _openMoji_emoji = "\x1F1FC\x1F1F8"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FC-1F1F8"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59323,7 +59323,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Kosovo"
-    , _openMoji_emoji = "\x1F1FD-1F1F0"
+    , _openMoji_emoji = "\x1F1FD\x1F1F0"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FD-1F1F0"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59341,7 +59341,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Yemen"
-    , _openMoji_emoji = "\x1F1FE-1F1EA"
+    , _openMoji_emoji = "\x1F1FE\x1F1EA"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FE-1F1EA"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59359,7 +59359,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Mayotte"
-    , _openMoji_emoji = "\x1F1FE-1F1F9"
+    , _openMoji_emoji = "\x1F1FE\x1F1F9"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FE-1F1F9"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -59377,7 +59377,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: South Africa"
-    , _openMoji_emoji = "\x1F1FF-1F1E6"
+    , _openMoji_emoji = "\x1F1FF\x1F1E6"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FF-1F1E6"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59395,7 +59395,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Zambia"
-    , _openMoji_emoji = "\x1F1FF-1F1F2"
+    , _openMoji_emoji = "\x1F1FF\x1F1F2"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FF-1F1F2"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59413,7 +59413,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Zimbabwe"
-    , _openMoji_emoji = "\x1F1FF-1F1FC"
+    , _openMoji_emoji = "\x1F1FF\x1F1FC"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F1FF-1F1FC"
     , _openMoji_openmoji_author = "Daniela Ivandikov"
@@ -59431,7 +59431,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: England"
-    , _openMoji_emoji = "\x1F3F4-E0067-E0062-E0065-E006E-E0067-E007F"
+    , _openMoji_emoji = "\x1F3F4\xE0067\xE0062\xE0065\xE006E\xE0067\xE007F"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59449,7 +59449,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Scotland"
-    , _openMoji_emoji = "\x1F3F4-E0067-E0062-E0073-E0063-E0074-E007F"
+    , _openMoji_emoji = "\x1F3F4\xE0067\xE0062\xE0073\xE0063\xE0074\xE007F"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F3F4-E0067-E0062-E0073-E0063-E0074-E007F"
     , _openMoji_openmoji_author = "Ferdinand Sorg"
@@ -59467,7 +59467,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "flag: Wales"
-    , _openMoji_emoji = "\x1F3F4-E0067-E0062-E0077-E006C-E0073-E007F"
+    , _openMoji_emoji = "\x1F3F4\xE0067\xE0062\xE0077\xE006C\xE0073\xE007F"
     , _openMoji_group = "flags"
     , _openMoji_hexcode = "1F3F4-E0067-E0062-E0077-E006C-E0073-E007F"
     , _openMoji_openmoji_author = "Daniel Utz"
@@ -61393,7 +61393,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman with medical mask"
-    , _openMoji_emoji = "\xE0AC-200D-2640-FE0F"
+    , _openMoji_emoji = "\xE0AC\x200D\x2640\xFE0F"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "E0AC-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Guemil Project"
@@ -61411,7 +61411,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man with medical mask"
-    , _openMoji_emoji = "\xE0AC-200D-2642-FE0F"
+    , _openMoji_emoji = "\xE0AC\x200D\x2642\xFE0F"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "E0AC-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Guemil Project"
@@ -61447,7 +61447,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "woman sneezing into elbow"
-    , _openMoji_emoji = "\xE0AD-200D-2640-FE0F"
+    , _openMoji_emoji = "\xE0AD\x200D\x2640\xFE0F"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "E0AD-200D-2640-FE0F"
     , _openMoji_openmoji_author = "Guemil Project"
@@ -61465,7 +61465,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "man sneezing into elbow"
-    , _openMoji_emoji = "\xE0AD-200D-2642-FE0F"
+    , _openMoji_emoji = "\xE0AD\x200D\x2642\xFE0F"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "E0AD-200D-2642-FE0F"
     , _openMoji_openmoji_author = "Guemil Project"
@@ -61609,7 +61609,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "white flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F"
+    , _openMoji_emoji = "\x1F3F3\xFE0F"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61627,7 +61627,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "nail and gear flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F4CC-200D-2699-FE0F"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F4CC\x200D\x2699\xFE0F"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F4CC-200D-2699-FE0F"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61645,7 +61645,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "red flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F7E5"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F7E5"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F7E5"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61663,7 +61663,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "blue flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F7E6"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F7E6"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F7E6"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61681,7 +61681,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "united federation of planets flag (star trek)"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F7E6-200D-1F30C"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F7E6\x200D\x1F30C"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F7E6-200D-1F30C"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61699,7 +61699,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "orange flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F7E7"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F7E7"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F7E7"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61717,7 +61717,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "yellow flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F7E8"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F7E8"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F7E8"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61735,7 +61735,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "green flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F7E9"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F7E9"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F7E9"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61753,7 +61753,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "esperanto flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F7E9-200D-2B50-200D-1F7E9"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F7E9\x200D\x2B50\x200D\x1F7E9"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F7E9-200D-2B50-200D-1F7E9"
     , _openMoji_openmoji_author = "Carlin MacKenzie"
@@ -61771,7 +61771,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "purple flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F7EA"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F7EA"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F7EA"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61789,7 +61789,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "brown flag"
-    , _openMoji_emoji = "\x1F3F3-FE0F-200D-1F7EB"
+    , _openMoji_emoji = "\x1F3F3\xFE0F\x200D\x1F7EB"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1F3F3-FE0F-200D-1F7EB"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61807,7 +61807,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "red flag"
-    , _openMoji_emoji = "\x2691-FE0F-200D-1F7E5"
+    , _openMoji_emoji = "\x2691\xFE0F\x200D\x1F7E5"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "2691-FE0F-200D-1F7E5"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61825,7 +61825,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deep blue flag"
-    , _openMoji_emoji = "\x2691-FE0F-200D-1F7E6"
+    , _openMoji_emoji = "\x2691\xFE0F\x200D\x1F7E6"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "2691-FE0F-200D-1F7E6"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61843,7 +61843,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deep orange flag"
-    , _openMoji_emoji = "\x2691-FE0F-200D-1F7E7"
+    , _openMoji_emoji = "\x2691\xFE0F\x200D\x1F7E7"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "2691-FE0F-200D-1F7E7"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61861,7 +61861,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deep yellow flag"
-    , _openMoji_emoji = "\x2691-FE0F-200D-1F7E8"
+    , _openMoji_emoji = "\x2691\xFE0F\x200D\x1F7E8"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "2691-FE0F-200D-1F7E8"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61879,7 +61879,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deep green flag"
-    , _openMoji_emoji = "\x2691-FE0F-200D-1F7E9"
+    , _openMoji_emoji = "\x2691\xFE0F\x200D\x1F7E9"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "2691-FE0F-200D-1F7E9"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61897,7 +61897,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "browncoat flag"
-    , _openMoji_emoji = "\x2691-FE0F-200D-1F7E9-200D-2605-FE0F"
+    , _openMoji_emoji = "\x2691\xFE0F\x200D\x1F7E9\x200D\x2605\xFE0F"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "2691-FE0F-200D-1F7E9-200D-2605-FE0F"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61915,7 +61915,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deep purple flag"
-    , _openMoji_emoji = "\x2691-FE0F-200D-1F7EA"
+    , _openMoji_emoji = "\x2691\xFE0F\x200D\x1F7EA"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "2691-FE0F-200D-1F7EA"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -61933,7 +61933,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "deep brown flag"
-    , _openMoji_emoji = "\x2691-FE0F-200D-1F7EB"
+    , _openMoji_emoji = "\x2691\xFE0F\x200D\x1F7EB"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "2691-FE0F-200D-1F7EB"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -63679,7 +63679,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "stick figure with dress and arms raised"
-    , _openMoji_emoji = "\x1FBC6-200D-1F457"
+    , _openMoji_emoji = "\x1FBC6\x200D\x1F457"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1FBC6-200D-1F457"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -63697,7 +63697,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "stick figure with dress leaning left"
-    , _openMoji_emoji = "\x1FBC7-200D-1F457"
+    , _openMoji_emoji = "\x1FBC7\x200D\x1F457"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1FBC7-200D-1F457"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -63715,7 +63715,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "stick figure with dress leaning right"
-    , _openMoji_emoji = "\x1FBC8-200D-1F457"
+    , _openMoji_emoji = "\x1FBC8\x200D\x1F457"
     , _openMoji_group = "extras-openmoji"
     , _openMoji_hexcode = "1FBC8-200D-1F457"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -65191,7 +65191,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "berlin flag"
-    , _openMoji_emoji = "\x1F3F4-E0064-E0065-E0062-E0065-E007F"
+    , _openMoji_emoji = "\x1F3F4\xE0064\xE0065\xE0062\xE0065\xE007F"
     , _openMoji_group = "extras-unicode"
     , _openMoji_hexcode = "1F3F4-E0064-E0065-E0062-E0065-E007F"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -65209,7 +65209,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "bavaria flag"
-    , _openMoji_emoji = "\x1F3F4-E0064-E0065-E0062-E0079-E007F"
+    , _openMoji_emoji = "\x1F3F4\xE0064\xE0065\xE0062\xE0079\xE007F"
     , _openMoji_group = "extras-unicode"
     , _openMoji_hexcode = "1F3F4-E0064-E0065-E0062-E0079-E007F"
     , _openMoji_openmoji_author = "Manuel Strehl"
@@ -65227,7 +65227,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "asturian flag"
-    , _openMoji_emoji = "\x1F3F4-E0065-E0073-E0061-E0073-E007F"
+    , _openMoji_emoji = "\x1F3F4\xE0065\xE0073\xE0061\xE0073\xE007F"
     , _openMoji_group = "extras-unicode"
     , _openMoji_hexcode = "1F3F4-E0065-E0073-E0061-E0073-E007F"
     , _openMoji_openmoji_author = "Mikel González"
@@ -65245,7 +65245,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "california flag"
-    , _openMoji_emoji = "\x1F3F4-E0075-E0073-E0063-E0061-E007F"
+    , _openMoji_emoji = "\x1F3F4\xE0075\xE0073\xE0063\xE0061\xE007F"
     , _openMoji_group = "extras-unicode"
     , _openMoji_hexcode = "1F3F4-E0075-E0073-E0063-E0061-E007F"
     , _openMoji_openmoji_author = "Alexander Müller"
@@ -65263,7 +65263,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "texas flag"
-    , _openMoji_emoji = "\x1F3F4-E0075-E0073-E0074-E0078-E007F"
+    , _openMoji_emoji = "\x1F3F4\xE0075\xE0073\xE0074\xE0078\xE007F"
     , _openMoji_group = "extras-unicode"
     , _openMoji_hexcode = "1F3F4-E0075-E0073-E0074-E0078-E007F"
     , _openMoji_openmoji_author = "Carlin MacKenzie"
@@ -65281,7 +65281,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "catalonia flag"
-    , _openMoji_emoji = "\x1FEF4-E0065-E0073-E0063-E0074-E007F"
+    , _openMoji_emoji = "\x1FEF4\xE0065\xE0073\xE0063\xE0074\xE007F"
     , _openMoji_group = "extras-unicode"
     , _openMoji_hexcode = "1FEF4-E0065-E0073-E0063-E0074-E007F"
     , _openMoji_openmoji_author = "Joan Montané"
@@ -65425,7 +65425,7 @@ openmojis = [
 
   , OpenMoji
     { _openMoji_annotation = "hacker cat"
-    , _openMoji_emoji = "\x1F431-200D-1F4BB"
+    , _openMoji_emoji = "\x1F431\x200D\x1F4BB"
     , _openMoji_group = "extras-unicode"
     , _openMoji_hexcode = "1F431-200D-1F4BB"
     , _openMoji_openmoji_author = "Benedikt Groß"

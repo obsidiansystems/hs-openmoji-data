@@ -3,8 +3,9 @@ let thunkSource = (import ./nix-thunk {}).thunkSource;
     src = thunkSource ./openmoji;
     openmojiJson = builtins.fromJSON (builtins.readFile (src + "/data/openmoji.json"));
     inherit (pkgs) lib;
-    toListOfText = sep: tags: "[" + lib.concatStringsSep ", "
-      (map (x: ''"${x}"'') (lib.splitString sep tags)) + "]";
+    toList = parseSep: renderSep: renderItem: source: lib.concatStringsSep renderSep
+      (map (x: ''${renderItem x}'') (lib.splitString parseSep source));
+    toListOfText = sep: tags: "[" + toList sep ", " (x: "\"${x}\"") tags + "]";
     haskellModule = builtins.toFile "OpenMoji.hs" ''
       {-# Language OverloadedStrings #-}
       {-|
@@ -21,7 +22,7 @@ let thunkSource = (import ./nix-thunk {}).thunkSource;
       openmojis = ${"[\n  " + lib.concatStringsSep "\n  , " (builtins.map (o: ''
           OpenMoji
               { _openMoji_annotation = "${o.annotation}"
-              , _openMoji_emoji = "\x${o.hexcode}"
+              , _openMoji_emoji = "${''\x'' + toList "-" ''\x'' (x: x) o.hexcode}"
               , _openMoji_group = "${o.group}"
               , _openMoji_hexcode = "${o.hexcode}"
               , _openMoji_openmoji_author = "${o.openmoji_author}"
