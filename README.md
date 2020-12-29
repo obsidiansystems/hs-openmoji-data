@@ -86,7 +86,7 @@ Example Usage
 
 ```
 
-This program should will something like the following:
+This program will do something like the following:
 
 ```
 Results for 'bricks':
