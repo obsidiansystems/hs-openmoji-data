@@ -1,10 +1,9 @@
 {-# Language DeriveGeneric #-}
-module Text.Emoji.OpenMoji.Types where
 {-|
  Description:
-  Types corresponding to OpenMoji's raw JSON data format.
+   Types corresponding to OpenMoji's raw JSON data format.
 -}
-
+module Text.Emoji.OpenMoji.Types where
 import Data.Text (Text)
 import GHC.Generics (Generic)
 
