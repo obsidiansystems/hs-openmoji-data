@@ -95,8 +95,6 @@ Tags:       bricks, clay, mortar, wall
 SVG:        https://raw.githubusercontent.com/hfg-gmuend/openmoji/4a80b536eb62a78822548a2aa371426f912d7e9d/color/svg/1F9F1.svg
 ```
 
-![bricks](https://raw.githubusercontent.com/hfg-gmuend/openmoji/4a80b536eb62a78822548a2aa371426f912d7e9d/color/svg/1F9F1.svg)
-
 About the Emojis
 -------------------
 
