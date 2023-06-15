@@ -1,6 +1,6 @@
 cabal-version:      >=1.10
 name:               hs-openmoji-data
-version:            13.0.0
+version:            14.0.0
 synopsis:           The OpenMoji emoji dataset
 description:
   This library simply exposes the OpenMoji emoji dataset as some data in Haskell
