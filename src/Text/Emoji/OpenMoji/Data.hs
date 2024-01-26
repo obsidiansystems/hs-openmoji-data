@@ -894,6 +894,24 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "shaking face"
+    , _openMoji_emoji = "\x1FAE8"
+    , _openMoji_group = "smileys-emotion"
+    , _openMoji_hexcode = "1FAE8"
+    , _openMoji_openmoji_author = "Linda Hartmann"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 52
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "face-neutral-skeptical"
+    , _openMoji_tags = ["earthquake", "face", "shaking", "shock", "vibrate"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "relieved face"
     , _openMoji_emoji = "\x1F60C"
     , _openMoji_group = "smileys-emotion"
@@ -2532,6 +2550,24 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "pink heart"
+    , _openMoji_emoji = "\x1FA77"
+    , _openMoji_group = "smileys-emotion"
+    , _openMoji_hexcode = "1FA77"
+    , _openMoji_openmoji_author = "Jasmin Fassler"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 150
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "heart"
+    , _openMoji_tags = ["cute", "heart", "like", "love", "pink"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "orange heart"
     , _openMoji_emoji = "\x1F9E1"
     , _openMoji_group = "smileys-emotion"
@@ -2604,6 +2640,24 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "light blue heart"
+    , _openMoji_emoji = "\x1FA75"
+    , _openMoji_group = "smileys-emotion"
+    , _openMoji_hexcode = "1FA75"
+    , _openMoji_openmoji_author = "Kira Lehmann"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 155
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "heart"
+    , _openMoji_tags = ["cyan", "heart", "light blue", "teal"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "purple heart"
     , _openMoji_emoji = "\x1F49C"
     , _openMoji_group = "smileys-emotion"
@@ -2655,6 +2709,24 @@ openmojis = [
     , _openMoji_subgroups = "heart"
     , _openMoji_tags = ["black", "evil", "wicked"]
     , _openMoji_unicode = "3"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "grey heart"
+    , _openMoji_emoji = "\x1FA76"
+    , _openMoji_group = "smileys-emotion"
+    , _openMoji_hexcode = "1FA76"
+    , _openMoji_openmoji_author = "Jasmin Fassler"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 159
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "heart"
+    , _openMoji_tags = ["gray", "heart", "silver", "slate"]
+    , _openMoji_unicode = "15"
     }
 
   , OpenMoji
@@ -3897,6 +3969,222 @@ openmojis = [
     , _openMoji_subgroups = "hand-fingers-open"
     , _openMoji_tags = [""]
     , _openMoji_unicode = "14"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "leftwards pushing hand"
+    , _openMoji_emoji = "\x1FAF7"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF7"
+    , _openMoji_openmoji_author = "Jasmin Fassler"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 236
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF7"
+    , _openMoji_skintone_base_hexcode = "1FAF7"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = ["high five", "leftward", "push", "refuse", "stop", "wait"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "leftwards pushing hand: light skin tone"
+    , _openMoji_emoji = "\x1FAF7\x1F3FB"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF7-1F3FB"
+    , _openMoji_openmoji_author = "Jasmin Fassler"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 237
+    , _openMoji_skintone = ["1"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF7"
+    , _openMoji_skintone_base_hexcode = "1FAF7"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "leftwards pushing hand: medium-light skin tone"
+    , _openMoji_emoji = "\x1FAF7\x1F3FC"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF7-1F3FC"
+    , _openMoji_openmoji_author = "Jasmin Fassler"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 238
+    , _openMoji_skintone = ["2"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF7"
+    , _openMoji_skintone_base_hexcode = "1FAF7"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "leftwards pushing hand: medium skin tone"
+    , _openMoji_emoji = "\x1FAF7\x1F3FD"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF7-1F3FD"
+    , _openMoji_openmoji_author = "Jasmin Fassler"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 239
+    , _openMoji_skintone = ["3"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF7"
+    , _openMoji_skintone_base_hexcode = "1FAF7"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "leftwards pushing hand: medium-dark skin tone"
+    , _openMoji_emoji = "\x1FAF7\x1F3FE"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF7-1F3FE"
+    , _openMoji_openmoji_author = "Jasmin Fassler"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 240
+    , _openMoji_skintone = ["4"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF7"
+    , _openMoji_skintone_base_hexcode = "1FAF7"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "leftwards pushing hand: dark skin tone"
+    , _openMoji_emoji = "\x1FAF7\x1F3FF"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF7-1F3FF"
+    , _openMoji_openmoji_author = "Jasmin Fassler"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 241
+    , _openMoji_skintone = ["5"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF7"
+    , _openMoji_skintone_base_hexcode = "1FAF7"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "rightwards pushing hand"
+    , _openMoji_emoji = "\x1FAF8"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF8"
+    , _openMoji_openmoji_author = "Paul Mang"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 242
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF8"
+    , _openMoji_skintone_base_hexcode = "1FAF8"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = ["high five", "push", "refuse", "rightward", "stop", "wait"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "rightwards pushing hand: light skin tone"
+    , _openMoji_emoji = "\x1FAF8\x1F3FB"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF8-1F3FB"
+    , _openMoji_openmoji_author = "Paul Mang"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 243
+    , _openMoji_skintone = ["1"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF8"
+    , _openMoji_skintone_base_hexcode = "1FAF8"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "rightwards pushing hand: medium-light skin tone"
+    , _openMoji_emoji = "\x1FAF8\x1F3FC"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF8-1F3FC"
+    , _openMoji_openmoji_author = "Paul Mang"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 244
+    , _openMoji_skintone = ["2"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF8"
+    , _openMoji_skintone_base_hexcode = "1FAF8"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "rightwards pushing hand: medium skin tone"
+    , _openMoji_emoji = "\x1FAF8\x1F3FD"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF8-1F3FD"
+    , _openMoji_openmoji_author = "Paul Mang"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 245
+    , _openMoji_skintone = ["3"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF8"
+    , _openMoji_skintone_base_hexcode = "1FAF8"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "rightwards pushing hand: medium-dark skin tone"
+    , _openMoji_emoji = "\x1FAF8\x1F3FE"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF8-1F3FE"
+    , _openMoji_openmoji_author = "Paul Mang"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 246
+    , _openMoji_skintone = ["4"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF8"
+    , _openMoji_skintone_base_hexcode = "1FAF8"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "rightwards pushing hand: dark skin tone"
+    , _openMoji_emoji = "\x1FAF8\x1F3FF"
+    , _openMoji_group = "people-body"
+    , _openMoji_hexcode = "1FAF8-1F3FF"
+    , _openMoji_openmoji_author = "Paul Mang"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 247
+    , _openMoji_skintone = ["5"]
+    , _openMoji_skintone_combination = "single"
+    , _openMoji_skintone_base_emoji = "\x1FAF8"
+    , _openMoji_skintone_base_hexcode = "1FAF8"
+    , _openMoji_subgroups = "hand-fingers-open"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "15"
     }
 
   , OpenMoji
@@ -41898,6 +42186,42 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "moose"
+    , _openMoji_emoji = "\x1FACE"
+    , _openMoji_group = "animals-nature"
+    , _openMoji_hexcode = "1FACE"
+    , _openMoji_openmoji_author = "Linda Hartmann"
+    , _openMoji_openmoji_date = "2023-10-06"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3208
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "animal-mammal"
+    , _openMoji_tags = ["animal", "antlers", "elk", "mammal"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "donkey"
+    , _openMoji_emoji = "\x1FACF"
+    , _openMoji_group = "animals-nature"
+    , _openMoji_hexcode = "1FACF"
+    , _openMoji_openmoji_author = "Charlotte Beha"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3209
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "animal-mammal"
+    , _openMoji_tags = ["animal", "ass", "burro", "mammal", "mule", "stubborn"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "horse"
     , _openMoji_emoji = "\x1F40E"
     , _openMoji_group = "animals-nature"
@@ -43014,6 +43338,60 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "wing"
+    , _openMoji_emoji = "\x1FABD"
+    , _openMoji_group = "animals-nature"
+    , _openMoji_hexcode = "1FABD"
+    , _openMoji_openmoji_author = "Kathrin Gerold"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3275
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "animal-bird"
+    , _openMoji_tags = ["angelic", "aviation", "bird", "flying", "mythology"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "black bird"
+    , _openMoji_emoji = "\x1F426\x200D\x2B1B"
+    , _openMoji_group = "animals-nature"
+    , _openMoji_hexcode = "1F426-200D-2B1B"
+    , _openMoji_openmoji_author = "Jasmin Fassler"
+    , _openMoji_openmoji_date = "2023-10-06"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3276
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "animal-bird"
+    , _openMoji_tags = ["bird", "black", "crow", "raven", "rook"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "goose"
+    , _openMoji_emoji = "\x1FABF"
+    , _openMoji_group = "animals-nature"
+    , _openMoji_hexcode = "1FABF"
+    , _openMoji_openmoji_author = "Paul Gabriel"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3277
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "animal-bird"
+    , _openMoji_tags = ["bird", "fowl", "honk", "silly"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "frog"
     , _openMoji_emoji = "\x1F438"
     , _openMoji_group = "animals-nature"
@@ -43371,6 +43749,24 @@ openmojis = [
     , _openMoji_subgroups = "animal-marine"
     , _openMoji_tags = ["ocean", "reef"]
     , _openMoji_unicode = "14"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "jellyfish"
+    , _openMoji_emoji = "\x1FABC"
+    , _openMoji_group = "animals-nature"
+    , _openMoji_hexcode = "1FABC"
+    , _openMoji_openmoji_author = "Raluca Maniu"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3298
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "animal-marine"
+    , _openMoji_tags = ["burn", "invertebrate", "jelly", "marine", "ouch", "stinger"]
+    , _openMoji_unicode = "15"
     }
 
   , OpenMoji
@@ -43857,6 +44253,24 @@ openmojis = [
     , _openMoji_subgroups = "plant-flower"
     , _openMoji_tags = ["flower"]
     , _openMoji_unicode = "0.600000"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "hyacinth"
+    , _openMoji_emoji = "\x1FABB"
+    , _openMoji_group = "animals-nature"
+    , _openMoji_hexcode = "1FABB"
+    , _openMoji_openmoji_author = "Simon Rutsch"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3329
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "plant-flower"
+    , _openMoji_tags = ["bluebonnet", "flower", "lavender", "lupine", "snapdragon"]
+    , _openMoji_unicode = "15"
     }
 
   , OpenMoji
@@ -44757,6 +45171,42 @@ openmojis = [
     , _openMoji_subgroups = "food-vegetable"
     , _openMoji_tags = ["plant"]
     , _openMoji_unicode = "0.600000"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "ginger root"
+    , _openMoji_emoji = "\x1FADA"
+    , _openMoji_group = "food-drink"
+    , _openMoji_hexcode = "1FADA"
+    , _openMoji_openmoji_author = "Jennifer Zhu"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3382
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "food-vegetable"
+    , _openMoji_tags = ["beer", "root", "spice"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "pea pod"
+    , _openMoji_emoji = "\x1FADB"
+    , _openMoji_group = "food-drink"
+    , _openMoji_hexcode = "1FADB"
+    , _openMoji_openmoji_author = "Sonja Partheymüller"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3383
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "food-vegetable"
+    , _openMoji_tags = ["beans", "edamame", "legume", "pea", "pod", "vegetable"]
+    , _openMoji_unicode = "15"
     }
 
   , OpenMoji
@@ -52320,6 +52770,24 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "folding hand fan"
+    , _openMoji_emoji = "\x1FAAD"
+    , _openMoji_group = "objects"
+    , _openMoji_hexcode = "1FAAD"
+    , _openMoji_openmoji_author = "Anna Schneider"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3866
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "clothing"
+    , _openMoji_tags = ["cooling", "dance", "fan", "flutter", "hot", "shy"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "purse"
     , _openMoji_emoji = "\x1F45B"
     , _openMoji_group = "objects"
@@ -52569,6 +53037,24 @@ openmojis = [
     , _openMoji_subgroups = "clothing"
     , _openMoji_tags = ["boot", "clothing", "shoe", "woman"]
     , _openMoji_unicode = "0.600000"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "hair pick"
+    , _openMoji_emoji = "\x1FAAE"
+    , _openMoji_group = "objects"
+    , _openMoji_hexcode = "1FAAE"
+    , _openMoji_openmoji_author = "Linda Hartmann"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3882
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "clothing"
+    , _openMoji_tags = ["afro", "comb", "hair", "pick"]
+    , _openMoji_unicode = "15"
     }
 
   , OpenMoji
@@ -53253,6 +53739,42 @@ openmojis = [
     , _openMoji_subgroups = "musical-instrument"
     , _openMoji_tags = ["beat", "conga", "drum", "rhythm"]
     , _openMoji_unicode = "13"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "maracas"
+    , _openMoji_emoji = "\x1FA87"
+    , _openMoji_group = "objects"
+    , _openMoji_hexcode = "1FA87"
+    , _openMoji_openmoji_author = "Ben Engelhardt"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3925
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "musical-instrument"
+    , _openMoji_tags = ["instrument", "music", "percussion", "rattle", "shake"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "flute"
+    , _openMoji_emoji = "\x1FA88"
+    , _openMoji_group = "objects"
+    , _openMoji_hexcode = "1FA88"
+    , _openMoji_openmoji_author = "Christian Engler"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 3926
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "musical-instrument"
+    , _openMoji_tags = ["fife", "music", "pipe", "recorder", "woodwind"]
+    , _openMoji_unicode = "15"
     }
 
   , OpenMoji
@@ -57648,6 +58170,24 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "khanda"
+    , _openMoji_emoji = "\x1FAAF"
+    , _openMoji_group = "symbols"
+    , _openMoji_hexcode = "1FAAF"
+    , _openMoji_openmoji_author = "Katja Widmann"
+    , _openMoji_openmoji_date = "2023-10-31"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 4240
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "religion"
+    , _openMoji_tags = ["religion", "sikh"]
+    , _openMoji_unicode = "15"
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "Aries"
     , _openMoji_emoji = "\x2648"
     , _openMoji_group = "symbols"
@@ -58275,6 +58815,24 @@ openmojis = [
     , _openMoji_subgroups = "av-symbol"
     , _openMoji_tags = ["antenna", "bar", "cell", "mobile", "phone"]
     , _openMoji_unicode = "0.600000"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "wireless"
+    , _openMoji_emoji = "\x1F6DC"
+    , _openMoji_group = "symbols"
+    , _openMoji_hexcode = "1F6DC"
+    , _openMoji_openmoji_author = "Linda Hartmann"
+    , _openMoji_openmoji_date = "2023-10-25"
+    , _openMoji_openmoji_tags = [""]
+    , _openMoji_order = Just 4285
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "av-symbol"
+    , _openMoji_tags = ["computer", "internet", "network"]
+    , _openMoji_unicode = "15"
     }
 
   , OpenMoji
@@ -66126,6 +66684,258 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "reddit"
+    , _openMoji_emoji = "\xE060"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E060"
+    , _openMoji_openmoji_author = "Allison Fister"
+    , _openMoji_openmoji_date = "2023-09-28"
+    , _openMoji_openmoji_tags = ["social", "app", "discussion"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "discord"
+    , _openMoji_emoji = "\xE061"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E061"
+    , _openMoji_openmoji_author = "Allison Fister"
+    , _openMoji_openmoji_date = "2023-09-28"
+    , _openMoji_openmoji_tags = ["social", "app", "video", "voice", "chat"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "c"
+    , _openMoji_emoji = "\xE062"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E062"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "c", "programming", "language", "hexagon"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "cplusplus"
+    , _openMoji_emoji = "\xE063"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E063"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "c", "cplusplus", "plusplus", "programming", "language", "hexagon"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "csharp"
+    , _openMoji_emoji = "\xE064"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E064"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "c", "csharp", "sharp", "programming", "language", "hexagon"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "chrome canary"
+    , _openMoji_emoji = "\xE065"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E065"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "brand", "browser", "google", "chrome", "canary"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "firefox developer"
+    , _openMoji_emoji = "\xE066"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E066"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "brand", "browser", "fire", "fox", "firefox", "developer"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "firefox nightly"
+    , _openMoji_emoji = "\xE067"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E067"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "brand", "browser", "fire", "fox", "firefox", "nightly"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "javascript"
+    , _openMoji_emoji = "\xE068"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E068"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "js", "javascript", "programming", "language"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "typescript"
+    , _openMoji_emoji = "\xE069"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E069"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "ts", "typescript", "programming", "language"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "webassembly"
+    , _openMoji_emoji = "\xE06A"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E06A"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "wa", "wasm", "webassembly", "web", "assembly", "browser"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "svg"
+    , _openMoji_emoji = "\xE06B"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E06B"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "svg", "drawing", "vector", "vectorial", "drawing"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "markdown"
+    , _openMoji_emoji = "\xE06C"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E06C"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "md", "markdown", "mark", "down", "markup", "language"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "winrar"
+    , _openMoji_emoji = "\xE06D"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E06D"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["logo", "brand", "winrar", "win", "rar"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "ubuntu"
     , _openMoji_emoji = "\xE0FF"
     , _openMoji_group = "extras-openmoji"
@@ -66151,6 +66961,24 @@ openmojis = [
     , _openMoji_openmoji_author = "Alexander Müller"
     , _openMoji_openmoji_date = "2020-04-26"
     , _openMoji_openmoji_tags = ["Microsoft"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "brand"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "artstation"
+    , _openMoji_emoji = "\xF77A"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "F77A"
+    , _openMoji_openmoji_author = "Seth Falco"
+    , _openMoji_openmoji_date = "2023-09-09"
+    , _openMoji_openmoji_tags = ["art", "brand"]
     , _openMoji_order = Nothing
     , _openMoji_skintone = [""]
     , _openMoji_skintone_combination = ""
@@ -69492,6 +70320,24 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "guy fawkes mask"
+    , _openMoji_emoji = "\xE145"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E145"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["mask", "guy", "fawkes", "anonymous", "vendetta"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "objects"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "spätzlepresse"
     , _openMoji_emoji = "\xE146"
     , _openMoji_group = "extras-openmoji"
@@ -69553,6 +70399,24 @@ openmojis = [
     , _openMoji_openmoji_author = "Alexander Müller"
     , _openMoji_openmoji_date = "2020-04-19"
     , _openMoji_openmoji_tags = ["time machine", "doctor who", "police booth", "police box"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "objects"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "motorbike helmet"
+    , _openMoji_emoji = "\xE14A"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E14A"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["helmet", "motorbike", "motorcycle", "motor"]
     , _openMoji_order = Nothing
     , _openMoji_skintone = [""]
     , _openMoji_skintone_combination = ""
@@ -69895,6 +70759,24 @@ openmojis = [
     , _openMoji_openmoji_author = "Daniel Utz"
     , _openMoji_openmoji_date = "2020-06-02"
     , _openMoji_openmoji_tags = ["climate change", "Sweden", "activist", "Fridays for Future", "FFF"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "people"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = ""
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "windsurfing"
+    , _openMoji_emoji = "\xE189"
+    , _openMoji_group = "extras-openmoji"
+    , _openMoji_hexcode = "E189"
+    , _openMoji_openmoji_author = " Mostafa Hussein Omar"
+    , _openMoji_openmoji_date = " 2023-10-09"
+    , _openMoji_openmoji_tags = ["windsurfing", "watersport", "surf", "wave", "sea"]
     , _openMoji_order = Nothing
     , _openMoji_skintone = [""]
     , _openMoji_skintone_combination = ""
@@ -72516,6 +73398,24 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "aragon flag"
+    , _openMoji_emoji = "\x1F3F4\xE0065\xE0073\xE0061\xE0072\xE007F"
+    , _openMoji_group = "extras-unicode"
+    , _openMoji_hexcode = "1F3F4-E0065-E0073-E0061-E0072-E007F"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["aragon", "arago"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "subdivision-flag"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "?"
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "asturian flag"
     , _openMoji_emoji = "\x1F3F4\xE0065\xE0073\xE0061\xE0073\xE007F"
     , _openMoji_group = "extras-unicode"
@@ -72552,6 +73452,42 @@ openmojis = [
     }
 
   , OpenMoji
+    { _openMoji_annotation = "balearic islands flag"
+    , _openMoji_emoji = "\x1F3F4\xE0065\xE0073\xE0069\xE0062\xE007F"
+    , _openMoji_group = "extras-unicode"
+    , _openMoji_hexcode = "1F3F4-E0065-E0073-E0069-E0062-E007F"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["balearic", "balearic", "islands", "illes", "balears", "balears"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "subdivision-flag"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "?"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "murcia flag"
+    , _openMoji_emoji = "\x1F3F4\xE0065\xE0073\xE006D\xE0063\xE007F"
+    , _openMoji_group = "extras-unicode"
+    , _openMoji_hexcode = "1F3F4-E0065-E0073-E006D-E0063-E007F"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["murcia", "region"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "subdivision-flag"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "?"
+    }
+
+  , OpenMoji
     { _openMoji_annotation = "basque flag"
     , _openMoji_emoji = "\x1F3F4\xE0065\xE0073\xE0070\xE0076\xE007F"
     , _openMoji_group = "extras-unicode"
@@ -72559,6 +73495,24 @@ openmojis = [
     , _openMoji_openmoji_author = "Sam Hocevar"
     , _openMoji_openmoji_date = "2021-03-15"
     , _openMoji_openmoji_tags = ["basque", "ikurrina", "euskal"]
+    , _openMoji_order = Nothing
+    , _openMoji_skintone = [""]
+    , _openMoji_skintone_combination = ""
+    , _openMoji_skintone_base_emoji = ""
+    , _openMoji_skintone_base_hexcode = ""
+    , _openMoji_subgroups = "subdivision-flag"
+    , _openMoji_tags = [""]
+    , _openMoji_unicode = "?"
+    }
+
+  , OpenMoji
+    { _openMoji_annotation = "valencian community flag"
+    , _openMoji_emoji = "\x1F3F4\xE0065\xE0073\xE0076\xE0063\xE007F"
+    , _openMoji_group = "extras-unicode"
+    , _openMoji_hexcode = "1F3F4-E0065-E0073-E0076-E0063-E007F"
+    , _openMoji_openmoji_author = "Xavier Martinez"
+    , _openMoji_openmoji_date = "2023-12-04"
+    , _openMoji_openmoji_tags = ["valencian", "community", "comunitat", "valenciana", "reial", "senyera", "valencia"]
     , _openMoji_order = Nothing
     , _openMoji_skintone = [""]
     , _openMoji_skintone_combination = ""
